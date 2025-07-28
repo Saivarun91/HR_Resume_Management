@@ -1,0 +1,86 @@
+{
+    "Extracted Data": {
+        "Name": "Suvranshu Dash",
+        "Contact Details": "Bangalore, KA, IN | suvranshu.dash.795@gmail.com | +91 8637227392 | linkedin.com/in/suvranshu dash 37083b94",
+        "Summary or Objective": "Data driven Analyst with 5+ years of experience in business intelligence, pricing strategy, and process automation across logistics and tech sectors. Proven expertise in SQL, Power BI, and Python to deliver actionable insights, streamline operations, and drive profitability. Skilled in stakeholder management, ERP/CRM systems (SAP, Salesforce), and delivering strategic business impact through automation and analytics.",
+        "Skills": {
+            "Soft Skills": [
+                "Analytical & Problem Solving",
+                "Risk Analysis",
+                "Supply Chain and Warehousing",
+                "Stakeholder Management",
+                "Interpersonal Communication",
+                "Decision Making & Strategic Planning",
+                "Team Leadership & Cross Functional Collaboration",
+                "Process Optimization & Automation"
+            ],
+            "Hard Skills": [
+                "Power BI",
+                "SQL",
+                "Python",
+                "SAP",
+                "Salesforce",
+                "Tableau",
+                "Metabase",
+                "Google Analytics",
+                "AWS",
+                "JIRA",
+                "Risk Management",
+                "Agile",
+                "MS Excel",
+                "Google Sheets",
+                "AI Tools",
+                "Automation Expert"
+            ]
+        },
+        "Experience": [
+            {
+                "Title": "Deputy Manager Analytics & Pricing",
+                "Company": "Zast Logisolutions Pvt Ltd",
+                "Duration": "Aug 2024 – Present",
+                "Description": "Spearhead pricing strategy and RFQ responses, improving market win rates by 9%. Designed Power BI dashboards and created complex SQL queries to deliver real time business insights. Streamlined reporting through automation, cutting manual workload by 30% and saving 32 hours per week on billing tasks. Led cross functional collaborations like New Business Development Pipelines, Team Scorecards and Overall Business Reviews. Led end to end project initiatives by defining road maps, validating updates, and presenting progress to senior leadership. Worked with ERP/CRM systems (SAP, Salesforce) to streamline workflows and enhance data visibility."
+            },
+            {
+                "Title": "Senior Analyst, Corporate Business",
+                "Company": "Zinka Logistics Solutions Pvt Ltd",
+                "Duration": "May 2022 – Aug 2024",
+                "Description": "Created Power BI dashboards and advanced Excel reports to analyze business trends. Developed SQL queries for data extraction and validation. Collaborated with stakeholders to refine business strategies and enhance P&L impact. Managed projects, monitored updates, and presented findings to senior leadership. Drove client focused project management solutions, increasing success rates by implementing cost effective strategies and process improvements."
+            },
+            {
+                "Title": "Data Analyst",
+                "Company": "Quantum International Pvt Ltd",
+                "Duration": "Nov 2019 – Apr 2022",
+                "Description": "Conducted business requirement analysis and translated insights into strategic recommendations. Ensured data integrity across systems to facilitate accurate reporting. Developed SQL based reports and dashboards for streamlined business intelligence."
+            }
+        ],
+        "Projects": [
+            "Analyzed SAP Order to Cash (O2C) process using Celonis to detect inefficiencies and quantify business impact.",
+            "Co developed an AI powered healthcare recommendation system using Python, NLP, and ML."
+        ],
+        "Certifications": [],
+        "Education": "Bachelor of Technology, Mechanical Engineering, Institute of Technical Education C Research, Bhubaneswar (May 2017), CGPA: 8.75"
+    },
+    "ATS Score": {
+        "Total Score": 94,
+        "Breakdown": {
+            "Format Score": 8,
+            "Spelling & Grammar": 10,
+            "Summary": 10,
+            "Skills": 10,
+            "Experience": 10,
+            "Projects": 10,
+            "Certifications": 9,
+            "Education": 10,
+            "Contact Details": 10
+        }
+    },
+    "Recommendations": [
+        "Consider adding **quantifiable achievements** within each work experience bullet point to showcase the direct impact of your actions; try to include metrics and numbers to strengthen your claims.",
+        "While the resume is comprehensive, ensure that the **skills** listed are tailored to each specific job application for which you are applying, this allows you to showcase the more relevant skill sets to the role.",
+        "Although you have a section for skills, try to **incorporate your skills** in the experience and project sections to illustrate how you’ve utilized them; provide specific examples to provide context.",
+        "Expand on the **project descriptions** by detailing the technologies used, your specific role, and the outcomes achieved, providing more insight into your contributions.",
+        "Given the absence of any **certifications**, consider obtaining relevant certifications to bolster your expertise in your domain, and showcase a dedication to continuous learning, especially in current tools.",
+        "Use **action verbs** at the beginning of each bullet point in your experience section to create a more dynamic and engaging read, and also focus on results rather than just describing your duties.",
+        "Consider adding your **GPA** or any relevant **academic achievements** under the education section. This helps to present a complete picture of your academic background."
+    ]
+}

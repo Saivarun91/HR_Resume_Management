@@ -1,0 +1,179 @@
+{
+    "RESUME_RELEVANCE_SCORE": 75,
+    "ROLE_FIT_SCORE": 70,
+    "ATS_SCORE": 80,
+    "KEYWORD_MATCH_SCORE": 72,
+    "MATCHED_KEYWORDS": [
+        "Power BI",
+        "Power BI Desktop",
+        "Power BI Service",
+        "SQL",
+        "SQL Server",
+        "Excel",
+        "Dashboard",
+        "Dashboards",
+        "Reporting",
+        "Retail",
+        "Analytics",
+        "Data",
+        "Data Visualization",
+        "Forecasting",
+        "Inventory",
+        "KPI",
+        "KPIs",
+        "Communication skills",
+        "Data sources",
+        "Data model",
+        "Data modeling",
+        "Data transformation",
+        "Data analysis",
+        "Stakeholder goals",
+        "ETL",
+        "Data Warehousing",
+        "Cloud",
+        "SaaS",
+        "Visualizations"
+    ],
+    "MISSING_KEYWORDS": [
+        "Inventory Planning",
+        "Inventory Analytics",
+        "Demand Forecasting",
+        "Replenishment",
+        "Allocation",
+        "Inventory Optimization",
+        "Inventory Turnover",
+        "Sell Through",
+        "Aging Stock",
+        "Forecast Accuracy",
+        "Store Performance",
+        "Pivot Tables",
+        "Lookups",
+        "ABC Classification",
+        "EOQ",
+        "Min Max",
+        "ERP systems",
+        "NetSuite",
+        "Zoho",
+        "Unicommerce",
+        "Omnichannel Inventory",
+        "Marketplaces",
+        "FOFO franchise models",
+        "Stock Movement",
+        "Central Warehouse",
+        "Overstocked Items",
+        "Retail Inventory",
+        "Working Capital",
+        "Product Demand",
+        "Seasonality",
+        "Merchandising",
+        "Sales Teams",
+        "Regional Preferences",
+        "New Launches",
+        "Promotions",
+        "Stock Out",
+        "D2C Brands"
+    ],
+    "MISSING_SKILLS": [
+        "Pivot Tables",
+        "Lookups",
+        "Tableau",
+        "NetSuite",
+        "Zoho",
+        "Unicommerce",
+        "ERP Systems"
+    ],
+    "ROLEMATCHES": {
+        "Power BI Developer": 85,
+        "Business Intelligence Analyst": 80,
+        "Data Analyst": 78,
+        "Data Engineer": 72,
+        "Reporting Analyst": 70
+    },
+    "YEARS": 6.5,
+    "INTERVIEW_QUESTIONS": {
+        "PSYCHOMETRIC": [
+            {
+                "questions": "How do you handle tight deadlines and high-pressure situations while maintaining accuracy in your work?",
+                "answer": "I prioritize tasks based on urgency and importance, break down large tasks into smaller steps, and focus on one task at a time to ensure accuracy. I also communicate proactively with stakeholders to manage expectations and escalate any potential issues."
+            },
+            {
+                "questions": "Describe a situation where you had to adapt to a significant change in project requirements or priorities. How did you handle it?",
+                "answer": "In a previous role, the client's requirements shifted mid-project. I quickly reassessed the project scope, worked with the team to adjust our plans, and communicated the changes to the client, ensuring we still delivered a valuable solution on time."
+            },
+            {
+                "questions": "How do you approach making decisions when you have incomplete or ambiguous information?",
+                "answer": "I gather as much relevant information as possible, identify potential risks and benefits of each option, and consult with colleagues or subject matter experts to make an informed decision. I also remain flexible and willing to adjust my approach as new information becomes available."
+            }
+        ],
+        "Soft_Skills": [
+            {
+                "questions": "Describe a time when you had to explain a complex technical concept to a non-technical audience. How did you ensure they understood it?",
+                "answer": "When presenting a Power BI report to marketing stakeholders, I avoided technical jargon and focused on the key insights and their business implications. I used visuals and simple language to explain the data, ensuring they could easily understand and act on the information."
+            },
+            {
+                "questions": "Tell me about a time when you had to work with a difficult team member or resolve a conflict within a team. How did you handle it?",
+                "answer": "In a previous project, there was a disagreement on the approach to data modeling. I facilitated a discussion, listened to everyone's perspectives, and helped the team reach a consensus by highlighting the pros and cons of each option, ensuring we all felt heard and valued."
+            },
+            {
+                "questions": "Describe a time when you took initiative to improve a process or system in your workplace.",
+                "answer": "I noticed that our Power BI report refresh process was inefficient. I automated several steps using scripting and scheduling, which reduced the refresh time by 50% and freed up valuable time for the team to focus on other tasks."
+            }
+        ],
+        "Behavioral": [
+            {
+                "questions": "Tell me about a time when you faced a significant challenge in developing a Power BI report or dashboard. How did you overcome it?",
+                "answer": "Situation: I was tasked with creating a complex Power BI dashboard that required integrating data from multiple disparate sources. Task: The challenge was to ensure data consistency and accuracy across all sources. Action: I meticulously mapped out the data flows, identified and resolved data quality issues, and created robust data validation processes. Result: The dashboard was successfully delivered on time, providing stakeholders with a clear and accurate view of key business metrics."
+            },
+            {
+                "questions": "Describe a situation where you had to debug and optimize a slow-performing Power BI report. What steps did you take?",
+                "answer": "Situation: A Power BI report was performing very slowly, impacting user experience. Task: My task was to identify and resolve the performance bottlenecks. Action: I used the Power BI Performance Analyzer to identify slow-running DAX queries, optimized the data model, and implemented aggregations. Result: The report performance improved by 40%, significantly enhancing user satisfaction."
+            },
+            {
+                "questions": "Tell me about a time when you had to work under pressure to meet a tight deadline for a critical report. How did you manage your time and priorities?",
+                "answer": "Situation: A key stakeholder requested a critical Power BI report with a very tight deadline. Task: I had to ensure the report was delivered on time without compromising quality. Action: I prioritized the most important requirements, broke down the project into smaller tasks, and worked efficiently to complete each step. Result: The report was delivered on time, meeting all requirements and providing valuable insights to the stakeholder."
+            }
+        ],
+        "Technical_easy": [
+            {
+                "questions": "What is Power BI, and what are its main components?",
+                "answer": "Power BI is a business analytics tool by Microsoft. Its main components include Power BI Desktop (for report development), Power BI Service (for publishing and sharing reports), and Power BI Mobile (for viewing reports on mobile devices)."
+            },
+            {
+                "questions": "What is DAX, and why is it important in Power BI?",
+                "answer": "DAX (Data Analysis Expressions) is a formula language used in Power BI to create calculated columns, measures, and custom tables. It is important because it allows you to perform complex calculations and data analysis within Power BI."
+            },
+            {
+                "questions": "How do you connect to different data sources in Power BI?",
+                "answer": "In Power BI Desktop, you can use the 'Get Data' option to connect to various data sources such as SQL Server, Excel, CSV files, APIs, and cloud-based services. You can also use Power BI Dataflows to ingest data in the cloud"
+            }
+        ],
+        "Technical_medium": [
+            {
+                "questions": "Explain the difference between calculated columns and measures in Power BI.",
+                "answer": "Calculated columns are computed at the data model level and stored in the data model. They are evaluated for each row in a table. Measures are calculated on the fly based on the context of the report and are not stored in the data model. Measures are typically used for aggregations and calculations based on filters and slicers."
+            },
+            {
+                "questions": "How do you optimize a Power BI report for performance?",
+                "answer": "To optimize a Power BI report, you can reduce the amount of data loaded, optimize DAX queries, use aggregations, remove unnecessary visuals, and optimize the data model relationships. Using the Performance Analyzer is key."
+            },
+            {
+                "questions": "Describe the process of implementing Row Level Security (RLS) in Power BI.",
+                "answer": "To implement RLS in Power BI, you define roles and filters in Power BI Desktop, then publish the report to Power BI Service. In Power BI Service, you assign users to the defined roles, ensuring they only see the data they are authorized to view."
+            }
+        ],
+        "Technical_hard": [
+            {
+                "questions": "How would you design a Power BI solution to handle a large dataset with millions of rows?",
+                "answer": "For large datasets, I would use DirectQuery mode to leverage the processing power of the underlying data source. I would also implement aggregations to pre-aggregate data at a higher level, optimize DAX queries, and use incremental refresh to load only the latest data."
+            },
+            {
+                "questions": "Explain the difference between Import mode, DirectQuery mode, and Composite mode in Power BI, and when would you use each?",
+                "answer": "Import mode imports data into the Power BI data model, providing fast performance but requiring regular refreshes. DirectQuery mode queries the data source directly, ensuring real-time data but potentially slower performance. Composite mode allows you to combine both Import and DirectQuery modes in a single report, providing flexibility in data access and performance."
+            },
+            {
+                "questions": "Describe a scenario where you would use Power BI Dataflows, and how they can improve data management and reporting.",
+                "answer": "I would use Power BI Dataflows to create reusable data preparation and transformation logic in the cloud. Dataflows allow you to centralize data transformation processes, improve data quality, and enable self-service BI by providing a consistent data source for multiple reports."
+            }
+        ]
+    }
+}

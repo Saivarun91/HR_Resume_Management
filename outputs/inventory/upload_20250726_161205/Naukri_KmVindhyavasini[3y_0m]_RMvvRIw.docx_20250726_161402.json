@@ -1,0 +1,183 @@
+{
+    "RESUME_RELEVANCE_SCORE": 65,
+    "ROLE_FIT_SCORE": 60,
+    "ATS_SCORE": 70,
+    "KEYWORD_MATCH_SCORE": 68,
+    "MATCHED_KEYWORDS": [
+        "data analysis",
+        "reporting",
+        "data visualization",
+        "Power BI",
+        "SQL",
+        "Python",
+        "data sets",
+        "dashboards",
+        "KPIs",
+        "forecasting",
+        "Excel",
+        "inventory",
+        "analytics",
+        "retail",
+        "data driven decision making",
+        "insights",
+        "reporting",
+        "excel",
+        "SQL",
+        "KPI",
+        "data analysis",
+        "insights"
+    ],
+    "MISSING_KEYWORDS": [
+        "Inventory Planning",
+        "demand forecasts",
+        "optimal inventory levels",
+        "online channels",
+        "retail channels",
+        "replenishments",
+        "actionable insights",
+        "working capital efficiency",
+        "SKU",
+        "store",
+        "channel level",
+        "historical sales",
+        "seasonality",
+        "marketing inputs",
+        "merchandising",
+        "sales teams",
+        "new launches",
+        "promotions",
+        "regional preferences",
+        "replenishment rules",
+        "min max levels",
+        "FOFO franchise",
+        "stock movement",
+        "timely transfers",
+        "central warehouse",
+        "stock",
+        "reorders",
+        "high performing SKUs",
+        "Inventory Optimization",
+        "inventory turnover",
+        "sell through",
+        "aging stock",
+        "overstocked items",
+        "forecast accuracy",
+        "store performance",
+        "reporting adherence",
+        "usage",
+        "omnichannel inventory",
+        "marketplaces",
+        "ABC classification",
+        "EOQ",
+        "ERP systems",
+        "NetSuite",
+        "Zoho",
+        "Unicommerce",
+        "Jewelry",
+        "fashion retail",
+        "FMCG",
+        "D2C brands"
+    ],
+    "MISSING_SKILLS": [
+        "Forecasting techniques",
+        "Strong analytical thinking",
+        "Excellent communication skills",
+        "Cross functional collaboration",
+        "Advanced Excel (pivot tables, lookups, modeling)",
+        "Power BI/Tableau"
+    ],
+    "ROLEMATCHES": {
+        "Data Analyst": 85,
+        "Business Intelligence Analyst": 80,
+        "Data Engineer": 75,
+        "Analytics Consultant": 70,
+        "Reporting Analyst": 65
+    },
+    "YEARS": 2.5,
+    "INTERVIEW_QUESTIONS": {
+        "PSYCHOMETRIC": [
+            {
+                "questions": "Describe a time when you had to make a decision with incomplete information. How did you approach it, and what was the outcome?",
+                "answer": "The ideal answer will demonstrate a structured approach to decision-making under uncertainty, such as gathering available data, assessing risks, and making a calculated decision. The candidate should highlight their ability to remain adaptable and learn from the outcome."
+            },
+            {
+                "questions": "How do you handle stress and pressure in a fast-paced work environment?",
+                "answer": "Look for answers that showcase coping mechanisms, such as time management, prioritization, seeking support, and maintaining a positive attitude. The candidate should emphasize their ability to remain productive under pressure."
+            },
+            {
+                "questions": "What is your preferred approach to problem-solving, and can you provide an example of a particularly challenging problem you faced and how you resolved it?",
+                "answer": "The candidate should articulate a structured approach, such as defining the problem, gathering data, analyzing potential solutions, and implementing the chosen solution. The example should demonstrate critical thinking and perseverance."
+            }
+        ],
+        "Soft_Skills": [
+            {
+                "questions": "Describe a time when you had to collaborate with a team to achieve a goal. What was your role, and how did you contribute to the team's success?",
+                "answer": "The candidate should illustrate their ability to work effectively in a team, highlighting their communication, collaboration, and problem-solving skills. The answer should demonstrate their understanding of teamwork dynamics."
+            },
+            {
+                "questions": "How do you handle conflicts or disagreements with colleagues or stakeholders?",
+                "answer": "The candidate should explain their approach to conflict resolution, such as active listening, empathy, and finding common ground. The answer should demonstrate their ability to navigate disagreements constructively."
+            },
+            {
+                "questions": "Explain how you communicate complex technical information to non-technical stakeholders.",
+                "answer": "The ideal response should showcase the ability to simplify complex topics, use clear language, and tailor the message to the audience. The candidate should emphasize the importance of effective communication for understanding and alignment."
+            }
+        ],
+        "Behavioral": [
+            {
+                "questions": "Tell me about a time when you had to learn a new skill or technology quickly to meet a project deadline. What steps did you take, and what was the result?",
+                "answer": "The candidate should describe the situation, the specific task, the actions they took to acquire the new skill or technology (e.g., online courses, tutorials, mentoring), and the positive outcome of completing the project on time."
+            },
+            {
+                "questions": "Describe a time when you identified a problem or inefficiency in a process and took the initiative to improve it. What was the situation, your actions, and the result?",
+                "answer": "The candidate should outline the specific process, the problem they identified, the steps they took to analyze and improve the process, and the resulting efficiency gains or cost savings."
+            },
+            {
+                "questions": "Share an example of a time when you had to adapt to a significant change in your work environment or project requirements. How did you handle it, and what did you learn?",
+                "answer": "The candidate should describe the change, their initial reaction, the steps they took to adapt (e.g., seeking information, adjusting priorities, acquiring new skills), and the positive outcome of successfully navigating the change."
+            }
+        ],
+        "Technical_easy": [
+            {
+                "questions": "What is the difference between a measure and a calculated column in Power BI?",
+                "answer": "A measure is a calculation performed at query time, while a calculated column is computed during data refresh and stored in the data model."
+            },
+            {
+                "questions": "Can you explain the purpose of normalization in SQL databases?",
+                "answer": "Normalization minimizes redundancy and dependency by dividing databases into tables and defining relationships. This helps to isolate data so that amendments to the tables can be made easily."
+            },
+            {
+                "questions": "What are the key data structures available in Python?",
+                "answer": "Common data structures include lists, tuples, dictionaries, and sets, each with unique properties and use cases."
+            }
+        ],
+        "Technical_medium": [
+            {
+                "questions": "How would you optimize a slow-running SQL query to improve its performance?",
+                "answer": "Techniques include indexing frequently queried columns, rewriting the query to avoid full table scans, and using query hints to guide the optimizer."
+            },
+            {
+                "questions": "Describe a scenario where you would use Python's Pandas library for data manipulation. What functions would you use, and why?",
+                "answer": "The answer should include examples such as cleaning, transforming, and analyzing data using functions like groupby, pivot_table, and merge."
+            },
+            {
+                "questions": "How can you ensure data quality and consistency when developing Power BI dashboards that integrate data from multiple sources?",
+                "answer": "The answer should discuss ETL processes, data validation techniques, and the use of Power BI's data profiling tools."
+            }
+        ],
+        "Technical_hard": [
+            {
+                "questions": "Design a data model for an inventory management system for a retail chain, including key entities, attributes, and relationships.",
+                "answer": "The answer should include entities like products, stores, inventory levels, and transactions, with appropriate attributes and relationships to support inventory tracking and reporting."
+            },
+            {
+                "questions": "You are tasked with creating a Power BI dashboard to forecast product demand based on historical sales data and external factors like seasonality and promotions. How would you approach this project, and what analytical techniques would you use?",
+                "answer": "The answer should include steps like data collection, feature engineering, model selection (e.g., time series analysis, regression), and dashboard design to visualize forecasts and key drivers."
+            },
+            {
+                "questions": "How would you implement a data pipeline using Python to automate the extraction, transformation, and loading (ETL) of data from various sources into a data warehouse?",
+                "answer": "The answer should describe the components of the pipeline, the tools and libraries used (e.g., Apache Airflow, Pandas, SQLAlchemy), and the steps for ensuring data quality and scalability."
+            }
+        ]
+    }
+}

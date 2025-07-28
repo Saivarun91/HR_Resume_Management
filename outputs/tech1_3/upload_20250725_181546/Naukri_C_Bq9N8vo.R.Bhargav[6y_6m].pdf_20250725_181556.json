@@ -1,0 +1,155 @@
+{
+    "RESUME_RELEVANCE_SCORE": 70,
+    "ROLE_FIT_SCORE": 65,
+    "ATS_SCORE": 75,
+    "KEYWORD_MATCH_SCORE": 80,
+    "MATCHED_KEYWORDS": [
+        "inventory",
+        "planning",
+        "analytics",
+        "Power BI",
+        "Excel",
+        "reporting",
+        "dashboards",
+        "forecast",
+        "retail",
+        "online",
+        "channels",
+        "replenishment",
+        "warehouse",
+        "inventory levels",
+        "inventory availability",
+        "marketplaces",
+        "forecasting techniques",
+        "analytical skills",
+        "attention to detail",
+        "communication skills",
+        "collaboration",
+        "SQL",
+        "sales",
+        "marketing",
+        "stock",
+        "stock movement",
+        "inventory turnover",
+        "aging stock",
+        "store performance",
+        "data",
+        "data sources",
+        "data model",
+        "KPI",
+        "security",
+        "supply chain"
+    ],
+    "MISSING_KEYWORDS": [
+        "SKU",
+        "FOFO franchise",
+        "merchandising",
+        "min max levels",
+        "ABC classification",
+        "EOQ",
+        "fill rate",
+        "stock out",
+        "overstock",
+        "omnichannel inventory",
+        "D2C brands",
+        "jewelry",
+        "fashion retail",
+        "FMCG",
+        "NetSuite",
+        "Zoho",
+        "Unicommerce",
+        "ERP systems"
+    ],
+    "MISSING_SKILLS": [
+        "forecasting techniques",
+        "SQL"
+    ],
+    "INTERVIEW_QUESTIONS": {
+        "PSYCHOMETRIC": [
+            {
+                "questions": "Describe a situation where you had to make a quick decision with limited information in an inventory planning context. What was your approach, and what was the outcome?",
+                "answer": "The ideal answer should demonstrate the candidate’s ability to assess risk, make informed judgments under pressure, and adapt to changing circumstances. Look for examples where they prioritized effectively and considered the potential impact of their decisions."
+            },
+            {
+                "questions": "How do you handle ambiguity and uncertainty when forecasting demand for new or seasonal products?",
+                "answer": "The candidate should showcase their adaptability and resourcefulness by discussing how they use data-driven insights, market research, and collaboration with cross-functional teams to navigate uncertainty. Emphasize their ability to iterate and refine forecasts based on real-time feedback."
+            },
+            {
+                "questions": "Share an experience where you had to challenge a forecast or inventory plan proposed by another team. How did you approach the situation, and what was the resolution?",
+                "answer": "The response should highlight their critical thinking, diplomacy, and communication skills. They should demonstrate their ability to present a well-reasoned argument supported by data, while also being open to alternative perspectives and collaborative problem-solving."
+            }
+        ],
+        "Soft_Skills": [
+            {
+                "questions": "Describe a time when you had to collaborate with a team to resolve a complex inventory issue. What was your role, and how did you contribute to the solution?",
+                "answer": "The candidate should highlight their ability to work effectively within a team, communicate clearly, and leverage diverse perspectives to achieve a common goal. Look for examples where they took initiative, facilitated discussions, and helped drive consensus."
+            },
+            {
+                "questions": "How do you ensure that your inventory plans align with the overall business strategy and goals?",
+                "answer": "The ideal answer will demonstrate the candidate's understanding of how inventory management impacts broader business objectives. They should describe how they collaborate with leadership and other departments to ensure that their plans support revenue growth, cost optimization, and customer satisfaction."
+            },
+            {
+                "questions": "Explain how you communicate complex inventory data and insights to non-technical stakeholders.",
+                "answer": "The candidate should illustrate their ability to translate data into actionable insights that are easily understood by a diverse audience. They should emphasize the importance of clear and concise communication, using visual aids and storytelling to convey key messages."
+            }
+        ],
+        "Behavioral": [
+            {
+                "questions": "Tell me about a time when you identified a significant inefficiency in the inventory planning process and took steps to improve it. What was the situation, what actions did you take, and what was the result?",
+                "answer": "Look for a structured response using the STAR method (Situation, Task, Action, Result). The candidate should highlight their problem-solving skills, initiative, and ability to drive process improvements that positively impact inventory performance."
+            },
+            {
+                "questions": "Describe a situation where you had to manage a sudden increase or decrease in demand for a particular product. What strategies did you employ to balance inventory levels and minimize disruptions?",
+                "answer": "The candidate should demonstrate their ability to respond effectively to unexpected events, think strategically, and implement contingency plans. Emphasize their ability to analyze data, communicate with stakeholders, and make timely decisions to mitigate risks."
+            },
+            {
+                "questions": "Share an example of a time when you had to make a difficult trade-off between inventory availability and working capital efficiency. What factors did you consider, and how did you arrive at a decision?",
+                "answer": "The response should showcase the candidate's ability to weigh competing priorities, analyze the financial implications of inventory decisions, and make informed judgments that balance short-term and long-term objectives."
+            }
+        ],
+        "Technical": {
+            "easy": [
+                {
+                    "questions": "Explain the difference between a min-max inventory system and a periodic review system. What are the advantages and disadvantages of each?",
+                    "answer": "The candidate should demonstrate a basic understanding of different inventory control methods. Min-max systems trigger replenishments when inventory levels fall below a minimum threshold, while periodic review systems involve regularly assessing inventory levels at set intervals. Min-max systems are better suited for items with stable demand, while periodic review systems are more appropriate for items with fluctuating demand."
+                },
+                {
+                    "questions": "What is ABC classification, and how is it used in inventory management?",
+                    "answer": "The candidate should explain that ABC classification is a method of categorizing inventory items based on their value and importance. A items are the most valuable and require the most attention, C items are the least valuable and require less attention, and B items fall in between."
+                },
+                {
+                    "questions": "How do you calculate inventory turnover ratio, and what does it indicate?",
+                    "answer": "The candidate should know that inventory turnover ratio is calculated by dividing the cost of goods sold by the average inventory level. It indicates how efficiently a company is managing its inventory. A higher turnover ratio suggests that inventory is being sold quickly, while a lower ratio may indicate slow-moving or obsolete inventory."
+                }
+            ],
+            "medium": [
+                {
+                    "questions": "Describe how you would use Power BI or Excel to build a dashboard for monitoring inventory health. What key metrics would you include, and how would you visualize them?",
+                    "answer": "The candidate should demonstrate their ability to use data visualization tools to create informative dashboards. Key metrics might include inventory turnover, sell-through rate, stock-out rate, and aging stock. They should explain how they would use charts, graphs, and tables to present the data in a clear and actionable way."
+                },
+                {
+                    "questions": "Explain how you would use forecasting techniques like moving averages or exponential smoothing to predict future demand for a product. What are the limitations of these methods, and how would you address them?",
+                    "answer": "The candidate should understand the basics of time series forecasting and be able to explain how these methods work. They should also be aware of the limitations of these methods, such as their inability to account for external factors or sudden changes in demand. They should discuss how they would use additional data and techniques to improve forecast accuracy."
+                },
+                {
+                    "questions": "How would you use SQL to query inventory data and identify slow-moving or overstocked items? Can you provide an example query?",
+                    "answer": "The candidate should demonstrate their SQL skills by providing an example query that retrieves inventory data, calculates metrics like days of supply, and identifies items that have not been sold in a certain period or have exceeded a maximum inventory level."
+                }
+            ],
+            "hard": [
+                {
+                    "questions": "Design an inventory planning model for a retail chain with multiple stores and an online channel. How would you allocate inventory across different locations, and how would you handle returns and exchanges?",
+                    "answer": "This question requires the candidate to think holistically about inventory management in a complex environment. They should discuss factors like demand variability, lead times, transportation costs, and customer service levels. They should also address how they would handle returns and exchanges to minimize losses and maximize customer satisfaction."
+                },
+                {
+                    "questions": "How would you use machine learning techniques to improve demand forecasting accuracy? What data would you need, and what algorithms would you consider using?",
+                    "answer": "The candidate should demonstrate their knowledge of machine learning and its applications in inventory planning. They should discuss how they would use historical sales data, marketing data, and other relevant data to train a machine learning model to predict future demand. They should also explain the advantages and disadvantages of different algorithms and how they would evaluate the model's performance."
+                },
+                {
+                    "questions": "Explain how you would integrate inventory planning with other supply chain functions like procurement, warehousing, and transportation. How would you use data and technology to improve visibility and coordination across the supply chain?",
+                    "answer": "The candidate should demonstrate their understanding of the interconnectedness of supply chain functions and how inventory planning plays a crucial role in optimizing overall supply chain performance. They should discuss how they would use data and technology to improve visibility, communication, and collaboration across the supply chain, enabling better decision-making and faster response times."
+                }
+            ]
+        }
+    }
+}

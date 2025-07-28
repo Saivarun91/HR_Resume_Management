@@ -1,0 +1,81 @@
+{
+    "Extracted Data": {
+        "Name": "Simran Gupta",
+        "Contact Details": "8376001582, simran.gupta97.sg@gmail.com, Bangalore",
+        "Summary or Objective": "Business Intelligence & Analytics driving sales strategy, inventory optimization, and campaign performance across high impact categories like Phones and TVs. Skilled in forecasting, segmentation, A/B testing, and data modeling, delivering data backed actionable insights. Adept at enabling demand driven planning, improving conversion funnels, and supporting strategic decisions across Sales, GTM, and Supply Chain in fast paced e commerce environments.",
+        "Skills": {
+            "Soft Skills": [
+                "Sales Strategy",
+                "Pricing",
+                "Category Management"
+            ],
+            "Hard Skills": [
+                "SQL",
+                "Python",
+                "Power BI",
+                "Excel",
+                "Google Analytics",
+                "Marketing Mix Modeling",
+                "Time Series Forecasting",
+                "A/B Testing"
+            ]
+        },
+        "Experience": [
+            {
+                "Title": "Analytics Manager",
+                "Company": "Xiaomi India",
+                "Duration": "May 2021 – Present",
+                "Description": "Led upsell campaigns during the festive season by segmenting 50K+ users using K Means clustering on behavioral and transaction data; drove 3 Cr+ incremental revenue Developed a dynamic stocking algorithm to identify real time sell in and sell through gaps, replacing static monthly planning and improving product availability in high demand zones by 12%+ Enabled 2Mn+ monthly sales by delivering business insights on product placement, OOS risk, competition benchmarking, and distributor profiling to guide sales and trade marketing decisions Optimized conversion rate on e commerce platform through A/B testing, boosting conversion rate by 40%, CTR by 15%, and session duration by 10% Built time series forecasting models to project quarterly sales and inventory with 94% accuracy, reducing inventory overhang and improving replenishment planning Created an inventory risk framework to flag and liquidate slow moving SKUs, helping reduce aging stock by 22% over 2 quarters through channel specific liquidation strategies"
+            },
+            {
+                "Title": "Data Science Associate",
+                "Company": "Gain Insights Solutions",
+                "Duration": "Aug 2020 – March 2021",
+                "Description": "Marketing Mix Model: Optimized marketing impacting the bottom line of a prominent CPG client. Identified the key drivers of volume uplift, assessing the ROI for each marketing channel, and provided optimization and simulation strategies via Multivariate Regression Delved into the impact of price reductions, competitor s prices and promotional activities on sales"
+            },
+            {
+                "Title": "Equity Research Analyst",
+                "Company": "Kotak Securities",
+                "Duration": "May 2019 – July 2019",
+                "Description": "Involved in equity research and industrial analysis and making research projects of the assigned companies. Exposed to other broking and wealth products of Kotak Securities."
+            },
+            {
+                "Title": "Credit Processor Analyst",
+                "Company": "Kotak Mahindra Bank",
+                "Duration": "June 2017 – July 2017",
+                "Description": "Conducted a study to understand the financial data analysis of SME customers of Kotak Mahindra Bank. Worked with a team that assessed the credit worthiness and loan limit of an individual or company."
+            }
+        ],
+        "Projects": [],
+        "Certifications": [],
+        "Education": [
+            "M.A Economics, Madras School of Economics, 2020",
+            "B.A Economics, Miranda House, Delhi University, 2018",
+            "Class XII, Nirmala Convent School, ISC, 2015",
+            "Class X, Nirmala Convent School, ICSE, 2013"
+        ]
+    },
+    "ATS Score": {
+        "Total Score": 88,
+        "Breakdown": {
+            "Format Score": 10,
+            "Spelling & Grammar": 10,
+            "Summary": 10,
+            "Skills": 10,
+            "Experience": 10,
+            "Projects": 5,
+            "Certifications": 5,
+            "Education": 10,
+            "Contact Details": 10
+        }
+    },
+    "Recommendations": [
+        "Add a **Projects** section to showcase practical application of skills and experience; this will demonstrate your ability to deliver tangible results.",
+        "Include any relevant **Certifications** to highlight expertise and commitment to professional development, especially those related to analytics or business intelligence.",
+        "Consider quantifying achievements in previous roles with specific **data and metrics** to demonstrate the impact of your work more clearly; focus on ROI and efficiency gains.",
+        "Tailor the **summary** to align more closely with the specific requirements of target job descriptions, highlighting skills and experiences most relevant to the roles you're applying for.",
+        "Ensure that all **contact information** is up-to-date and professionally presented; include a LinkedIn profile URL to enhance your online presence.",
+        "Consider adding **volunteer experience or personal projects** to show your skills.",
+        "Review your resume for **consistent formatting and grammar** mistakes."
+    ]
+}

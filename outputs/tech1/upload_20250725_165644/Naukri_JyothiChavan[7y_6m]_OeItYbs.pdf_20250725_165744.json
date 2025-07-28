@@ -1,0 +1,222 @@
+{
+    "RESUME_RELEVANCE_SCORE": 55,
+    "ROLE_FIT_SCORE": 60,
+    "ATS_SCORE": 57,
+    "KEYWORD_MATCH_SCORE": 58,
+    "MATCHED_KEYWORDS": [
+        "Analytics",
+        "Excel",
+        "Reporting",
+        "forecasting",
+        "inventory",
+        "KPIs",
+        "sales",
+        "marketing",
+        "retail",
+        "business intelligence",
+        "data analysis",
+        "Power BI",
+        "Tableau",
+        "Communication Skills",
+        "ERP",
+        "store"
+    ],
+    "MISSING_KEYWORDS": [
+        "Demand Forecasting",
+        "Inventory Optimization",
+        "ABC classification",
+        "EOQ",
+        "Stock out",
+        "overstock",
+        "NetSuite",
+        "Zoho",
+        "Unicommerce",
+        "omnichannel inventory",
+        "min max levels",
+        "replenishment rules"
+    ],
+    "MISSING_SKILLS": [
+        "Demand Forecasting",
+        "Inventory Optimization",
+        "ABC classification",
+        "EOQ",
+        "NetSuite",
+        "Zoho",
+        "Unicommerce"
+    ],
+    "RESUME_TIPS": [
+        "In your work experience, explicitly mention experience with **demand forecasting** techniques. Detail how you used historical sales data, seasonality, and marketing inputs to predict product demand. Quantify the accuracy of your forecasts to demonstrate impact; for example, \"Improved forecast accuracy by **15%** using **time series analysis**.\"",
+        "Add a section on **Inventory Optimization** to showcase your skills in tracking inventory turnover, sell-through rates, and aging stock. Provide specific examples of how you identified and resolved slow-moving and overstocked items, quantifying the impact in terms of reduced holding costs or improved cash flow. Mention specific tools used such as **ABC classification**.",
+        "Under the Skills section, incorporate knowledge of inventory planning logic, specifically mentioning **ABC classification** and **EOQ (Economic Order Quantity)**. Explain how you have practically applied these techniques in previous roles to optimize inventory levels and reduce costs. For instance, \"Implemented **ABC classification** to prioritize inventory management efforts, resulting in a **10% reduction in carrying costs**.\"",
+        "Include experience with specific ERP systems used for inventory management such as **NetSuite**, **Zoho**, or **Unicommerce**. Describe how you utilized these systems for tasks like replenishment planning, order management, and inventory tracking. Detail any custom reports or dashboards you created within these systems to provide insights into inventory performance.",
+        "Showcase your experience with omnichannel inventory management in the context of retail and online channels. Provide specific examples of how you managed inventory across multiple channels to ensure availability while minimizing excess stock. Quantify the benefits, such as reduced stockouts or improved order fulfillment rates. Mention using **SQL** to analyze cross channel data.",
+        "Add details about defining and managing **min max levels** and **replenishment rules** for stores. Provide examples of how you tailored these parameters based on factors like store size, location, and sales volume. Quantify the impact, such as reduced stockouts or improved inventory turnover.",
+        "In your current role, describe how you monitor stock movement and initiate timely transfers from the central warehouse to optimize inventory distribution. Provide metrics to demonstrate the efficiency of the transfers, such as reduced lead times or lower transportation costs. Mention any experience with **WMS (Warehouse Management Systems)**.",
+        "Quantify improvements in **KPIs** such as **Inventory turnover ratio**, **Store fill rate**, **Stock out % and overstock %**. For each KPI, describe the previous and improved states, the strategies you implemented to drive the improvement, and any tools or techniques you used.",
+        "Highlight any experience with implementing or improving **demand forecasting** processes. Detail the forecasting models you used (e.g., time series, regression), the data sources you relied on, and the steps you took to validate and refine your forecasts. Quantify the impact of your forecasting efforts, such as reduced stockouts or improved inventory turnover.",
+        "Describe how you have collaborated with merchandising and sales teams to adjust forecasts for new launches, promotions, and regional preferences. Provide specific examples of how you integrated their feedback into your forecasting models, and quantify the resulting improvements in forecast accuracy and inventory management."
+    ],
+    "COURSE_RECOMMENDATIONS": {
+        "Demand Forecasting": [
+            {
+                "COURSE_NAME": "Demand Forecasting: Pathways to Predictable Supply Chains",
+                "PLATFORM": "Coursera",
+                "DESCRIPTION": "Learn demand forecasting techniques to optimize supply chains and improve decision-making.",
+                "DIFFICULTY": "Intermediate",
+                "COURSE_LINK": "https://www.coursera.org/learn/demand-forecasting"
+            },
+            {
+                "COURSE_NAME": "Supply Chain Analytics",
+                "PLATFORM": "edX",
+                "DESCRIPTION": "Master data-driven approaches to enhance supply chain management and forecasting accuracy.",
+                "DIFFICULTY": "Advanced",
+                "COURSE_LINK": "https://www.edx.org/professional-certificate/mitx-supply-chain-analytics"
+            },
+            {
+                "COURSE_NAME": "Demand Forecasting with Excel",
+                "PLATFORM": "YouTube",
+                "DESCRIPTION": "A free tutorial on using Excel for effective demand forecasting.",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://www.youtube.com/watch?v=fgw-U2-FVNc"
+            }
+        ],
+        "Inventory Optimization": [
+            {
+                "COURSE_NAME": "Inventory Management: How to Optimize Inventory",
+                "PLATFORM": "Coursera",
+                "DESCRIPTION": "Learn how to minimize inventory costs and maximize service levels through effective inventory management.",
+                "DIFFICULTY": "Intermediate",
+                "COURSE_LINK": "https://www.coursera.org/lecture/wharton-operations/inventory-management-how-to-optimize-inventory-zTVzx"
+            },
+            {
+                "COURSE_NAME": "Supply Chain Planning",
+                "PLATFORM": "Udemy",
+                "DESCRIPTION": "Optimize your supply chain planning and inventory management using best practices and analytics.",
+                "DIFFICULTY": "Advanced",
+                "COURSE_LINK": "https://www.udemy.com/course/supply-chain-planning/"
+            },
+            {
+                "COURSE_NAME": "Inventory Management Fundamentals",
+                "PLATFORM": "YouTube",
+                "DESCRIPTION": "A free introductory course on the fundamentals of inventory management.",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://www.youtube.com/watch?v=AKktm9j-bWE"
+            }
+        ],
+        "ABC classification": [
+            {
+                "COURSE_NAME": "Inventory Control: ABC Analysis & Cycle Counting",
+                "PLATFORM": "Udemy",
+                "DESCRIPTION": "Master inventory control techniques, including ABC analysis and cycle counting.",
+                "DIFFICULTY": "Intermediate",
+                "COURSE_LINK": "https://www.udemy.com/course/inventory-control-abc-analysis-cycle-counting/"
+            },
+            {
+                "COURSE_NAME": "Supply Chain Management Specialization",
+                "PLATFORM": "Coursera",
+                "DESCRIPTION": "Learn how to apply ABC classification and other techniques to optimize supply chains.",
+                "DIFFICULTY": "Advanced",
+                "COURSE_LINK": "https://www.coursera.org/specializations/supply-chain-management"
+            },
+            {
+                "COURSE_NAME": "ABC Analysis in Inventory Management",
+                "PLATFORM": "YouTube",
+                "DESCRIPTION": "A free guide on using ABC analysis to manage inventory effectively.",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://www.youtube.com/watch?v=zJ8AUj2R0vI"
+            }
+        ],
+        "EOQ": [
+            {
+                "COURSE_NAME": "Inventory Management: EOQ (Economic Order Quantity)",
+                "PLATFORM": "Udemy",
+                "DESCRIPTION": "Understand and apply the EOQ formula for cost-effective inventory management.",
+                "DIFFICULTY": "Intermediate",
+                "COURSE_LINK": "https://www.udemy.com/course/inventory-management-eoq-economic-order-quantity/"
+            },
+            {
+                "COURSE_NAME": "Supply Chain Analytics: EOQ and Reorder Point",
+                "PLATFORM": "Coursera",
+                "DESCRIPTION": "Learn how to optimize inventory using analytics, including EOQ and reorder point concepts.",
+                "DIFFICULTY": "Advanced",
+                "COURSE_LINK": "https://www.coursera.org/lecture/wharton-operations/economic-order-quantity-eoq-and-reorder-point-part-1-IucdI"
+            },
+            {
+                "COURSE_NAME": "EOQ (Economic Order Quantity) Explained",
+                "PLATFORM": "YouTube",
+                "DESCRIPTION": "A free video explaining the concept and calculation of EOQ.",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://www.youtube.com/watch?v=AfQMj7LmGjc"
+            }
+        ],
+        "NetSuite": [
+            {
+                "COURSE_NAME": "NetSuite ERP Essentials",
+                "PLATFORM": "Udemy",
+                "DESCRIPTION": "Learn the fundamentals of NetSuite ERP, including modules for inventory and supply chain management.",
+                "DIFFICULTY": "Intermediate",
+                "COURSE_LINK": "https://www.udemy.com/course/netsuite-erp-essentials/"
+            },
+            {
+                "COURSE_NAME": "NetSuite Inventory Management",
+                "PLATFORM": "Coursera",
+                "DESCRIPTION": "Master inventory management within NetSuite with practical examples and best practices.",
+                "DIFFICULTY": "Advanced",
+                "COURSE_LINK": "https://www.coursera.org/lecture/netsuite-erp/netsuite-inventory-management-m0Q6X"
+            },
+            {
+                "COURSE_NAME": "NetSuite Tutorial for Beginners",
+                "PLATFORM": "YouTube",
+                "DESCRIPTION": "A free tutorial series to get started with NetSuite, including basic inventory functionalities.",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://www.youtube.com/watch?v=dlUcLyrQG0o"
+            }
+        ],
+        "Zoho": [
+            {
+                "COURSE_NAME": "Zoho Inventory Masterclass",
+                "PLATFORM": "Udemy",
+                "DESCRIPTION": "Become an expert in Zoho Inventory and learn to optimize inventory management processes.",
+                "DIFFICULTY": "Intermediate",
+                "COURSE_LINK": "https://www.udemy.com/course/zoho-inventory-masterclass/"
+            },
+            {
+                "COURSE_NAME": "Zoho CRM Inventory Management",
+                "PLATFORM": "Skillshare",
+                "DESCRIPTION": "Integrate Zoho CRM with Inventory Management to improve operations and efficiency.",
+                "DIFFICULTY": "Advanced",
+                "COURSE_LINK": "https://www.skillshare.com/en/classes/Zoho-CRM-Inventory-Management/1672266344"
+            },
+            {
+                "COURSE_NAME": "Zoho Inventory Tutorial",
+                "PLATFORM": "YouTube",
+                "DESCRIPTION": "A free tutorial on setting up and using Zoho Inventory.",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://www.youtube.com/watch?v=tE9jM-KzFGY"
+            }
+        ],
+        "Unicommerce": [
+            {
+                "COURSE_NAME": "E-commerce Inventory Management with Unicommerce",
+                "PLATFORM": "N/A",
+                "DESCRIPTION": "This course is not available online but you could search for tutorials or documentation of the tool. Learn how to manage e-commerce inventory using Unicommerce for efficient order fulfillment.",
+                "DIFFICULTY": "Intermediate",
+                "COURSE_LINK": "https://www.unicommerce.com/"
+            },
+            {
+                "COURSE_NAME": "Unicommerce Training Series",
+                "PLATFORM": "N/A",
+                "DESCRIPTION": "This course is not available online but you could search for tutorials or documentation of the tool. Advanced features to optimize inventory and integrate platforms using Unicommerce.",
+                "DIFFICULTY": "Advanced",
+                "COURSE_LINK": "https://www.unicommerce.com/"
+            },
+            {
+                "COURSE_NAME": "Unicommerce Demo and Basics",
+                "PLATFORM": "YouTube",
+                "DESCRIPTION": "A free video explaining the Demo and Basics using Unicommerce.",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://m.youtube.com/watch?v=aeqoQyYNYFg"
+            }
+        ]
+    }
+}

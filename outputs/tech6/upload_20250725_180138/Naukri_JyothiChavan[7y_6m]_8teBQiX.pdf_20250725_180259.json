@@ -1,0 +1,147 @@
+[
+    {
+        "RESUME_RELEVANCE_SCORE": 65,
+        "ROLE_FIT_SCORE": 60,
+        "ATS_SCORE": 70,
+        "KEYWORD_MATCH_SCORE": 75,
+        "MATCHED_KEYWORDS": [
+            "Analytics",
+            "Excel",
+            "reporting",
+            "sales",
+            "forecasting",
+            "Demand Forecasting",
+            "retail",
+            "inventory",
+            "Power BI",
+            "data",
+            "planning",
+            "communication skills"
+        ],
+        "MISSING_KEYWORDS": [
+            "Inventory Planning",
+            "ABC classification",
+            "EOQ",
+            "NetSuite",
+            "Zoho",
+            "Unicommerce",
+            "KPIs",
+            "Forecast accuracy",
+            "Inventory turnover ratio",
+            "Store fill rate",
+            "Stock out",
+            "overstock",
+            "Dashboard",
+            "adherence",
+            "usage",
+            "jewelry",
+            "fashion retail",
+            "FMCG",
+            "D2C",
+            "omnichannel",
+            "marketplaces",
+            "replenishment",
+            "allocation",
+            "min max",
+            "SKU",
+            "promotions",
+            "merchandising",
+            "store",
+            "aging stock",
+            "SQL"
+        ],
+        "MISSING_SKILLS": [
+            "Inventory Planning",
+            "SQL",
+            "ERP systems"
+        ],
+        "INTERVIEW_QUESTIONS": {
+            "PSYCHOMETRIC": [
+                {
+                    "questions": "Describe a time when you had to make a data-driven decision with incomplete information. How did you approach it?",
+                    "answer": "I once had to forecast sales with limited historical data. I combined the available data with market trends and competitor analysis, creating a model that was regularly updated as more data became available. This iterative approach allowed us to refine our forecast and make informed decisions."
+                },
+                {
+                    "questions": "How do you handle ambiguity in a project or task?",
+                    "answer": "I break down the ambiguous task into smaller, manageable components. I then prioritize these components based on their potential impact and feasibility. I communicate regularly with stakeholders to validate assumptions and gather feedback, which helps to clarify the objectives and reduce uncertainty."
+                },
+                {
+                    "questions": "Explain a situation where your attention to detail prevented a significant error.",
+                    "answer": "While preparing a report on lead performance, I noticed a discrepancy in the data. Upon further investigation, I discovered a formula error in the spreadsheet. Correcting this error ensured that the management team received accurate insights, preventing potentially misguided decisions."
+                }
+            ],
+            "Soft_Skills": [
+                {
+                    "questions": "Describe a situation where you had to collaborate with a difficult team member. How did you handle it?",
+                    "answer": "In a previous role, I worked with a team member who was resistant to new ideas. I took the time to understand their concerns and perspective. I then presented my ideas in a way that addressed their concerns and highlighted the potential benefits for the team. By actively listening and finding common ground, we were able to collaborate effectively."
+                },
+                {
+                    "questions": "How do you handle conflicting priorities when managing multiple projects?",
+                    "answer": "I prioritize tasks based on their urgency and impact on the business. I communicate with stakeholders to understand their expectations and timelines. I use tools like task management software to stay organized and ensure that deadlines are met. I also delegate tasks when appropriate to ensure that all projects are completed efficiently."
+                },
+                {
+                    "questions": "Share an example of when you had to communicate a complex technical issue to a non-technical audience.",
+                    "answer": "When explaining data analysis results to the marketing team, I avoided technical jargon and focused on the actionable insights. I used visual aids, such as charts and graphs, to illustrate the key findings. By tailoring my communication to the audience, I ensured that they understood the implications of the data and could make informed decisions."
+                }
+            ],
+            "Behavioral": [
+                {
+                    "questions": "Tell me about a time when you had to adapt to a significant change in your role or responsibilities.",
+                    "answer": "Situation: In my previous role at DS MAX properties Pvt Ltd, the company implemented a new ERP system.\nTask: I was responsible for leading the transition and training the team on the new system.\nAction: I organized training sessions, created user guides, and provided ongoing support to the team. I also worked closely with the ERP vendor to resolve any issues.\nResult: The transition was smooth, and the team quickly adapted to the new system. This improved efficiency and accuracy in our data management processes."
+                },
+                {
+                    "questions": "Describe a situation where you had to take the lead on a project and what challenges you faced.",
+                    "answer": "Situation: I had to lead a project to optimize lead nurturing strategies.\nTask: My role was to enhance qualification scores and boost site visits and bookings.\nAction: I guided the team on lead nurturing strategies, focusing on Salesforce software for lead data analysis and source management. We provided strategic insights to management.\nResult: We successfully enhanced qualification scores, boosted site visits and bookings, and improved overall lead performance."
+                },
+                {
+                    "questions": "Give an example of a time when you failed to meet a deadline or expectation. What did you learn from it?",
+                    "answer": "Situation: Once, I underestimated the time required to complete a complex data analysis project.\nTask: I failed to deliver the final report by the agreed-upon deadline.\nAction: I communicated the delay to the stakeholders and explained the reasons. I then worked extended hours to complete the project as quickly as possible.\nResult: I learned the importance of accurate time estimation and proactive communication. I now break down projects into smaller tasks and track progress more closely to avoid similar issues in the future."
+                }
+            ],
+            "Technical": {
+                "easy": [
+                    {
+                        "questions": "What is Business Intelligence and how does it help in decision-making?",
+                        "answer": "Business Intelligence (BI) involves using technologies and strategies to analyze business data and present actionable information. It helps in decision-making by providing insights into past, present, and future performance, enabling informed and strategic decisions."
+                    },
+                    {
+                        "questions": "Explain the difference between data and information.",
+                        "answer": "Data is raw, unorganized facts that need to be processed. Information is data that has been processed and organized in a way that it provides meaning and context, making it useful for decision-making."
+                    },
+                    {
+                        "questions": "What are the basic functions of Excel that are commonly used in data analysis?",
+                        "answer": "Basic functions include SUM, AVERAGE, COUNT, IF statements, VLOOKUP, and pivot tables. These functions help in performing calculations, summarizing data, and extracting relevant information for analysis."
+                    }
+                ],
+                "medium": [
+                    {
+                        "questions": "How would you approach analyzing a sudden drop in website traffic using Google Analytics?",
+                        "answer": "First, I would check the date range to ensure there are no filtering errors. Then, I would look at the audience overview to identify any significant changes in user demographics. Next, I would investigate the traffic sources to determine if the drop is specific to one or more channels. Finally, I would analyze the landing pages to see if any pages have experienced a significant decrease in traffic."
+                    },
+                    {
+                        "questions": "Describe how you would use Power BI to create a dashboard for monitoring sales performance.",
+                        "answer": "I would start by connecting Power BI to the relevant data sources, such as CRM and sales databases. Then, I would create visualizations, such as charts and graphs, to represent key performance indicators (KPIs) like sales revenue, units sold, and customer acquisition cost. Finally, I would arrange these visualizations on a dashboard to provide a comprehensive overview of sales performance."
+                    },
+                    {
+                        "questions": "How do you use data visualization tools to present findings to stakeholders?",
+                        "answer": "I carefully choose the type of chart or graph that best represents the data and ensures it aligns with the message I want to convey. I use clear labels and annotations to make the visualizations easy to understand. I tailor the presentation to the audience, focusing on the insights and implications rather than technical details."
+                    }
+                ],
+                "hard": [
+                    {
+                        "questions": "Explain how you would implement a lead scoring system using Salesforce. What factors would you consider?",
+                        "answer": "I would define criteria based on demographic and behavioral factors, such as job title, industry, website activity, and engagement with marketing materials. I would assign points to each factor based on its importance in predicting lead conversion. Then, I would implement the lead scoring system in Salesforce using custom fields, workflows, and process builder. I would regularly monitor and refine the system based on performance data."
+                    },
+                    {
+                        "questions": "Describe a complex data analysis project you worked on. What challenges did you face, and how did you overcome them?",
+                        "answer": "In a past project, I analyzed lead data to improve lead nurturing strategies. The challenge was dealing with incomplete and inconsistent data. I addressed this by implementing data cleaning and validation processes, using advanced Excel functions and Power BI to identify and correct errors. I collaborated with the sales and marketing teams to fill in missing data and validate assumptions."
+                    },
+                    {
+                        "questions": "How would you forecast inventory levels for a retail business with multiple stores and online channels? What factors would you consider?",
+                        "answer": "I would use a combination of historical sales data, seasonality trends, and marketing inputs to forecast demand at the SKU, store, and channel level. I would also consider factors such as lead times, safety stock levels, and replenishment rules. I would use forecasting techniques like moving averages and exponential smoothing, and tools like Excel and Power BI to create and maintain the forecast. Regularly update the forecast based on actual sales data and adjust for any unexpected events."
+                    }
+                ]
+            }
+        }
+    }
+]

@@ -1,0 +1,81 @@
+{
+    "Extracted Data": {
+        "Name": "DHEERAJ MADHAV RAO",
+        "Contact Details": "+91 8286568242, Bangalore, Karnataka, raodheeraj@rocketmail.com, linkedin.com/in/raomdheeraj",
+        "Summary or Objective": "An analytical and business focused finance professional with experience across FP&A, inventory planning, and tech nology finance. Adaptive to translating complex data into actionable insights to drive strategic decisions. Proven track record in optimizing budgets, automating reporting workflows, and partnering with leadership on high impact initiatives. Proficient in Excel, SQL, Power BI, Python, and financial modeling. Actively seeking roles in Financial Analysis, Data Analytics, or Business Consulting.",
+        "Skills": {
+            "Soft Skills": [],
+            "Hard Skills": [
+                "Budgeting",
+                "FP&A",
+                "Forecasting",
+                "Cost Optimization",
+                "Scenario Modeling",
+                "Risk Management",
+                "Excel",
+                "SQL",
+                "Power BI",
+                "Python",
+                "Financial Modeling",
+                "Variance Analysis",
+                "ChatGPT"
+            ]
+        },
+        "Experience": [
+            {
+                "Title": "Senior Analyst",
+                "Company": "Lowe s India",
+                "Duration": "Apr 2023 – Present",
+                "Description": "Led forecasting for high impact inventory categories aligned to corporate goals. Built Power BI dashboards to automate metrics reporting, saving 60% effort. Partnered cross functionally to evaluate excess inventory pricing and markdowns. Automated recurring reports using SQL, Excel, and Power Automate workflows. Delivered business insights to senior leadership on stock health and velocity."
+            },
+            {
+                "Title": "Analyst",
+                "Company": "Lowe s India",
+                "Duration": "Jun 2022 – Apr 2023",
+                "Description": "Managed $500M software budget portfolio; identified $2.5M in savings. Built a Python based tracker to monitor forecasts and accruals, saving 10+ hrs/month. Automated workflows and reports using ChatGPT, Python, and Power Automate. Provided cost, variance, and forecast insights to cross functional stakeholders."
+            },
+            {
+                "Title": "Associate Intern",
+                "Company": "Samvitti Capital Pvt. Ltd.",
+                "Duration": "Apr 2022 – Jun 2022",
+                "Description": "Developed and tested Python based F&O strategies for institutional clients. Delivered trading and risk management insights to improve portfolio outcomes. Created models to manage leverage and reduce drawdown impact."
+            },
+            {
+                "Title": "Civil & Project Engineer",
+                "Company": null,
+                "Duration": "2017 – 2021",
+                "Description": "Oversaw 1000 crore CIDCO housing project across 15 contractors. Ensured structural and material quality; resolved site level issues in real time. Delivered foundation slabs in record 6 month cycles to maintain timelines."
+            }
+        ],
+        "Projects": [
+            "Stock Indicator App: Developed a Python tool to backtest strategies using technical indicators for retail traders.",
+            "X Culture Challenge: Designed a go to market strategy with international teammates for a real business client.",
+            "SCOT Store Project: Led vendor outreach and collected feedback for sustainable store relaunch planning."
+        ],
+        "Certifications": [],
+        "Education": "PGDM, T A Pai Management Institute, Manipal 2021 – 2023 CGPA: 7.08\nB.E. Civil Engineering, Pillai HOC College of Engg. 2013 – 2017 CGPA: 7.38\nClass XII, DAV Public School 2013 Percentage: 83.2%\nClass X, DAV Public School 2011 CGPA: 9.4"
+    },
+    "ATS Score": {
+        "Total Score": 77,
+        "Breakdown": {
+            "Format Score": 5,
+            "Spelling & Grammar": 10,
+            "Summary": 10,
+            "Skills": 9,
+            "Experience": 10,
+            "Projects": 10,
+            "Certifications": 0,
+            "Education": 8,
+            "Contact Details": 5
+        }
+    },
+    "Recommendations": [
+        "The resume is 2 pages long which is acceptable, however, consider to short it into 1 page to improve the **format score**. Tailor the content to fit into a single page, highlighting the most relevant experiences and skills for the desired roles.",
+        "While the resume showcases technical skills, it lacks explicit **soft skills**. Integrate soft skills like communication, teamwork, and problem-solving within the experience descriptions to demonstrate well-rounded capabilities.",
+        "The resume is missing a **Certifications** section. Consider adding any relevant certifications to enhance credibility and demonstrate expertise in specific areas relevant to financial analysis, data analytics, or business consulting.",
+        "While the education section is present, it could benefit from additional details. Consider mentioning relevant coursework, academic projects, or honors received during your PGDM or B.E. to showcase **academic achievements**.",
+        "The contact details section is somewhat lacking in formatting. Ensure your **email address** and **LinkedIn profile URL** are clearly formatted and easily accessible. Consider adding a professional headshot to improve visual appeal and recognizability.",
+        "While the skills section lists various technical skills, consider quantifying your proficiency levels. Use terms like 'Advanced,' 'Intermediate,' or 'Proficient' to provide a better understanding of your **skill levels** in tools like Excel, SQL, and Power BI.",
+        "The objective statement is effective but could be further refined. Highlight your unique value proposition and tailor it to align specifically with the target roles in financial analysis, data analytics, or business consulting. Use **keywords** from the job descriptions."
+    ]
+}

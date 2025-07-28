@@ -1,0 +1,84 @@
+{
+    "Extracted Data": {
+        "Name": "Suvranshu Dash",
+        "Contact Details": "Bangalore, KA, IN | suvranshu.dash.795@gmail.com | +91 8637227392 | linkedin.com/in/suvranshu dash 37083b94",
+        "Summary or Objective": "Data driven Analyst with 5+ years of experience in business intelligence, pricing strategy, and process automation across logistics and tech sectors. Proven expertise in SQL, Power BI, and Python to deliver actionable insights, streamline operations, and drive profitability. Skilled in stakeholder management, ERP/CRM systems (SAP, Salesforce), and delivering strategic business impact through automation and analytics.",
+        "Skills": {
+            "Soft Skills": [
+                "Analytical & Problem Solving",
+                "Risk Analysis",
+                "Supply Chain and Warehousing",
+                "Stakeholder Management",
+                "Interpersonal Communication",
+                "Decision Making & Strategic Planning",
+                "Team Leadership & Cross Functional Collaboration",
+                "Process Optimization & Automation"
+            ],
+            "Hard Skills": [
+                "Power BI",
+                "SQL",
+                "Python",
+                "SAP",
+                "Salesforce",
+                "JIRA",
+                "Risk Management",
+                "Agile",
+                "MS Excel",
+                "Google Sheets",
+                "Tableau",
+                "Metabase",
+                "Google Analytics",
+                "AWS"
+            ]
+        },
+        "Experience": [
+            {
+                "Title": "Deputy Manager Analytics & Pricing",
+                "Company": "Zast Logisolutions Pvt Ltd",
+                "Duration": "Aug 2024 – Present",
+                "Description": "Spearhead pricing strategy and RFQ responses, improving market win rates by 9%. Designed Power BI dashboards and created complex SQL queries to deliver real time business insights. Streamlined reporting through automation, cutting manual workload by 30% and saving 32 hours per week on billing tasks. Led cross functional collaborations like New Business Development Pipelines, Team Scorecards and Overall Business Reviews. Led end to end project initiatives by defining road maps, validating updates, and presenting progress to senior leadership. Worked with ERP/CRM systems (SAP, Salesforce) to streamline workflows and enhance data visibility."
+            },
+            {
+                "Title": "Senior Analyst, Corporate Business",
+                "Company": "Zinka Logistics Solutions Pvt Ltd",
+                "Duration": "May 2022 – Aug 2024",
+                "Description": "Created Power BI dashboards and advanced Excel reports to analyze business trends. Developed SQL queries for data extraction and validation. Collaborated with stakeholders to refine business strategies and enhance P&L impact. Managed projects, monitored updates, and presented findings to senior leadership. Drove client focused project management solutions, increasing success rates by implementing cost effective strategies and process improvements."
+            },
+            {
+                "Title": "Data Analyst",
+                "Company": "Quantum International Pvt Ltd",
+                "Duration": "Nov 2019 – Apr 2022",
+                "Description": "Conducted business requirement analysis and translated insights into strategic recommendations. Ensured data integrity across systems to facilitate accurate reporting. Developed SQL based reports and dashboards for streamlined business intelligence."
+            }
+        ],
+        "Projects": [
+            "Analyzed SAP Order to Cash (O2C) process using Celonis to detect inefficiencies and quantify business impact.",
+            "Co developed an AI powered healthcare recommendation system using Python, NLP, and ML."
+        ],
+        "Certifications": [],
+        "Education": "Bachelor of Technology, Mechanical Engineering, Institute of Technical Education C Research, Bhubaneswar (May 2017), CGPA: 8.75"
+    },
+    "ATS Score": {
+        "Total Score": 95,
+        "Breakdown": {
+            "Format Score": 5,
+            "Spelling & Grammar": 10,
+            "Summary": 10,
+            "Skills": 10,
+            "Experience": 10,
+            "Projects": 10,
+            "Certifications": 5,
+            "Education": 10,
+            "Contact Details": 10
+        }
+    },
+    "Recommendations": [
+        "The resume is well-structured and provides a comprehensive overview of Suvranshu Dash's qualifications, but it is **two pages long**.  Consider condensing information where possible to adhere to the preferred one-page format, especially for earlier roles or less relevant experiences, to improve readability and focus.",
+        "While the resume includes a good list of both hard and soft skills, it could benefit from **quantifying these skills** with specific achievements. For example, instead of just listing 'Process Optimization & Automation', provide an example of how you improved a specific process and the resulting impact, such as 'Automated billing process, reducing manual workload by 30%'.",
+        "The summary provides a good overview, but could be **more tailored to specific job descriptions**.  Customize the summary for each application to highlight the most relevant skills and experiences that match the job requirements, demonstrating a clear understanding of the role and how you can contribute.",
+        "While projects are listed, elaborating on the **'Analyzed SAP Order to Cash (O2C) process'** and adding a brief description of the outcomes or improvements achieved would increase its impact. Quantify the 'business impact' detected for a stronger presentation.",
+        "The resume is currently missing a **'Certifications' section**. Add any certifications, even if they seem minor, this will boost credibility by showcasing tangible proof of proficiency in specific areas.",
+        "Even though you mention different tools in your work experience, adding them to the technical skills section will help you pass the ATS scan. The main reason for this is that the tool section will highlight all the tools at once.",
+        "Optimize the resume for **ATS compatibility** by using keywords from the job description throughout the document and also use standard section headings and formatting to make it easier for the ATS to parse the information accurately."
+    ]
+}

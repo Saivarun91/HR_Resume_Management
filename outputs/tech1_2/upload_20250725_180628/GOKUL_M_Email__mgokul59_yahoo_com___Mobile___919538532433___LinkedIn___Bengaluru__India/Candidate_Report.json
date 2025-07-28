@@ -1,0 +1,231 @@
+{
+    "ATS": {
+        "Extracted Data": {
+            "Name": "GOKUL M",
+            "Contact Details": "Email: mgokul59@yahoo.com | Mobile: +919538532433 | LinkedIn | Bengaluru, India",
+            "Summary or Objective": "Data enthusiast and strategic Business Analyst with 6+ years of experience. Worked with 2 successful startup unicorns, leveraging complex data to interpret real time business insights and support impact decision making. Skilled in conducting business process modelling stakeholder management, analytical problem solving and data storytelling.",
+            "Skills": {
+                "Soft Skills": [
+                    "Business Strategy",
+                    "Scaling",
+                    "Process Automation",
+                    "Optimization",
+                    "Problem Solving",
+                    "Critical Thinking",
+                    "Data Modelling",
+                    "Visualization",
+                    "Cross Functional Collaboration",
+                    "Data Mining",
+                    "Analytics",
+                    "Stakeholder Management",
+                    "Analytical Problem Solving",
+                    "Data Storytelling"
+                ],
+                "Hard Skills": [
+                    "Excel",
+                    "Google Sheet",
+                    "Metabase",
+                    "Power BI",
+                    "Looker Studio",
+                    "SQL",
+                    "Google App Script",
+                    "Python",
+                    "GCP",
+                    "Postman API",
+                    "Jupyter Notebook",
+                    "Singularity",
+                    "Querying",
+                    "ETL",
+                    "EDA",
+                    "Power Automate"
+                ]
+            },
+            "Experience": [
+                {
+                    "Title": "BUSINESS ANALYST",
+                    "Company": "BLACKBUCK",
+                    "Duration": "Nov 2022 \u2013 Mar 2025",
+                    "Description": "Managed end to end sales analytics, business metrics tracking, ensuring operational efficiency of channel consisting of 2000+ PAN India sales executives. Automated day to day reporting workflow using Python, App scripts, APIs and Power Automate, reducing the manual efforts with improved accuracy and visibility. Initiated and led sales hygiene activities, new incentive & salary framework to boost the overall productivity of the sales teams. Closely worked with under performing regions, identified and resolved their business challenges which impacted on channel revenue growth. Prepared short term and long term sales strategy involving manpower optimization, productivity enhancement, process design and alignment. Collaborated with Tech and Product teams to integrate sales KPIs, earnings, current and previous performance of sales executives into Blackbuck sales app. Engaged with sales teams, to align and tracked their adoption to new polices and products released by organization."
+                },
+                {
+                    "Title": "Sr. MIS ANALYST",
+                    "Company": "UDDAN",
+                    "Duration": "Dec 2019 \u2013 Nov 2022",
+                    "Description": "Designed, developed and maintained sales and operations metrics trackers and dashboard to draw strategic insights for teams across the departments using data visualization tools Custodian for providing ad hoc data analysis to team members across the departments and collaborated with department managers to review the performance of team. Created monthly and weekly reports with advanced Excel and SQL (data platform), identified trends, and assessed performance to drive improvements. Collaborated with cross functional teams to gather reporting requirements and deliver customized MIS reports aligned with business objectives"
+                },
+                {
+                    "Title": "MIS EXECUTIVE",
+                    "Company": "ZENITH NUTRITION PVT LTD",
+                    "Duration": "Jan 2019 \u2013 Nov 2019",
+                    "Description": "Collected and stored organization data from multiple resources and delivered daily and weekly reports. Coordinated with vendors to track delivery statuses and resolved customer queries regarding product selection and orders. Created customized reports using google sheets and used Lead squared for tracking and managing sales leads, leading to a 20% improvement in process efficiency."
+                }
+            ],
+            "Projects": [],
+            "Certifications": [
+                "Certified Business Analytics course from AnalytixLabs"
+            ],
+            "Education": "Don Bosco Institute of Technology (B.E, Mechanical) July 2013 \u2013 June 2017 (Bangalore, India)"
+        },
+        "ATS Score": {
+            "Total Score": 92,
+            "Breakdown": {
+                "Format Score": 10,
+                "Spelling & Grammar": 10,
+                "Summary": 10,
+                "Skills": 10,
+                "Experience": 10,
+                "Projects": 7,
+                "Certifications": 10,
+                "Education": 10,
+                "Contact Details": 10
+            }
+        },
+        "Recommendations": [
+            "While the resume includes a summary, consider making it more **quantifiable** by adding specific metrics to showcase the impact of your work and also try to show numbers, percentages or specific achievements.",
+            "While several hard and soft skills are listed, ensure to highlight those **skills** within the descriptions of your work experience and projects to provide context and evidence of your abilities.",
+            "Since the resume does not have a projects section, try to showcase you **projects** with title, description, duration and technologies used to develop them in your resume to show your practical experiences.",
+            "Consider adding more details to the **certification** description, specifying the provider, completion date, and key skills or knowledge gained to make it more impactful.",
+            "For each **work experience** entry, focus on quantifiable achievements and contributions rather than just listing responsibilities to demonstrate the value you brought to the organization.",
+            "Ensure that the resume's **formatting** is consistent throughout, including font styles, spacing, and alignment, to create a visually appealing and professional document.",
+            "Proofread the entire resume carefully to eliminate any potential **spelling** or grammatical errors, which can detract from your credibility."
+        ]
+    },
+    "Resume": {
+        "RESUME_RELEVANCE_SCORE": 65,
+        "ROLE_FIT_SCORE": 60,
+        "ATS_SCORE": 70,
+        "KEYWORD_MATCH_SCORE": 75,
+        "MATCHED_KEYWORDS": [
+            "Business Analyst",
+            "Excel",
+            "SQL",
+            "Data analysis",
+            "Retail",
+            "Dashboard",
+            "Reporting",
+            "Forecasting",
+            "Analytics",
+            "Inventory",
+            "Inventory Planning",
+            "KPI",
+            "Power BI",
+            "Collaboration",
+            "Communication skills",
+            "Inventory turnover",
+            "Franchise",
+            "Modeling"
+        ],
+        "MISSING_KEYWORDS": [
+            "Demand Forecasting",
+            "Replenishment",
+            "Allocation",
+            "Inventory Optimization",
+            "Stock movement",
+            "Central warehouse",
+            "ABC classification",
+            "EOQ",
+            "Min max",
+            "ERP systems",
+            "NetSuite",
+            "Zoho",
+            "Unicommerce",
+            "Store fill rate",
+            "Stock out %",
+            "Overstock %",
+            "FOFO franchise",
+            "Merchandising analytics",
+            "FMCG",
+            "D2C brands",
+            "Omnichannel inventory"
+        ],
+        "MISSING_SKILLS": [
+            "Demand Forecasting",
+            "Replenishment",
+            "Allocation",
+            "Inventory Optimization",
+            "ABC classification",
+            "EOQ",
+            "NetSuite",
+            "Zoho",
+            "Unicommerce"
+        ],
+        "INTERVIEW_QUESTIONS": {
+            "PSYCHOMETRIC": [
+                {
+                    "questions": "Describe a situation where you had to make a quick decision with limited information. How did you approach it, and what was the outcome?",
+                    "answer": "Ideal answer should highlight the ability to analyze available data, consider potential risks, and make a reasoned decision even under pressure. It should also show adaptability and learning from the experience."
+                },
+                {
+                    "questions": "How do you handle criticism or feedback that challenges your ideas or work?",
+                    "answer": "The ideal answer would demonstrate openness to feedback, a willingness to learn and improve, and the ability to constructively incorporate suggestions."
+                },
+                {
+                    "questions": "How do you prioritize tasks when faced with multiple conflicting deadlines?",
+                    "answer": "The ideal answer should demonstrate the ability to assess urgency and importance, effectively manage time, and communicate proactively about potential delays or conflicts."
+                }
+            ],
+            "Soft_Skills": [
+                {
+                    "questions": "Describe a time when you had to work with a difficult team member. How did you handle the situation?",
+                    "answer": "The ideal answer should showcase effective communication, conflict resolution, and the ability to find common ground and maintain a productive working relationship."
+                },
+                {
+                    "questions": "Give an example of a time when you successfully communicated a complex idea to someone who didn't have a technical background.",
+                    "answer": "The ideal answer should demonstrate the ability to tailor communication to the audience, simplify complex information, and ensure clear understanding."
+                },
+                {
+                    "questions": "Tell me about a time when you took initiative and went above and beyond your assigned responsibilities.",
+                    "answer": "The ideal answer should highlight proactiveness, problem-solving skills, and a commitment to exceeding expectations."
+                }
+            ],
+            "Behavioral": [
+                {
+                    "questions": "Tell me about a time when you used data analysis to solve a business problem.",
+                    "answer": "Situation: Describe the business problem you were trying to solve.\nTask: Explain your role in addressing the problem.\nAction: Detail the steps you took to collect, analyze, and interpret the data.\nResult: Explain the outcome of your analysis and the impact it had on the business."
+                },
+                {
+                    "questions": "Describe a situation where you had to make a difficult decision that impacted multiple stakeholders.",
+                    "answer": "Situation: Outline the situation and the stakeholders involved.\nTask: Describe your responsibility in making the decision.\nAction: Explain the process you followed to gather information, evaluate options, and make the decision.\nResult: Explain the outcome of the decision and how you addressed any concerns or negative impacts."
+                },
+                {
+                    "questions": "Tell me about a time when you had to adapt to a significant change in your work environment or responsibilities.",
+                    "answer": "Situation: Describe the change that occurred.\nTask: Explain your role in adapting to the change.\nAction: Detail the steps you took to learn new skills, adjust your work habits, and support your team during the transition.\nResult: Explain the outcome of your adaptation and any positive results that came from it."
+                }
+            ],
+            "Technical": [
+                {
+                    "easy": [
+                        {
+                            "questions": "What are pivot tables in Excel, and how are they useful for data analysis?",
+                            "answer": "Pivot tables are a powerful tool in Excel for summarizing and analyzing large datasets. They allow you to quickly group and aggregate data, calculate totals and averages, and create dynamic reports."
+                        },
+                        {
+                            "questions": "Can you explain the difference between a primary key and a foreign key in SQL?",
+                            "answer": "A primary key uniquely identifies each record in a table, while a foreign key establishes a link between tables by referencing the primary key in another table. Foreign keys ensure data integrity and enforce relationships between tables."
+                        }
+                    ],
+                    "medium": [
+                        {
+                            "questions": "How would you use SQL to identify slow-moving inventory from a sales transaction table?",
+                            "answer": "The answer should involve writing a SQL query that calculates the average time between sales for each product and identifies products where this time exceeds a certain threshold. The candidate should demonstrate knowledge of aggregate functions, date functions, and subqueries."
+                        },
+                        {
+                            "questions": "Describe how you would build a Power BI dashboard to monitor inventory turnover across different retail stores.",
+                            "answer": "The answer should include steps such as connecting to the data source, creating calculated measures for inventory turnover, designing visualizations to display the data, and adding filters and slicers for interactivity."
+                        }
+                    ],
+                    "hard": [
+                        {
+                            "questions": "Design a data model for managing inventory across multiple retail stores and online channels, considering factors like demand forecasting, replenishment, and stock allocation.",
+                            "answer": "The answer should describe the entities (e.g., products, stores, channels, orders, shipments), attributes (e.g., SKU, store ID, order date, quantity), and relationships between entities. The candidate should also discuss considerations for data storage, indexing, and performance optimization."
+                        },
+                        {
+                            "questions": "Explain how you would use machine learning techniques to improve demand forecasting accuracy for a jewelry retail business.",
+                            "answer": "The answer should describe the process of feature engineering, model selection, and evaluation. The candidate should also discuss how to handle seasonality, promotions, and other factors that influence demand. The answer may include the use of time series models, regression models, or other relevant techniques."
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

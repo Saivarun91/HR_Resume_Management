@@ -1,0 +1,177 @@
+{
+    "RESUME_RELEVANCE_SCORE": 75,
+    "ROLE_FIT_SCORE": 70,
+    "ATS_SCORE": 80,
+    "KEYWORD_MATCH_SCORE": 78,
+    "MATCHED_KEYWORDS": [
+        "Data analysis",
+        "Power BI",
+        "Excel",
+        "SQL",
+        "Reporting",
+        "Dashboards",
+        "Sales data",
+        "Retail",
+        "Inventory",
+        "Forecasting",
+        "Data preparation",
+        "Data visualization",
+        "Data modeling",
+        "Analytics",
+        "Communication skills",
+        "Cross functional collaboration",
+        "Planning",
+        "Marketplaces",
+        "Retail outlets",
+        "E commerce",
+        "Analysis",
+        "Central warehouse",
+        "Stock",
+        "Overstock",
+        "Reporting",
+        "Visualisation",
+        "Excel",
+        "SQL",
+        "Power BI",
+        "Dashboard",
+        "Modelling"
+    ],
+    "MISSING_KEYWORDS": [
+        "Inventory Planning",
+        "Replenishment",
+        "Allocation",
+        "Inventory Optimization",
+        "EOQ",
+        "ABC classification",
+        "Min max",
+        "Inventory turnover ratio",
+        "Omnichannel inventory",
+        "FOFO franchise",
+        "Store fill rate",
+        "Stock out %",
+        "Merchandising",
+        "Actionable insights",
+        "Demand forecasts",
+        "NetSuite",
+        "Zoho",
+        "Unicommerce",
+        "Franchise",
+        "Allocation",
+        "Stock",
+        "Reporting adherence",
+        "KPI",
+        "D2C",
+        "Supply Chain",
+        "Aging stock",
+        "Working capital",
+        "Jewelry",
+        "FMCG",
+        "Franchise",
+        "Merchandising",
+        "Replenishment",
+        "Allocation"
+    ],
+    "MISSING_SKILLS": [
+        "Demand Forecasting",
+        "Replenishment",
+        "Inventory Optimization",
+        "NetSuite",
+        "Zoho",
+        "Unicommerce",
+        "Tableau"
+    ],
+    "ROLEMATCHES": {
+        "Data Analyst": 85,
+        "Business Intelligence Analyst": 80,
+        "Inventory Analyst": 78,
+        "Supply Chain Analyst": 75,
+        "Retail Analyst": 70
+    },
+    "YEARS": 4,
+    "INTERVIEW_QUESTIONS": {
+        "PSYCHOMETRIC": [
+            {
+                "questions": "Describe a situation where you had to make a quick decision with limited information. How did you approach it, and what was the outcome?",
+                "answer": "I will describe the situation, the limited information I had, and the factors I considered. I will explain the decision-making process, any risks involved, and the outcome. I will also reflect on what I learned from the experience."
+            },
+            {
+                "questions": "How do you handle working under pressure and tight deadlines?",
+                "answer": "I will discuss my strategies for managing stress and prioritizing tasks, such as breaking down large projects into smaller steps, staying organized, and communicating proactively with stakeholders. I will also highlight a specific example where I successfully delivered results under pressure."
+            },
+            {
+                "questions": "Tell me about a time when you had to adapt to a significant change in your work environment or responsibilities.",
+                "answer": "I will describe the change, my initial reaction, and the steps I took to adjust and remain productive. I will emphasize my willingness to learn and embrace new challenges, as well as any positive outcomes that resulted from the change."
+            }
+        ],
+        "Soft_Skills": [
+            {
+                "questions": "Describe a time when you had to work with a difficult team member. How did you handle the situation?",
+                "answer": "I will describe the situation, the specific challenges I faced, and the strategies I used to address the issues, such as active listening, empathy, and clear communication. I will also highlight any positive outcomes or lessons learned from the experience."
+            },
+            {
+                "questions": "How do you ensure effective communication within a team?",
+                "answer": "I will discuss my approach to communication, including active listening, clear and concise messaging, and adapting my communication style to suit different audiences. I will also mention any tools or techniques I use to facilitate team communication, such as regular meetings, shared documents, or project management software."
+            },
+            {
+                "questions": "Tell me about a time when you had to persuade a colleague or stakeholder to adopt your point of view.",
+                "answer": "I will describe the situation, my initial proposal, and the reasons why the other person was hesitant. I will explain how I tailored my approach to address their concerns, presented compelling evidence, and built a strong case for my point of view. I will also highlight the positive outcome that resulted from the persuasion."
+            }
+        ],
+        "Behavioral": [
+            {
+                "questions": "Tell me about a time when you used data analysis to solve a business problem.",
+                "answer": "I will use the STAR method to describe the situation, the task at hand, the actions I took to analyze the data and identify insights, and the results achieved. I will emphasize the impact of my analysis on the business and any lessons learned from the experience."
+            },
+            {
+                "questions": "Describe a situation where you had to develop a new report or dashboard to meet a specific business need.",
+                "answer": "I will use the STAR method to outline the situation, the specific requirements for the report or dashboard, the steps I took to design and develop it, and the positive outcomes it delivered for the business."
+            },
+            {
+                "questions": "Tell me about a time when you had to work with a cross-functional team to achieve a common goal.",
+                "answer": "I will use the STAR method to describe the situation, the specific goal we were trying to achieve, the roles and responsibilities of each team member, the challenges we faced, and the actions we took to overcome them. I will emphasize the importance of collaboration, communication, and problem-solving in achieving the goal."
+            }
+        ],
+        "Technical_easy": [
+            {
+                "questions": "What is the difference between a VLOOKUP and an INDEX-MATCH in Excel?",
+                "answer": "VLOOKUP searches for a value in the first column of a table and returns a value in the same row from a specified column. INDEX-MATCH is more flexible, using INDEX to return a value at a specific row and column intersection, and MATCH to find the row or column number."
+            },
+            {
+                "questions": "What is Power BI?",
+                "answer": "Power BI is a business analytics service by Microsoft. It aims to provide interactive visualizations and business intelligence capabilities with an interface simple enough for end users to create their own reports and dashboards."
+            },
+            {
+                "questions": "Can you explain the difference between a measure and a calculated column in Power BI?",
+                "answer": "A measure is a calculation that is performed on the fly, in response to user interaction. It operates on aggregated data. A calculated column is computed during data refresh and stored in the data model. It operates on a row-by-row basis."
+            }
+        ],
+        "Technical_medium": [
+            {
+                "questions": "How would you handle missing values in a dataset before performing analysis?",
+                "answer": "I would first identify the extent and nature of the missing data. Depending on the situation, I might choose to remove rows with missing values, impute them using statistical methods (mean, median, mode), or use more advanced techniques like regression imputation or k-NN imputation. The choice depends on the data and the potential impact on the analysis."
+            },
+            {
+                "questions": "Explain a scenario where you would use SQL window functions. Can you provide an example?",
+                "answer": "Window functions are useful when you need to perform calculations across a set of rows that are related to the current row. For example, you could use a window function to calculate a running total of sales for each month, partitioned by product category. This allows you to see how each product category is performing over time."
+            },
+            {
+                "questions": "Describe a situation where you had to optimize a slow-running SQL query. What steps did you take?",
+                "answer": "I would start by analyzing the query execution plan to identify performance bottlenecks. Then, I might consider adding indexes to relevant columns, rewriting the query to use more efficient joins or subqueries, or optimizing the database schema. I would also test the query after each change to ensure that it is actually improving performance."
+            }
+        ],
+        "Technical_hard": [
+            {
+                "questions": "Design a data model for a retail inventory management system. Include the key entities, attributes, and relationships.",
+                "answer": "I would start by identifying the key entities, such as products, stores, suppliers, and transactions. Then, I would define the attributes for each entity, such as product ID, product name, store ID, store location, etc. Finally, I would define the relationships between the entities, such as one-to-many relationships between stores and products, or many-to-many relationships between products and suppliers. I would also consider adding additional entities, such as promotions or customer segments, to provide more comprehensive insights."
+            },
+            {
+                "questions": "How would you approach building a demand forecasting model for a new product with limited historical data?",
+                "answer": "With limited historical data, I would leverage a combination of techniques. I would start by gathering data from similar products or product categories. Then, I would use statistical methods, such as regression analysis or time series analysis, to build a forecasting model. I would also incorporate external factors, such as market trends or seasonality, into the model. Finally, I would continuously monitor and refine the model as more data becomes available."
+            },
+            {
+                "questions": "Explain the concept of ABC inventory classification and how you would implement it in a retail setting.",
+                "answer": "ABC classification is a method of categorizing inventory items based on their value and importance. 'A' items are the most valuable and require the most attention, 'B' items are moderately valuable, and 'C' items are the least valuable. In a retail setting, I would implement ABC classification by analyzing sales data to identify the top-selling products (A items), the moderately selling products (B items), and the slow-moving products (C items). Then, I would adjust inventory management strategies accordingly, such as increasing safety stock levels for A items and reducing them for C items."
+            }
+        ]
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "Extracted Data": {
+        "Name": "GOKUL M",
+        "Contact Details": "Email: mgokul59@yahoo.com | Mobile: +919538532433 | LinkedIn | Bengaluru, India",
+        "Summary or Objective": "Data enthusiast and strategic Business Analyst with 6+ years of experience. Worked with 2 successful startup unicorns, leveraging complex data to interpret real time business insights and support impact decision making. Skilled in conducting business process modelling stakeholder management, analytical problem solving and data storytelling.",
+        "Skills": {
+            "Soft Skills": [
+                "Business Strategy",
+                "Scaling",
+                "Process Automation",
+                "Optimization",
+                "Problem Solving",
+                "Critical Thinking",
+                "Data Modelling",
+                "Visualization",
+                "Cross Functional Collaboration",
+                "Data Mining",
+                "Analytics",
+                "Stakeholder Management",
+                "Analytical Problem Solving",
+                "Data Storytelling"
+            ],
+            "Hard Skills": [
+                "Excel",
+                "Google Sheet",
+                "Metabase",
+                "Power BI",
+                "Looker Studio",
+                "SQL",
+                "Google App Script",
+                "Python",
+                "GCP",
+                "Postman API",
+                "Jupyter Notebook",
+                "Singularity",
+                "Querying",
+                "ETL",
+                "EDA",
+                "Power Automate"
+            ]
+        },
+        "Experience": [
+            {
+                "Title": "BUSINESS ANALYST",
+                "Company": "BLACKBUCK",
+                "Duration": "Nov 2022 – Mar 2025",
+                "Description": "Managed end to end sales analytics, business metrics tracking, ensuring operational efficiency of channel consisting of 2000+ PAN India sales executives. Automated day to day reporting workflow using Python, App scripts, APIs and Power Automate, reducing the manual efforts with improved accuracy and visibility. Initiated and led sales hygiene activities, new incentive & salary framework to boost the overall productivity of the sales teams. Closely worked with under performing regions, identified and resolved their business challenges which impacted on channel revenue growth. Prepared short term and long term sales strategy involving manpower optimization, productivity enhancement, process design and alignment. Collaborated with Tech and Product teams to integrate sales KPIs, earnings, current and previous performance of sales executives into Blackbuck sales app. Engaged with sales teams, to align and tracked their adoption to new polices and products released by organization."
+            },
+            {
+                "Title": "Sr. MIS ANALYST",
+                "Company": "UDDAN",
+                "Duration": "Dec 2019 – Nov 2022",
+                "Description": "Designed, developed and maintained sales and operations metrics trackers and dashboard to draw strategic insights for teams across the departments using data visualization tools Custodian for providing ad hoc data analysis to team members across the departments and collaborated with department managers to review the performance of team. Created monthly and weekly reports with advanced Excel and SQL (data platform), identified trends, and assessed performance to drive improvements. Collaborated with cross functional teams to gather reporting requirements and deliver customized MIS reports aligned with business objectives"
+            },
+            {
+                "Title": "MIS EXECUTIVE",
+                "Company": "ZENITH NUTRITION PVT LTD",
+                "Duration": "Jan 2019 – Nov 2019",
+                "Description": "Collected and stored organization data from multiple resources and delivered daily and weekly reports. Coordinated with vendors to track delivery statuses and resolved customer queries regarding product selection and orders. Created customized reports using google sheets and used Lead squared for tracking and managing sales leads, leading to a 20% improvement in process efficiency."
+            }
+        ],
+        "Projects": [],
+        "Certifications": [
+            "Certified Business Analytics course from AnalytixLabs"
+        ],
+        "Education": "Don Bosco Institute of Technology (B.E, Mechanical) July 2013 – June 2017 (Bangalore, India)"
+    },
+    "ATS Score": {
+        "Total Score": 92,
+        "Breakdown": {
+            "Format Score": 10,
+            "Spelling & Grammar": 10,
+            "Summary": 10,
+            "Skills": 10,
+            "Experience": 10,
+            "Projects": 7,
+            "Certifications": 10,
+            "Education": 10,
+            "Contact Details": 10
+        }
+    },
+    "Recommendations": [
+        "While the resume includes a summary, consider making it more **quantifiable** by adding specific metrics to showcase the impact of your work and also try to show numbers, percentages or specific achievements.",
+        "While several hard and soft skills are listed, ensure to highlight those **skills** within the descriptions of your work experience and projects to provide context and evidence of your abilities.",
+        "Since the resume does not have a projects section, try to showcase you **projects** with title, description, duration and technologies used to develop them in your resume to show your practical experiences.",
+        "Consider adding more details to the **certification** description, specifying the provider, completion date, and key skills or knowledge gained to make it more impactful.",
+        "For each **work experience** entry, focus on quantifiable achievements and contributions rather than just listing responsibilities to demonstrate the value you brought to the organization.",
+        "Ensure that the resume's **formatting** is consistent throughout, including font styles, spacing, and alignment, to create a visually appealing and professional document.",
+        "Proofread the entire resume carefully to eliminate any potential **spelling** or grammatical errors, which can detract from your credibility."
+    ]
+}

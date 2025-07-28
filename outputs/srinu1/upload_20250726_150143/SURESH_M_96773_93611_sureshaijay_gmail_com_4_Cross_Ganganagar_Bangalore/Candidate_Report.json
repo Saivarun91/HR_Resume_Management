@@ -1,0 +1,271 @@
+{
+    "ATS": {
+        "Extracted Data": {
+            "Name": "SURESH M",
+            "Contact Details": "96773 93611 sureshaijay@gmail.com 4 Cross Ganganagar Bangalore",
+            "Summary or Objective": "Experienced professional with 7 years and 6 months of expertise, including 2 years as a Junior Planning Engineer and 5 years and 6 months as an MIS Analyst. Adept at data analysis, reporting automation, and business intelligence. Proficient in Advanced Excel with macros (VBA) for process automation, SQL for data extraction and transformation, and Power BI for creating dynamic dashboards. Experienced in using SAP for operational reporting and ensuring data accuracy across departments. Demonstrated ability to streamline reporting processes, uncover actionable insights, and support data driven business decisions across both planning and MIS functions.",
+            "Skills": {
+                "Soft Skills": [
+                    "Data Analysis",
+                    "Reporting Automation",
+                    "Business Intelligence",
+                    "Process Improvement",
+                    "Leadership",
+                    "Stakeholder Engagement",
+                    "Inventory Management",
+                    "Coordination",
+                    "Teamwork"
+                ],
+                "Hard Skills": [
+                    "Advanced Excel",
+                    "Macros (VBA)",
+                    "SQL",
+                    "Power BI",
+                    "SAP ERP",
+                    "MBOM",
+                    "DAX",
+                    "ETL"
+                ]
+            },
+            "Experience": [
+                {
+                    "Title": "MIS Analyst",
+                    "Company": "Pro Team Solutions Pvt Ltd",
+                    "Duration": "Sep 2021 \u2013 Present",
+                    "Description": "Demonstrated strong analytical leadership by driving automation and data accuracy across nationwide reporting systems, leading to a 60% reduction in manual workload and significantly improving decision making speed through the deployment of Power BI dashboards and advanced Excel solutions. Automated 80% of manual reporting tasks using Excel Macros and VBA, significantly reducing turnaround time and minimizing errors Optimized SQL queries and reporting workflows, leading to a 40% improvement in data retrieval and processing efficiency Streamlined data validation and reconciliation processes, increasing accuracy across multi departmental reports by 95%. Led the migration of legacy Excel based reports to Power BI, enhancing reporting scalability and stakeholder engagement. Handled and maintained reporting for 15+ active client datasets, ensuring accuracy, confidentiality, and timely delivery of insights to stakeholders. Successfully managed daily, weekly, and monthly reports for operations and business performance using advanced Excel techniques Continuously worked to improve and optimize reporting processes, reducing manual work and increasing productivity. Recognized for data accuracy and on time delivery, supporting 100% SLA compliance on reporting deliverables."
+                },
+                {
+                    "Title": "MIS ANALYST",
+                    "Company": "UDAAN",
+                    "Duration": "Dec 2019 \u2013 July 2021",
+                    "Description": "Managing day to day inventory management. Analytics month data. Sharing reports on time. Manpower Co ordination, Monitoring S & G, Monitoring Pack size Follow ups, Inventory Reports, Shortfall reports, EOD Records, Tracker Maintenance all are done daily."
+                },
+                {
+                    "Title": "Junior Planning Engineer",
+                    "Company": "Larsen & Toubro (L&T)",
+                    "Duration": "Aug 2017 \u2013 Aug 2019",
+                    "Description": "Worked in the Materials Planning Department supporting project execution and inventory management using SAP ERP. Handled MBOM (Manufacturing Bill of Materials) verification and ensured accurate material planning for final production stages. Assisted in preparing planning schedules and aligning material availability with project timelines"
+                }
+            ],
+            "Projects": [],
+            "Certifications": [],
+            "Education": [
+                "BBA in Business Administration Alagappa Univercity",
+                "Diploma in Electronics and Communication Engineering muthayammal polytechnic institute",
+                "Class XII govt Hr Sec School"
+            ]
+        },
+        "ATS Score": {
+            "Total Score": 85,
+            "Breakdown": {
+                "Format Score": 5,
+                "Spelling & Grammar": 10,
+                "Summary": 10,
+                "Skills": 10,
+                "Experience": 10,
+                "Projects": 5,
+                "Certifications": 5,
+                "Education": 10,
+                "Contact Details": 10
+            }
+        },
+        "Recommendations": [
+            "**Consolidate Education Details**: Combine educational qualifications into a single, clearly formatted section, listing the institution, degree, and dates of attendance for easy readability.",
+            "**Add specific project details**: Enrich your resume by detailing specific projects. Focus on the project's objective, your role, and the technologies used to showcase your abilities effectively.",
+            "**Include Certifications**: Highlight any relevant certifications obtained to showcase expertise and commitment to professional development.",
+            "**Proofread for consistency**: Ensure consistent formatting and spacing throughout the document. This enhances readability and presents a polished, professional appearance.",
+            "**Quantify achievements**: Where possible, quantify accomplishments with specific numbers or percentages to demonstrate the impact of your contributions.For example, instead of saying 'Improved reporting processes', quantify it as 'Improved reporting processes, resulting in a 30% reduction in processing time'.",
+            "**Tailor skills to job description**: Review the job description and ensure that your listed skills align with the requirements, highlighting the most relevant ones.",
+            "**Simplify descriptions**: To make it more understandable for general users, keep the description as short and simple as possible. It shouldn't be too technical or have terms that are hard to understand."
+        ]
+    },
+    "Resume": {
+        "RESUME_RELEVANCE_SCORE": 75,
+        "ROLE_FIT_SCORE": 70,
+        "ATS_SCORE": 80,
+        "KEYWORD_MATCH_SCORE": 75,
+        "MATCHED_KEYWORDS": [
+            "inventory planning",
+            "forecasting",
+            "analytics",
+            "Excel",
+            "Power BI",
+            "SQL",
+            "reporting",
+            "dashboards",
+            "inventory",
+            "retail",
+            "online channels",
+            "demand forecasts",
+            "replenishment",
+            "merchandising",
+            "sales",
+            "new launches",
+            "promotions",
+            "inventory levels",
+            "store performance",
+            "channel level",
+            "stock movement",
+            "forecasting techniques",
+            "min max",
+            "stock",
+            "KPIs",
+            "inventory turnover",
+            "reporting",
+            "communication skills",
+            "strong analytical thinking",
+            "attention to detail",
+            "ERP systems",
+            "data accuracy",
+            "data driven",
+            "SAP",
+            "automation",
+            "VBA",
+            "data analysis",
+            "process improvement",
+            "stakeholder engagement",
+            "material planning",
+            "project execution",
+            "inventory management"
+        ],
+        "MISSING_KEYWORDS": [
+            "ABC classification",
+            "EOQ",
+            "omnichannel inventory",
+            "FOFO franchise",
+            "jewelry",
+            "fashion retail",
+            "FMCG",
+            "D2C brands",
+            "NetSuite",
+            "Zoho",
+            "Unicommerce",
+            "marketplaces",
+            "supply chain",
+            "working capital efficiency",
+            "SKU",
+            "seasonality",
+            "regional preferences",
+            "allocation",
+            "high performing SKUs",
+            "inventory optimization",
+            "sell through",
+            "aging stock",
+            "slow moving items",
+            "overstocked items",
+            "forecast accuracy",
+            "store fill rate",
+            "stock out %",
+            "overstock %",
+            "dashboard adherence",
+            "dashboard usage",
+            "cross functional collaboration",
+            "planning logic",
+            "modeling",
+            "Tableau"
+        ],
+        "MISSING_SKILLS": [
+            "Tableau",
+            "NetSuite",
+            "Zoho",
+            "Unicommerce",
+            "Supply Chain Management",
+            "FOFO franchise management",
+            "Replenishment & Allocation"
+        ],
+        "ROLEMATCHES": {
+            "Inventory Planning Manager": 80,
+            "Demand Forecasting Analyst": 78,
+            "Supply Chain Analyst": 75,
+            "Business Intelligence Analyst": 72,
+            "Retail Analytics Manager": 70
+        },
+        "YEARS": 7.5,
+        "INTERVIEW_QUESTIONS": {
+            "PSYCHOMETRIC": [
+                {
+                    "questions": "Describe a time when you had to make a quick decision with limited information. What was your thought process, and what was the outcome?",
+                    "answer": "I assess the situation quickly, identify the most critical factors, consider potential outcomes, and choose the option with the least risk and highest potential benefit. Afterwards, I evaluate the decision to learn for future situations."
+                },
+                {
+                    "questions": "How do you handle situations where you need to adapt to a sudden change in priorities or project requirements?",
+                    "answer": "I stay flexible, communicate with stakeholders to understand the reasons behind the change, re prioritize tasks based on impact, and adjust my approach to meet the new requirements while minimizing disruption."
+                },
+                {
+                    "questions": "What strategies do you use to maintain a positive attitude and motivation when facing challenging or repetitive tasks?",
+                    "answer": "I break tasks into smaller, manageable steps, set achievable goals, focus on the positive impact of my work, and seek opportunities to learn and grow. I also take short breaks to recharge and maintain focus."
+                }
+            ],
+            "Soft_Skills": [
+                {
+                    "questions": "Describe a time when you had to work with a team to achieve a specific goal. What was your role, and how did you contribute to the team\u2019s success?",
+                    "answer": "In a cross departmental reporting project, I facilitated communication, ensured data accuracy, and supported team members with my Excel and SQL skills, contributing to the successful deployment of Power BI dashboards and advanced Excel solutions."
+                },
+                {
+                    "questions": "How do you handle conflicts or disagreements within a team setting? Can you provide an example of a time when you successfully resolved a conflict?",
+                    "answer": "I listen to all viewpoints, find common ground, and facilitate constructive discussion to reach a mutually agreeable solution. In a disagreement over reporting methodologies, I mediated a discussion that led to a standardized approach, improving efficiency."
+                },
+                {
+                    "questions": "How do you ensure clear and effective communication with stakeholders who may not have a technical background?",
+                    "answer": "I avoid technical jargon, use visual aids, and focus on the practical implications of the data and insights. I tailor my communication style to the audience and ensure they understand the key takeaways and recommendations."
+                }
+            ],
+            "Behavioral": [
+                {
+                    "questions": "Tell me about a time when you had to automate a manual process. What steps did you take, and what was the result?",
+                    "answer": "Situation: Manual reporting tasks were time consuming and error prone. Task: Automate these tasks using Excel Macros and VBA. Action: I analyzed the existing processes, identified opportunities for automation, developed VBA scripts, and tested the solution. Result: Automated 80% of the tasks, reducing turnaround time and minimizing errors."
+                },
+                {
+                    "questions": "Describe a situation where you had to optimize data retrieval and processing efficiency. What did you do, and what impact did it have?",
+                    "answer": "Situation: Data retrieval was slow and inefficient. Task: Optimize SQL queries and reporting workflows. Action: I analyzed the existing queries, identified bottlenecks, rewrote the queries, and optimized the reporting workflows. Result: Improved data retrieval and processing efficiency by 40%."
+                },
+                {
+                    "questions": "Share an example of a time when you improved data accuracy across multi departmental reports. What was your approach, and what was the outcome?",
+                    "answer": "Situation: Data inaccuracies were causing discrepancies across reports. Task: Streamline data validation and reconciliation processes. Action: I standardized the data validation processes, implemented automated checks, and trained team members on best practices. Result: Increased data accuracy across reports by 95%."
+                }
+            ],
+            "Technical_easy": [
+                {
+                    "questions": "What is the purpose of using macros in Excel, and can you give an example of how you have used them?",
+                    "answer": "Macros automate repetitive tasks. I automated 80% of manual reporting tasks using Excel Macros and VBA, significantly reducing turnaround time and minimizing errors"
+                },
+                {
+                    "questions": "Can you explain the basics of SQL and how you have used it to extract and transform data?",
+                    "answer": "SQL is used for managing and manipulating databases. I've used it to extract data for reports and dashboards and transform it for analysis."
+                },
+                {
+                    "questions": "What is Power BI, and how have you used it to create dynamic dashboards?",
+                    "answer": "Power BI is a tool for data visualization. I have used it to create dynamic dashboards for operations and business performance."
+                }
+            ],
+            "Technical_medium": [
+                {
+                    "questions": "How would you design a data model in Power BI to connect data from multiple sources, such as Excel and SQL databases?",
+                    "answer": "I would identify the key tables and relationships, import the data, create a star schema, and define measures and calculated columns."
+                },
+                {
+                    "questions": "Can you describe a situation where you had to optimize SQL queries to improve performance. What techniques did you use?",
+                    "answer": "I used indexing, query optimization, and rewriting complex queries to improve the performance of SQL queries."
+                },
+                {
+                    "questions": "How do you ensure data accuracy when automating reporting processes using Excel Macros and VBA?",
+                    "answer": "I use data validation techniques, implement error handling, and thoroughly test the scripts to ensure data accuracy."
+                }
+            ],
+            "Technical_hard": [
+                {
+                    "questions": "Describe a scenario where you had to migrate legacy Excel based reports to Power BI. What challenges did you face, and how did you overcome them?",
+                    "answer": "The challenges included data compatibility issues, complex formulas, and user adoption. I overcame them by cleaning the data, redesigning the reports, and providing training."
+                },
+                {
+                    "questions": "How would you approach designing a scalable reporting solution that can handle large datasets and complex calculations using SQL and Power BI?",
+                    "answer": "I would use optimized SQL queries, data partitioning, and Power BI's data modeling capabilities to handle large datasets and complex calculations."
+                },
+                {
+                    "questions": "Explain how you would troubleshoot performance issues in Power BI dashboards, especially when dealing with large datasets and complex visualizations.",
+                    "answer": "I would use Power BI's performance analyzer, optimize data models, and reduce the complexity of visualizations."
+                }
+            ]
+        }
+    }
+}

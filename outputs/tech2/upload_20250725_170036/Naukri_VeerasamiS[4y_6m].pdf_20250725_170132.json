@@ -1,0 +1,244 @@
+{
+    "RESUME_RELEVANCE_SCORE": 65,
+    "ROLE_FIT_SCORE": 60,
+    "ATS_SCORE": 62,
+    "KEYWORD_MATCH_SCORE": 58,
+    "MATCHED_KEYWORDS": [
+        "Business Analyst",
+        "Power BI",
+        "Excel",
+        "reporting",
+        "dashboards",
+        "sales",
+        "forecasting",
+        "inventory",
+        "analytics",
+        "forecast",
+        "channel",
+        "KPI",
+        "retail",
+        "online",
+        "merchandising",
+        "stock",
+        "Excel",
+        "inventory planning",
+        "reporting",
+        "Power BI",
+        "analysis",
+        "automation",
+        "SQL",
+        "data analysis"
+    ],
+    "MISSING_KEYWORDS": [
+        "Inventory Planning",
+        "Demand Forecasting",
+        "replenishment",
+        "allocation",
+        "Inventory Optimization",
+        "SKU",
+        "seasonality",
+        "marketing inputs",
+        "min max levels",
+        "central warehouse",
+        "store performance",
+        "Forecast accuracy",
+        "Inventory turnover ratio",
+        "Store fill rate",
+        "Stock out %",
+        "overstock %",
+        "omnichannel inventory",
+        "ABC classification",
+        "EOQ",
+        "ERP systems",
+        "NetSuite",
+        "Zoho",
+        "Unicommerce",
+        "D2C brands",
+        "FOFO franchise models",
+        "working capital efficiency"
+    ],
+    "MISSING_SKILLS": [
+        "Demand Forecasting",
+        "Inventory Optimization",
+        "Replenishment",
+        "ERP systems",
+        "NetSuite",
+        "Zoho",
+        "Unicommerce"
+    ],
+    "RESUME_TIPS": [
+        "In your summary, highlight experience with **demand forecasting** to directly align with the job's focus; mention any specific forecasting methodologies or tools used to improve accuracy. Include metrics to show how your forecasting impacted inventory management.",
+        "Expand on your experience with inventory management by describing how you have performed **inventory optimization** to reduce costs or increase efficiency. Quantify the impact of these optimizations, such as reducing **overstock** by a certain percentage, under your experience in Careernet Technologies.",
+        "Include examples of how you’ve managed **replenishment** processes across different channels. Detail your experience in coordinating with warehouses to optimize **stock** levels, especially in scenarios involving multiple retail locations under your roles at Livspace or Careernet.",
+        "Demonstrate proficiency with **ERP systems** by including any experience you have with systems like **NetSuite**, **Zoho**, or **Unicommerce**. Mention how you used these systems to streamline inventory processes, specifically highlighting your data management skills using **SQL** or similar tools.",
+        "Incorporate specific examples of how you’ve used **Power BI** to create dashboards for inventory health. Detail the types of metrics you monitored, such as **inventory turnover ratio** or **store fill rate**, and how these metrics drove decision-making.",
+        "Add details about your experience with **ABC classification** and **EOQ** methodologies in your skills or under your experience at Careernet. Explain how you used these techniques to improve inventory control and reduce waste.",
+        "Include any experience in setting **min/max levels** for inventory across different stores and channels. Give quantifiable results, e.g., 'Improved **store fill rate** by X% by optimizing **min/max levels**'.",
+        "Discuss your familiarity with managing inventory for new product launches, focusing on how you balanced inventory across different stores and online channels. This should align with the job's emphasis on **omnichannel inventory** management.",
+        "Elaborate on your experience in managing **stock** for **FOFO franchise models**. Specify your role in inventory allocation and how you ensured optimal **stock** levels across franchise locations.",
+        "Highlight any experience in fashion retail, FMCG, or D2C brands, as mentioned in the job description; if applicable, demonstrate your understanding of specific challenges and strategies within these industries and mention in your introduction."
+    ],
+    "COURSE_RECOMMENDATIONS": {
+        "Demand Forecasting": [
+            {
+                "COURSE_NAME": "Demand Planning",
+                "PLATFORM": "APICS",
+                "DESCRIPTION": "Comprehensive course on forecasting techniques and integrating demand management with overall supply chain strategy.",
+                "DIFFICULTY": "Intermediate",
+                "COURSE_LINK": "https://www.apics.org/credentials-education/education-selector/demand-planning"
+            },
+            {
+                "COURSE_NAME": "Business Forecasting",
+                "PLATFORM": "Coursera (University of Pennsylvania)",
+                "DESCRIPTION": "Learn to use statistical methods and software tools for accurate business forecasting and decision-making.",
+                "DIFFICULTY": "Intermediate",
+                "COURSE_LINK": "https://www.coursera.org/learn/wharton-business-forecasting"
+            },
+            {
+                "COURSE_NAME": "Time Series Analysis and Forecasting",
+                "PLATFORM": "YouTube (StatQuest)",
+                "DESCRIPTION": "A free video series covering the basics of time series analysis and forecasting techniques using statistical models.",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://www.youtube.com/playlist?list=PLblh5JKOoLUK0fkzAlFm-e8W-U_EuPp9_1"
+            }
+        ],
+        "Inventory Optimization": [
+            {
+                "COURSE_NAME": "Inventory Management Principles",
+                "PLATFORM": "Udemy",
+                "DESCRIPTION": "Learn techniques for managing inventory levels, reducing costs, and improving efficiency in supply chain operations.",
+                "DIFFICULTY": "Intermediate",
+                "COURSE_LINK": "https://www.udemy.com/course/inventory-management-principles/"
+            },
+            {
+                "COURSE_NAME": "Supply Chain Analytics",
+                "PLATFORM": "Coursera (Rutgers University)",
+                "DESCRIPTION": "Understand how to use data analytics to optimize supply chain processes, including inventory control and distribution.",
+                "DIFFICULTY": "Advanced",
+                "COURSE_LINK": "https://www.coursera.org/learn/supply-chain-analytics"
+            },
+            {
+                "COURSE_NAME": "Inventory Control",
+                "PLATFORM": "YouTube (freeCodeCamp)",
+                "DESCRIPTION": "A series of videos explaining inventory control techniques and strategies for small businesses.",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://www.youtube.com/watch?v=VwkAUz8WBI4"
+            }
+        ],
+        "Replenishment": [
+            {
+                "COURSE_NAME": "Retail Inventory Replenishment",
+                "PLATFORM": "Skillshare",
+                "DESCRIPTION": "Master the replenishment process in retail, from demand forecasting to distribution, optimizing stock levels and minimizing costs.",
+                "DIFFICULTY": "Intermediate",
+                "COURSE_LINK": "https://www.skillshare.com/en/classes/Retail-Inventory-Replenishment/1581813109"
+            },
+            {
+                "COURSE_NAME": "Supply Chain Planning",
+                "PLATFORM": "edX (MIT)",
+                "DESCRIPTION": "Learn advanced planning techniques for supply chain management, focusing on optimizing replenishment and distribution strategies.",
+                "DIFFICULTY": "Advanced",
+                "COURSE_LINK": "https://www.edx.org/course/supply-chain-planning"
+            },
+            {
+                "COURSE_NAME": "Inventory Replenishment Strategies",
+                "PLATFORM": "YouTube (various channels)",
+                "DESCRIPTION": "Compilation of videos explaining various inventory replenishment methods such as continuous review and periodic review systems.",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://www.youtube.com/results?search_query=inventory+replenishment+strategies"
+            }
+        ],
+        "ERP systems": [
+            {
+                "COURSE_NAME": "ERP Systems and Concepts",
+                "PLATFORM": "Udemy",
+                "DESCRIPTION": "Gain a solid understanding of ERP systems and how they integrate various business functions.",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://www.udemy.com/course/erp-systems-and-concepts/"
+            },
+            {
+                "COURSE_NAME": "Enterprise Resource Planning (ERP) Specialization",
+                "PLATFORM": "Coursera (Copenhagen Business School)",
+                "DESCRIPTION": "Learn about the principles and applications of ERP systems in business management.",
+                "DIFFICULTY": "Intermediate",
+                "COURSE_LINK": "https://www.coursera.org/specializations/enterprise-resource-planning-erp"
+            },
+            {
+                "COURSE_NAME": "Introduction to ERP",
+                "PLATFORM": "YouTube (various channels)",
+                "DESCRIPTION": "A collection of introductory videos explaining the basics and benefits of ERP systems.",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://www.youtube.com/results?search_query=introduction+to+erp+systems"
+            }
+        ],
+        "NetSuite": [
+            {
+                "COURSE_NAME": "NetSuite Fundamentals",
+                "PLATFORM": "Udemy",
+                "DESCRIPTION": "Learn the basics of NetSuite and how to navigate its core modules, including accounting and CRM.",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://www.udemy.com/course/netsuite-fundamentals/"
+            },
+            {
+                "COURSE_NAME": "NetSuite ERP Implementation",
+                "PLATFORM": "Coursera (various providers)",
+                "DESCRIPTION": "Understand the steps involved in implementing NetSuite for a business, from planning to go-live.",
+                "DIFFICULTY": "Intermediate",
+                "COURSE_LINK": "https://www.coursera.org/courses?query=netsuite%20erp"
+            },
+            {
+                "COURSE_NAME": "NetSuite Tutorials",
+                "PLATFORM": "YouTube (various channels)",
+                "DESCRIPTION": "A collection of tutorials covering various aspects of NetSuite, from basic navigation to advanced customization.",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://www.youtube.com/results?search_query=netsuite+tutorials"
+            }
+        ],
+        "Zoho": [
+            {
+                "COURSE_NAME": "Zoho CRM - The Complete Course",
+                "PLATFORM": "Udemy",
+                "DESCRIPTION": "Master Zoho CRM and its features, from lead management to sales automation, enhancing customer relationship management.",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://www.udemy.com/course/zoho-crm-complete-course/"
+            },
+            {
+                "COURSE_NAME": "Zoho Certification Training",
+                "PLATFORM": "Zoho",
+                "DESCRIPTION": "Get certified in Zoho products and learn how to use them effectively in your business workflows.",
+                "DIFFICULTY": "Intermediate",
+                "COURSE_LINK": "https://www.zoho.com/partners/certifications.html"
+            },
+            {
+                "COURSE_NAME": "Zoho Tutorials",
+                "PLATFORM": "YouTube (various channels)",
+                "DESCRIPTION": "A series of videos providing step-by-step instructions on using Zoho applications for business management.",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://www.youtube.com/results?search_query=zoho+tutorials"
+            }
+        ],
+        "Unicommerce": [
+            {
+                "COURSE_NAME": "E-commerce Operations and Management",
+                "PLATFORM": "Coursera",
+                "DESCRIPTION": "Learn how to manage e-commerce operations effectively, including order processing, inventory management, and fulfillment using platforms like Unicommerce.",
+                "DIFFICULTY": "Intermediate",
+                "COURSE_LINK": "https://www.coursera.org/courses?query=ecommerce%20operations"
+            },
+            {
+                "COURSE_NAME": "Supply Chain and Logistics Fundamentals",
+                "PLATFORM": "edX",
+                "DESCRIPTION": "Understand the fundamental concepts of supply chain and logistics management and how platforms like Unicommerce fit into the overall process.",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://www.edx.org/learn/supply-chain"
+            },
+            {
+                "COURSE_NAME": "Unicommerce Training",
+                "PLATFORM": "YouTube (Unicommerce)",
+                "DESCRIPTION": "Official training videos and tutorials provided by Unicommerce for its users.",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://www.youtube.com/c/Unicommerce"
+            }
+        ]
+    }
+}

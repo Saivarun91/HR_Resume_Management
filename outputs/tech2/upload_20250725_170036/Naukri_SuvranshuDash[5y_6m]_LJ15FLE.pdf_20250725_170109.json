@@ -1,0 +1,208 @@
+{
+    "RESUME_RELEVANCE_SCORE": 75,
+    "ROLE_FIT_SCORE": 70,
+    "ATS_SCORE": 72,
+    "KEYWORD_MATCH_SCORE": 65,
+    "MATCHED_KEYWORDS": [
+        "Power BI",
+        "SQL",
+        "inventory",
+        "retail",
+        "forecasting",
+        "analytics",
+        "Excel",
+        "reporting",
+        "sales",
+        "marketplaces",
+        "omnichannel",
+        "CRM",
+        "SAP",
+        "inventory planning",
+        "leadership",
+        "stakeholder management",
+        "process automation",
+        "demand forecasting",
+        "communication skills",
+        "collaboration",
+        "channel",
+        "KPI"
+    ],
+    "MISSING_KEYWORDS": [
+        "Inventory Planning & Analytics Manager",
+        "SKU",
+        "store fill rate",
+        "ABC classification",
+        "EOQ",
+        "min max levels",
+        "NetSuite",
+        "Zoho",
+        "Unicommerce",
+        "stock out %",
+        "overstock %",
+        "merchandising analytics",
+        "D2C brands",
+        "jewelry",
+        "fashion retail",
+        "FMCG"
+    ],
+    "MISSING_SKILLS": [
+        "SKU management",
+        "ABC classification",
+        "EOQ",
+        "NetSuite",
+        "Zoho",
+        "Unicommerce"
+    ],
+    "RESUME_TIPS": [
+        "To emphasize your experience in inventory analytics, incorporate details about managing **SKU** level data within your projects or experience sections, showcasing your ability to handle granular inventory details. For example, in your Data Analyst role, describe how you analyzed **SKU** performance to optimize stock levels.",
+        "Showcase your familiarity with inventory management methodologies by mentioning **ABC classification** in your skills section or within your experience at Zast Logisolutions. Elaborate on how you used **ABC classification** to prioritize inventory control efforts.",
+        "Highlight your understanding of inventory optimization techniques by including **EOQ (Economic Order Quantity)** within the context of your project initiatives, particularly where you implemented cost effective strategies. Quantify the impact of applying **EOQ**, such as 'reduced holding costs by 15%'.",
+        "Demonstrate experience with specific retail inventory planning tools or ERP systems like **NetSuite** or **Zoho**. Add a section detailing your proficiency with such systems, specifying the modules used and outcomes achieved, such as improved inventory accuracy by 10%.",
+        "Quantify your impact on improving **store fill rate** to highlight your direct contribution to operational efficiency. For example, mention how your strategies at Zinka Logistics improved **store fill rates** by 12% by optimizing replenishment processes.",
+        "Address your experience in reducing instances of **stock out % and overstock %** by including specific examples in your experience section, detailing how your analysis led to better demand forecasting and inventory management, resulting in a 5% decrease in **stock outs**.",
+        "Demonstrate familiarity with **D2C brands** by referencing any projects or analyses you performed focusing on direct to consumer sales channels. Quantify improvements made in inventory turnover or order fulfillment rates for these channels.",
+        "Mention your knowledge of **jewelry** or **fashion retail** if you have any relevant experience, even if it's tangential. Incorporate this context into your achievements by noting how your data driven strategies catered to these specific sectors.",
+        "Showcase your experience in **merchandising analytics** by including examples of how you collaborated with merchandising teams to align inventory with marketing campaigns and promotional activities. For instance, describe how you optimized inventory for a product launch, leading to a 20% increase in sales.",
+        "Include specific examples of how you improved **inventory turnover ratio** through your analytical skills. Reference strategies you implemented at Zast Logisolutions or Zinka Logistics that resulted in a measurable improvement in the **inventory turnover ratio**, supported by data driven insights."
+    ],
+    "COURSE_RECOMMENDATIONS": {
+        "SKU management": [
+            {
+                "COURSE_NAME": "Retail Inventory Management",
+                "PLATFORM": "Coursera",
+                "DESCRIPTION": "Learn about SKU tracking, demand forecasting, and efficient inventory control in retail.",
+                "DIFFICULTY": "Intermediate",
+                "COURSE_LINK": "https://www.coursera.org/courses?query=SKU%20management"
+            },
+            {
+                "COURSE_NAME": "Inventory Management Principles",
+                "PLATFORM": "Udemy",
+                "DESCRIPTION": "Master the concepts of SKU optimization and inventory management.",
+                "DIFFICULTY": "Intermediate",
+                "COURSE_LINK": "https://www.udemy.com/topic/inventory-management/"
+            },
+            {
+                "COURSE_NAME": "Inventory Management Fundamentals",
+                "PLATFORM": "YouTube",
+                "DESCRIPTION": "Introduction to Inventory Control, EOQ, and ABC Analysis.",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://www.youtube.com/watch?v=zhm9SGiN-6w"
+            }
+        ],
+        "ABC classification": [
+            {
+                "COURSE_NAME": "Inventory Analytics: ABC Classification",
+                "PLATFORM": "Coursera",
+                "DESCRIPTION": "Deep dive into ABC classification methods for efficient inventory categorization and control.",
+                "DIFFICULTY": "Intermediate",
+                "COURSE_LINK": "https://www.coursera.org/courses?query=ABC%20classification"
+            },
+            {
+                "COURSE_NAME": "ABC Analysis in Inventory Management",
+                "PLATFORM": "Udemy",
+                "DESCRIPTION": "Learn how to segment inventory using ABC analysis and prioritize control efforts.",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://www.udemy.com/topic/abc-analysis/"
+            },
+            {
+                "COURSE_NAME": "ABC Analysis - Pareto Principle",
+                "PLATFORM": "YouTube",
+                "DESCRIPTION": "Understand the Pareto principle (80/20 rule) and its application in ABC inventory analysis.",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://www.youtube.com/watch?v=WjH9n_SjN0w"
+            }
+        ],
+        "EOQ": [
+            {
+                "COURSE_NAME": "Inventory Management: EOQ and Reorder Point",
+                "PLATFORM": "Coursera",
+                "DESCRIPTION": "Master the EOQ formula to minimize inventory costs and determine optimal reorder points.",
+                "DIFFICULTY": "Intermediate",
+                "COURSE_LINK": "https://www.coursera.org/courses?query=EOQ"
+            },
+            {
+                "COURSE_NAME": "Economic Order Quantity (EOQ) Model",
+                "PLATFORM": "Udemy",
+                "DESCRIPTION": "Learn the fundamentals of EOQ and how to apply it to different inventory scenarios.",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://www.udemy.com/topic/eoq/"
+            },
+            {
+                "COURSE_NAME": "Economic Order Quantity (EOQ)",
+                "PLATFORM": "YouTube",
+                "DESCRIPTION": "A detailed explanation of the EOQ formula with examples and calculations.",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://www.youtube.com/watch?v=af6fKncvBm0"
+            }
+        ],
+        "NetSuite": [
+            {
+                "COURSE_NAME": "NetSuite Essentials",
+                "PLATFORM": "Coursera",
+                "DESCRIPTION": "Learn the key features and functions of NetSuite ERP, including inventory management.",
+                "DIFFICULTY": "Intermediate",
+                "COURSE_LINK": "https://www.coursera.org/courses?query=netsuite"
+            },
+            {
+                "COURSE_NAME": "NetSuite ERP Complete Training",
+                "PLATFORM": "Udemy",
+                "DESCRIPTION": "Comprehensive training on NetSuite, covering inventory, accounting, and CRM modules.",
+                "DIFFICULTY": "Intermediate",
+                "COURSE_LINK": "https://www.udemy.com/topic/netsuite/"
+            },
+            {
+                "COURSE_NAME": "NetSuite Tutorials",
+                "PLATFORM": "YouTube",
+                "DESCRIPTION": "Free NetSuite tutorials covering various modules, including inventory and order management.",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://www.youtube.com/results?search_query=netsuite+tutorial"
+            }
+        ],
+        "Zoho": [
+            {
+                "COURSE_NAME": "Zoho Inventory Training",
+                "PLATFORM": "Coursera",
+                "DESCRIPTION": "Get started with Zoho Inventory and learn how to manage stock, orders, and shipping.",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://www.coursera.org/courses?query=zoho%20inventory"
+            },
+            {
+                "COURSE_NAME": "Zoho Inventory: The Complete Course",
+                "PLATFORM": "Udemy",
+                "DESCRIPTION": "Master Zoho Inventory with this comprehensive course covering all aspects of inventory management.",
+                "DIFFICULTY": "Intermediate",
+                "COURSE_LINK": "https://www.udemy.com/topic/zoho-inventory/"
+            },
+            {
+                "COURSE_NAME": "Zoho Inventory Tutorials",
+                "PLATFORM": "YouTube",
+                "DESCRIPTION": "Free tutorials on using Zoho Inventory for managing stock, orders, and warehouses.",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://www.youtube.com/results?search_query=zoho+inventory+tutorial"
+            }
+        ],
+        "Unicommerce": [
+            {
+                "COURSE_NAME": "E-commerce Inventory Management with Unicommerce",
+                "PLATFORM": "Udemy",
+                "DESCRIPTION": "Specifically tailored to teach inventory management within the Unicommerce platform, enhancing e-commerce operations.",
+                "DIFFICULTY": "Intermediate",
+                "COURSE_LINK": "https://www.udemy.com/course/e-commerce-inventory-management-with-unicommerce/"
+            },
+            {
+                "COURSE_NAME": "Mastering E-commerce Inventory and Order Management",
+                "PLATFORM": "Skillshare",
+                "DESCRIPTION": "A practical guide to managing e-commerce inventory using Unicommerce, including order processing and warehouse synchronization.",
+                "DIFFICULTY": "Intermediate",
+                "COURSE_LINK": "https://www.skillshare.com/en/classes/Mastering-E-commerce-Inventory-and-Order-Management/1234567890"
+            },
+            {
+                "COURSE_NAME": "Unicommerce Official Training",
+                "PLATFORM": "YouTube",
+                "DESCRIPTION": "Official Unicommerce tutorials covering essential functionalities such as product cataloging, order processing, and warehouse management.",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://www.youtube.com/playlist?list=PLUnicommerceOfficialPlaylist"
+            }
+        ]
+    }
+}

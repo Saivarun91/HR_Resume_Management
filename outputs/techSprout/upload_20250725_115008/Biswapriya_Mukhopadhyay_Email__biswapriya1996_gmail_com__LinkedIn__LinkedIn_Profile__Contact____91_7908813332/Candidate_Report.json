@@ -1,0 +1,396 @@
+{
+    "ATS": {
+        "Extracted Data": {
+            "Name": "Biswapriya Mukhopadhyay",
+            "Contact Details": "Email: biswapriya1996@gmail.com, LinkedIn: LinkedIn Profile, Contact: (+91)7908813332",
+            "Summary or Objective": null,
+            "Skills": {
+                "Soft Skills": [
+                    "Team Management",
+                    "Coordination",
+                    "Communication",
+                    "Data Governance",
+                    "Data Quality Control"
+                ],
+                "Hard Skills": [
+                    "Data Analysis",
+                    "Data Cleaning",
+                    "Data Wrangling",
+                    "Data Exploration",
+                    "Statistical Analysis",
+                    "Hypothesis Testing",
+                    "Data Management",
+                    "Data Warehousing",
+                    "Data Migration",
+                    "Data Security",
+                    "Data Visualization",
+                    "Power BI",
+                    "Dynamic Excel Dashboard",
+                    "Programming",
+                    "Python",
+                    "SQL",
+                    "VBA",
+                    "Macros",
+                    "Software",
+                    "Advanced Excel with AI",
+                    "Word",
+                    "PowerPoint",
+                    "SQL Server Management Studio"
+                ]
+            },
+            "Experience": [
+                {
+                    "Title": "Data Specialist",
+                    "Company": "JATO Dynamics",
+                    "Duration": "Mar 2023 \u2013 Nov 2024",
+                    "Description": "Engineered and deployed automation solutions utilizing Advanced Excel, Power Query and optimizing data processing workflows and boosting efficiency by 60%. Processed and optimized large, complex datasets using Python, and SQL for manipulation, extrapolation, sorting, cleansing, and mapping, accelerating analysis efficiency by 60%. Designed and developed interactive Power BI dashboards, increasing reporting efficiency by 80% and enabling real time data visibility for stakeholders. Aggregated and integrated datasets using SQL to join tables and uncover meaningful relationships, enhancing data insights by 65%. Partnered with cross functional teams to conduct monthly Quality Assurance reviews and dataset audits, ensuring data accuracy and timely delivery of insights"
+                },
+                {
+                    "Title": "Data Operations Associate",
+                    "Company": "Preqin",
+                    "Duration": "Apr 2021 \u2013 Jan 2023",
+                    "Description": "Retrieved and structured data for private equity valuations, cap table formation, and data governance projects using Advanced MS Excel thereby boosting project efficiency by 60%. Managed huge datasets of Excel Data sets and automated them using Python which increased efficiency by 50%. Gathered and analyzed financial data to meet business requirements, generating comprehensive reports on business models, markets, ownership, and Mergers and Acquisitions track records, leading to a 85% improvement in decision making efficiency. Performed high level audits and quality assurance of financial data using sources like Blackstone, Goldman Sachs, and McKinsey, ensuring accuracy, compliance, and achieving an 92% reduction in errors"
+                },
+                {
+                    "Title": "MIS Executive",
+                    "Company": "Axis Bank",
+                    "Duration": "Nov 2020 \u2013 Mar 2021",
+                    "Description": "Generated daily, weekly, monthly MIS reports for senior management decision making. Built automated dashboards to track 20+ KPIs, improving business insights and decision making. Analyzed data to enhance NPA monitoring and recovery tracking, improving resolution efficiency by 50%. Streamlined reporting processes reducing turnaround time by 45% by implementing automation. Gathered data requirements across departments and prepared reports for audits, ensuring 100% compliance and streamlined performance tracking"
+                }
+            ],
+            "Projects": [],
+            "Certifications": [
+                "Financial Analyst Certification - Udemy",
+                "Beginners to Advanced Excel - Udemy",
+                "Advanced Excel: Power Query (Get & Transform)",
+                "Data Visualization for Data Analysis and Analytics - LinkedIn",
+                "Complete SQL and Databases Bootcamp"
+            ],
+            "Education": "Master of Business Administration (MBA) \u2013 Finance || Jun 2018 \u2013 May 2020, Institute of Management Studies (IMS) Ghaziabad \u2013 Business School"
+        },
+        "ATS Score": {
+            "Total Score": 88,
+            "Breakdown": {
+                "Format Score": 8,
+                "Spelling & Grammar": 10,
+                "Summary": 0,
+                "Skills": 10,
+                "Experience": 10,
+                "Projects": 0,
+                "Certifications": 10,
+                "Education": 10,
+                "Contact Details": 10
+            }
+        },
+        "Recommendations": [
+            "Add a **Summary or Objective** section to highlight your key qualifications and career goals at the beginning of your resume, this will immediately grab the attention of recruiters.",
+            "Quantify your achievements whenever possible by including **specific numbers and metrics** to demonstrate the impact you made in previous roles; for example, 'Increased sales by 30% in Q2' is much more impactful than 'Improved sales'.",
+            "Consider adding a **Projects section** to showcase personal or academic projects where you applied your skills, this helps demonstrate practical experience beyond professional roles.",
+            "Tailor your resume to each specific job application by **highlighting the skills and experiences** that are most relevant to the job description, which will ensure that the ATS recognizes the alignment.",
+            "Ensure that the information in the **contact details** sections are accurate and professional; verify the email address and LinkedIn profile link are correct.",
+            "While two pages is acceptable, ensure all information is highly relevant. Consider condensing information to **maintain a one or two-page** resume.",
+            "The resume has many strong points, but a more modern template might improve its appeal. Try to use **modern resume templates**."
+        ]
+    },
+    "Resume": {
+        "RESUME_RELEVANCE_SCORE": 65,
+        "ROLE_FIT_SCORE": 55,
+        "ATS_SCORE": 60,
+        "KEYWORD_MATCH_SCORE": 52,
+        "MATCHED_KEYWORDS": [
+            "Excel",
+            "Power BI",
+            "reporting",
+            "data",
+            "forecasting",
+            "analytics",
+            "analysis",
+            "KPI",
+            "communication",
+            "inventory",
+            "retail",
+            "SQL",
+            "dashboards",
+            "data visualization"
+        ],
+        "MISSING_KEYWORDS": [
+            "Inventory Planning",
+            "Demand Forecasting",
+            "Replenishment",
+            "Allocation",
+            "Inventory Optimization",
+            "SKU",
+            "Stock Movement",
+            "Store Performance",
+            "Forecast Accuracy",
+            "Inventory Turnover Ratio",
+            "Store Fill Rate",
+            "Stock Out",
+            "FOFO",
+            "Franchise",
+            "NetSuite",
+            "Zoho",
+            "Unicommerce",
+            "ABC classification",
+            "EOQ",
+            "omnichannel",
+            "D2C brands"
+        ],
+        "MISSING_SKILLS": [
+            "Inventory Planning",
+            "Demand Forecasting",
+            "Replenishment",
+            "Allocation",
+            "Inventory Optimization",
+            "ABC classification",
+            "EOQ",
+            "NetSuite",
+            "Zoho",
+            "Unicommerce"
+        ],
+        "RESUME_TIPS": [
+            "In your work experience, highlight your experience with **inventory planning** and **demand forecasting**. Quantify how your forecasting skills improved **forecast accuracy** or reduced **stock outs**, providing specific metrics.",
+            "Expand on your data specialist role at JATO Dynamics to show experience in **replenishment** strategies. Mention any experience defining **min/max levels** or implementing **replenishment rules** for different products.",
+            "Within the Axis Bank section, explain how your analysis of KPIs such as **inventory turnover ratio** contributed to inventory optimization. Provide specifics on how **inventory turnover** improved.",
+            "Mention your experience with **ABC classification** or **EOQ** (Economic Order Quantity) under the skills section. Explain how these methodologies improved **inventory efficiency** or reduced costs.",
+            "Specify any experience with **omnichannel inventory** management (retail + online/marketplaces) from your time at JATO Dynamics or Preqin, if applicable. Detail how you balanced inventory across different channels.",
+            "If you've worked with any specific retail inventory planning tools or ERP systems like **NetSuite**, **Zoho**, or **Unicommerce**, explicitly mention them in the Skills section. Detail how these tools aided **inventory planning**.",
+            "In your Data Specialist role, quantify how your Power BI dashboards provided insights into **store performance**, **forecast accuracy**, or **inventory health**, detailing how these insights improved decision-making.",
+            "Within the Paksha context, add examples of how you have identified and proposed actions for **slow-moving** and **overstocked items**. Include metrics that show improvements made.",
+            "Detail your experience with **allocation** strategies, explaining how you allocate stock for new launches, reorders, and high-performing SKUs in previous roles. Quantify any impact this strategy had on **store fill rates**.",
+            "Incorporate metrics related to **stock movement** and **store fill rate** in your experience descriptions. Explain how you monitored **stock movement** to ensure optimal inventory levels and improved fill rates by a certain percentage."
+        ],
+        "COURSE_RECOMMENDATIONS": {
+            "Inventory Planning": [
+                {
+                    "COURSE_NAME": "Inventory Management: How to Optimize Your Inventory",
+                    "PLATFORM": "Udemy",
+                    "DESCRIPTION": "Learn inventory planning techniques and strategies to optimize stock levels and reduce costs.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.udemy.com/course/inventory-management-how-to-optimize-your-inventory/"
+                },
+                {
+                    "COURSE_NAME": "Supply Chain Analytics: Inventory Optimization",
+                    "PLATFORM": "Coursera",
+                    "DESCRIPTION": "Explore advanced inventory optimization strategies using data analytics and forecasting techniques.",
+                    "DIFFICULTY": "Advanced",
+                    "COURSE_LINK": "https://www.coursera.org/learn/supply-chain-analytics-inventory-optimization"
+                },
+                {
+                    "COURSE_NAME": "Inventory Management Fundamentals",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "Understand the basics of inventory management and different inventory control methods.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.youtube.com/watch?v=kMz4Y0ZqP3k"
+                }
+            ],
+            "Demand Forecasting": [
+                {
+                    "COURSE_NAME": "Demand Forecasting and Planning",
+                    "PLATFORM": "Coursera",
+                    "DESCRIPTION": "Master demand forecasting techniques to accurately predict future demand and improve planning.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.coursera.org/specializations/demand-forecasting"
+                },
+                {
+                    "COURSE_NAME": "Retail Analytics: Forecasting Customer Demand",
+                    "PLATFORM": "edX",
+                    "DESCRIPTION": "Learn how to apply forecasting methods to improve inventory turnover and reduce costs.",
+                    "DIFFICULTY": "Advanced",
+                    "COURSE_LINK": "https://www.edx.org/professional-certificate/iim-bangalore-retail-analytics"
+                },
+                {
+                    "COURSE_NAME": "Time Series Analysis and Forecasting",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "An introduction to the basics of Time Series Analysis and Forecasting",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.youtube.com/watch?v=q-1Fp0zODgM"
+                }
+            ],
+            "Replenishment": [
+                {
+                    "COURSE_NAME": "Inventory Replenishment Planning",
+                    "PLATFORM": "Udemy",
+                    "DESCRIPTION": "Learn how to calculate order quantity for inventory replenishment based on demand.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.udemy.com/course/inventory-replenishment-planning/"
+                },
+                {
+                    "COURSE_NAME": "Inventory Control: Replenishment Models",
+                    "PLATFORM": "Skillshare",
+                    "DESCRIPTION": "How to use min max quantity as control limits to generate replenishment orders.",
+                    "DIFFICULTY": "Advanced",
+                    "COURSE_LINK": "https://www.skillshare.com/en/classes/Inventory-Control-Replenishment-Models/1640402288"
+                },
+                {
+                    "COURSE_NAME": "Inventory Management and Control",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "Understand the basics of Inventory Management and Control",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://m.youtube.com/watch?v=8p7u_I-T29o"
+                }
+            ],
+            "Allocation": [
+                {
+                    "COURSE_NAME": "Retail Buying and Allocation",
+                    "PLATFORM": "Udemy",
+                    "DESCRIPTION": "Learn to analyze past sales data and allocate product in each store by region.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.udemy.com/course/retail-buying-and-allocation/"
+                },
+                {
+                    "COURSE_NAME": "Mastering Inventory Planning",
+                    "PLATFORM": "Coursera",
+                    "DESCRIPTION": "Discover how to use inventory planning strategies in store in store allocation and demand.",
+                    "DIFFICULTY": "Advanced",
+                    "COURSE_LINK": "https://www.coursera.org/lecture/operations-management/mastering-inventory-planning-N8XQ8"
+                },
+                {
+                    "COURSE_NAME": "Supply Chain Management Allocation Models",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "Understand how to allocate demand to different points of supply, also known as cross-docking.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://m.youtube.com/watch?v=gK6T49JKjV0"
+                }
+            ],
+            "Inventory Optimization": [
+                {
+                    "COURSE_NAME": "Inventory Optimization Techniques",
+                    "PLATFORM": "Udemy",
+                    "DESCRIPTION": "Optimize inventory management for maximum efficiency and cost savings.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.udemy.com/course/inventory-optimization-techniques/"
+                },
+                {
+                    "COURSE_NAME": "Supply Chain Optimization",
+                    "PLATFORM": "Coursera",
+                    "DESCRIPTION": "Learn advanced techniques for optimizing supply chain processes, including inventory.",
+                    "DIFFICULTY": "Advanced",
+                    "COURSE_LINK": "https://www.coursera.org/learn/supply-chain-optimization"
+                },
+                {
+                    "COURSE_NAME": "Inventory Management Optimization Strategies",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "Understand the basic of inventory management strategies and cost savings.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://m.youtube.com/watch?v=z7VpTa-jO54"
+                }
+            ],
+            "ABC classification": [
+                {
+                    "COURSE_NAME": "Inventory Management: ABC Analysis",
+                    "PLATFORM": "Udemy",
+                    "DESCRIPTION": "Learn how to categorize your inventory using ABC analysis for better control.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.udemy.com/course/inventory-management-abc-analysis/"
+                },
+                {
+                    "COURSE_NAME": "Inventory Control and Management",
+                    "PLATFORM": "Coursera",
+                    "DESCRIPTION": "Learn ABC classification for effective inventory management and cost reduction.",
+                    "DIFFICULTY": "Advanced",
+                    "COURSE_LINK": "https://www.coursera.org/lecture/inventory-control/abc-classification-JzQhJ"
+                },
+                {
+                    "COURSE_NAME": "What is ABC analysis in Inventory Management?",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "Understand how to classify and manage products by importance.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://m.youtube.com/watch?v=yCzU5H26K-g"
+                }
+            ],
+            "EOQ": [
+                {
+                    "COURSE_NAME": "Economic Order Quantity (EOQ) Model",
+                    "PLATFORM": "Udemy",
+                    "DESCRIPTION": "How to find the EOQ formula and reduce the cost with an optimal value.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.udemy.com/course/economic-order-quantity-eoq-model/"
+                },
+                {
+                    "COURSE_NAME": "Supply Chain and Logistics Fundamentals",
+                    "PLATFORM": "Coursera",
+                    "DESCRIPTION": "Learn the EOQ formula for efficient inventory planning.",
+                    "DIFFICULTY": "Advanced",
+                    "COURSE_LINK": "https://www.coursera.org/lecture/supply-chain-logistics-fundamentals/eoq-model-c66s0"
+                },
+                {
+                    "COURSE_NAME": "Economic Order Quantity (EOQ)",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "Learn Economic Order Quantity Basics",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://m.youtube.com/watch?v=AfQM8vR8gow"
+                }
+            ],
+            "NetSuite": [
+                {
+                    "COURSE_NAME": "NetSuite ERP Fundamentals",
+                    "PLATFORM": "Udemy",
+                    "DESCRIPTION": "Learn how to implement your inventory modules in NetSuite ERP.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.udemy.com/course/netsuite-erp-fundamentals/"
+                },
+                {
+                    "COURSE_NAME": "NetSuite Inventory Management",
+                    "PLATFORM": "Coursera",
+                    "DESCRIPTION": "Learn how to implement NetSuite warehouse features.",
+                    "DIFFICULTY": "Advanced",
+                    "COURSE_LINK": "https://www.coursera.org/lecture/business-metrics/netsuite-inventory-management-h6H2P"
+                },
+                {
+                    "COURSE_NAME": "What is NetSuite?",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "Introduction to all NetSuite features",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://m.youtube.com/watch?v=I_mauf9Selo"
+                }
+            ],
+            "Zoho": [
+                {
+                    "COURSE_NAME": "Zoho Inventory: The Complete Course",
+                    "PLATFORM": "Udemy",
+                    "DESCRIPTION": "Complete tutorial on how to use Zoho Inventory.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.udemy.com/course/zoho-inventory-the-complete-course/"
+                },
+                {
+                    "COURSE_NAME": "Zoho Inventory: Setting up and Managing",
+                    "PLATFORM": "Skillshare",
+                    "DESCRIPTION": "Discover how to configure and use Zoho to manage your products.",
+                    "DIFFICULTY": "Advanced",
+                    "COURSE_LINK": "https://www.skillshare.com/en/classes/Zoho-Inventory-Setting-up-and-Managing/808401590"
+                },
+                {
+                    "COURSE_NAME": "What is Zoho Inventory",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "Introduction to Zoho Inventory",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://m.youtube.com/watch?v=Yj-4bAvG-4U"
+                }
+            ],
+            "Unicommerce": [
+                {
+                    "COURSE_NAME": "Unicommerce Training",
+                    "PLATFORM": "Udemy",
+                    "DESCRIPTION": "Learn how to implement the all in one commerce platform to support order, logistics and warehouse management.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.udemy.com/course/unicommerce-training/"
+                },
+                {
+                    "COURSE_NAME": "Unicommerce Full Course",
+                    "PLATFORM": "Skillshare",
+                    "DESCRIPTION": "Discover how to use Unicommerce to run order managment, shipping operations and logistics.",
+                    "DIFFICULTY": "Advanced",
+                    "COURSE_LINK": "https://www.skillshare.com/en/classes/Unicommerce-Full-Course/1349182960"
+                },
+                {
+                    "COURSE_NAME": "Unicommerce Introduction",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "Introduction to Unicommerce",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://m.youtube.com/watch?v=bQnZ7oFw7cM"
+                }
+            ]
+        }
+    }
+}

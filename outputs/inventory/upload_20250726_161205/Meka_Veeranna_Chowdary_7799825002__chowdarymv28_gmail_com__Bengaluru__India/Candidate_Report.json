@@ -1,0 +1,221 @@
+{
+    "ATS": {
+        "Extracted Data": {
+            "Name": "Meka Veeranna Chowdary",
+            "Contact Details": "7799825002, chowdarymv28@gmail.com, Bengaluru, India",
+            "Summary or Objective": "Results driven Power BI Developer with 6 years of experience in designing and developing interactive dashboards, reports, and data models. Adept at transforming complex data into actionable insights to drive strategic decision making across diverse business domains. Proficient in Power BI, DAX, Power Query, and SQL, with a solid foundation in business intelligence, data analytics, and data visualization best practices.",
+            "Skills": {
+                "Soft Skills": [
+                    "Communication",
+                    "Mentoring",
+                    "Teamwork",
+                    "Problem-solving",
+                    "Adaptability"
+                ],
+                "Hard Skills": [
+                    "Power BI",
+                    "DAX",
+                    "Power Query",
+                    "SQL",
+                    "Data Analysis",
+                    "Data Visualization",
+                    "Data Warehousing",
+                    "JIRA",
+                    "Python",
+                    "ETL"
+                ]
+            },
+            "Experience": [
+                {
+                    "Title": "Business Intelligence Analyst",
+                    "Company": "Business Integrity Services",
+                    "Duration": "02/2023 \u2013 05/2025",
+                    "Description": "Partnered with cross functional teams in healthcare and retail to identify data driven opportunities, streamline reporting processes, and enhance operational efficiency. Designed and implemented complex DAX measures and calculated columns to migrate and enhance legacy Excel reports into interactive and scalable Power BI dashboards. Developed performance oriented dashboards, including Physician and OKR Dashboards, by integrating key performance indicators (KPIs) and utilizing diverse visualizations to support strategic decision making. Applied deep knowledge of Power BI, DAX, Power Query, and SQL to deliver high impact insights, reduce manual effort, and drive data consistency across departments."
+                },
+                {
+                    "Title": "Power BI Developer",
+                    "Company": "MBIT Computraining Pvt. Ltd.",
+                    "Duration": "03/2022 \u2013 12/2022",
+                    "Description": "Designed and developed interactive Power BI dashboards to analyze key business KPIs, driving more informed and timely executive decision making. Led the BI development efforts for an e commerce analytics project as a Senior Power BI Developer, collaborating closely with business and analytics teams. Interpreted Business Requirement Documents (BRDs) to create and validate metadata in coordination with functional experts and the data team. Prepared and modeled datasets based on finalized metadata, implementing incremental refresh to optimize performance and maintain data accuracy. Developed dynamic reports in Power BI Desktop by connecting to live datasets, creating advanced visualizations, and applying row level security (RLS) to ensure data governance and user level access control."
+                },
+                {
+                    "Title": "Data Aggregation Associate",
+                    "Company": "DEEP COMPUTE PVT LTD",
+                    "Duration": "11/2018 \u2013 01/2022",
+                    "Description": "Contributed to data engineering tasks at Deepcompute, including data aggregation, representation, cleaning, and iterative module tuning to support data science initiatives and reporting requirements. Worked on the nference pharmaceutical project, developing applications to manage relationships between drugs, diseases, and biomedical devices, enabling pharma companies to identify potential drug solutions. Extracted and processed data from JSON, CSV, XML, HTML, and PDF formats, transforming it into structured datasets for analytics and visualization in tools such as Power BI."
+                }
+            ],
+            "Projects": [],
+            "Certifications": [],
+            "Education": "Master of Computer Applications (MCA), Jawaharlal Nehru Technological University, Kakinada (2014 \u2013 2017)"
+        },
+        "ATS Score": {
+            "Total Score": 85,
+            "Breakdown": {
+                "Format Score": 10,
+                "Spelling & Grammar": 10,
+                "Summary": 10,
+                "Skills": 10,
+                "Experience": 10,
+                "Projects": 5,
+                "Certifications": 5,
+                "Education": 10,
+                "Contact Details": 10
+            }
+        },
+        "Recommendations": [
+            "Add specific details and quantifiable achievements to the project section. For example, mention the **technologies** used and the **impact** of the projects, even if they were academic projects. ",
+            "Include any relevant certifications to demonstrate expertise and commitment to professional development, especially in areas like **Power BI**, **Data Analysis**, or **Data Warehousing** to improve the **certifications** section.",
+            "Consider quantifying accomplishments within each role to showcase the impact of your contributions. For example, specify how your **dashboards** improved **decision-making** or increased **efficiency**.",
+            "Tailor the summary to match the specific requirements of the job. Highlighting your most relevant skills and experiences at the top can quickly grab the recruiter's attention. Focus on **Power BI** and **data analytics** roles.",
+            "While a comprehensive list of skills is beneficial, prioritize the most relevant and sought-after skills for the desired roles. Ensure your skills align with the **job description** and are reflected in your **experience** section.",
+            "Ensure there are no grammatical errors or typos, even minor ones, as they can significantly impact the perception of your attention to detail. Use **grammar checking tools** to improve **Spelling & Grammar** section.",
+            "Consider adding a section for awards or recognitions to highlight outstanding achievements and set yourself apart from other candidates. Especially for **Power BI** or **Data Analysis**."
+        ]
+    },
+    "Resume": {
+        "RESUME_RELEVANCE_SCORE": 80,
+        "ROLE_FIT_SCORE": 75,
+        "ATS_SCORE": 85,
+        "KEYWORD_MATCH_SCORE": 82,
+        "MATCHED_KEYWORDS": [
+            "Power BI",
+            "Data Analysis",
+            "Data Visualization",
+            "Excel",
+            "SQL",
+            "Retail",
+            "Analytics",
+            "Reporting",
+            "Dashboards",
+            "Forecasting",
+            "Inventory",
+            "Demand Forecasting",
+            "Replenishment",
+            "Inventory Optimization",
+            "Reporting",
+            "KPIs",
+            "Communication skills"
+        ],
+        "MISSING_KEYWORDS": [
+            "Inventory Planning",
+            "Merchandising Analytics",
+            "Omnichannel Inventory",
+            "FOFO Franchise",
+            "Stock Movement",
+            "Stock Out %",
+            "Overstock %",
+            "Store Fill Rate",
+            "EOQ",
+            "ABC Classification",
+            "Min Max",
+            "Inventory Turnover Ratio",
+            "NetSuite",
+            "Zoho",
+            "Unicommerce",
+            "ERP Systems"
+        ],
+        "MISSING_SKILLS": [
+            "Inventory Planning",
+            "Merchandising Analytics",
+            "NetSuite",
+            "Zoho",
+            "Unicommerce",
+            "Tableau"
+        ],
+        "ROLEMATCHES": {
+            "Business Intelligence Analyst": 85,
+            "Inventory Analyst": 80,
+            "Retail Analyst": 78,
+            "Supply Chain Analyst": 75,
+            "Data Analyst": 70
+        },
+        "YEARS": 6,
+        "INTERVIEW_QUESTIONS": {
+            "PSYCHOMETRIC": [
+                {
+                    "questions": "Describe a time when you had to adapt to a significant change in a project or work environment. How did you handle it?",
+                    "answer": "I will describe the situation, task, action and result."
+                },
+                {
+                    "questions": "How do you typically approach making decisions when you have incomplete or ambiguous information?",
+                    "answer": "I will describe the situation, task, action and result."
+                },
+                {
+                    "questions": "Tell me about a time you had to think critically to solve a problem. What steps did you take?",
+                    "answer": "I will describe the situation, task, action and result."
+                }
+            ],
+            "Soft_Skills": [
+                {
+                    "questions": "Describe a situation where you had to collaborate with a difficult team member. How did you manage the situation?",
+                    "answer": "I will describe the situation, task, action and result."
+                },
+                {
+                    "questions": "How do you ensure your communication is clear and effective when working with colleagues or stakeholders?",
+                    "answer": "I will describe the situation, task, action and result."
+                },
+                {
+                    "questions": "Tell me about a time you had to lead a team through a challenging project. What did you do to motivate and guide them?",
+                    "answer": "I will describe the situation, task, action and result."
+                }
+            ],
+            "Behavioral": [
+                {
+                    "questions": "Tell me about a time you faced a significant obstacle while working on a project. How did you overcome it?",
+                    "answer": "I will describe the situation, task, action and result."
+                },
+                {
+                    "questions": "Describe a situation where you had to make a difficult decision that impacted multiple stakeholders. What was your approach?",
+                    "answer": "I will describe the situation, task, action and result."
+                },
+                {
+                    "questions": "Tell me about a time you failed to meet a deadline or goal. What did you learn from the experience?",
+                    "answer": "I will describe the situation, task, action and result."
+                }
+            ],
+            "Technical_easy": [
+                {
+                    "questions": "What is Power BI and how is it used in data analysis?",
+                    "answer": "Power BI is a business analytics service by Microsoft. It provides interactive visualizations and business intelligence capabilities with a simple interface for end users to create their own reports and dashboards. It is used to analyze data from a wide range of sources and create actionable insights."
+                },
+                {
+                    "questions": "Can you describe the difference between a calculated column and a measure in Power BI?",
+                    "answer": "A calculated column is computed at the time the data is loaded and stored in the data model, whereas a measure is calculated at query time. Measures are dynamic and depend on the context of the report."
+                },
+                {
+                    "questions": "What is DAX and why is it important in Power BI?",
+                    "answer": "DAX (Data Analysis Expressions) is a formula expression language used in Power BI to define calculations and data manipulation. It is essential for creating custom measures, calculated columns, and tables that allow for advanced data analysis."
+                }
+            ],
+            "Technical_medium": [
+                {
+                    "questions": "How would you optimize a Power BI dashboard for performance when dealing with a large dataset?",
+                    "answer": "I will describe the situation, task, action and result."
+                },
+                {
+                    "questions": "Can you explain how you would implement row-level security (RLS) in Power BI to restrict data access for different users?",
+                    "answer": "I will describe the situation, task, action and result."
+                },
+                {
+                    "questions": "Describe a scenario where you used Power Query to transform and clean data from multiple sources. What were the key steps you took?",
+                    "answer": "I will describe the situation, task, action and result."
+                }
+            ],
+            "Technical_hard": [
+                {
+                    "questions": "How would you design a data model in Power BI to support complex inventory planning and forecasting requirements for a retail company?",
+                    "answer": "I will describe the situation, task, action and result."
+                },
+                {
+                    "questions": "You are tasked with creating a Power BI report that combines data from multiple SQL databases and cloud services. What architecture and tools would you use to ensure data consistency and performance?",
+                    "answer": "I will describe the situation, task, action and result."
+                },
+                {
+                    "questions": "Describe a challenging DAX calculation you implemented to solve a specific business problem. What were the key considerations and trade-offs?",
+                    "answer": "I will describe the situation, task, action and result."
+                }
+            ]
+        }
+    }
+}

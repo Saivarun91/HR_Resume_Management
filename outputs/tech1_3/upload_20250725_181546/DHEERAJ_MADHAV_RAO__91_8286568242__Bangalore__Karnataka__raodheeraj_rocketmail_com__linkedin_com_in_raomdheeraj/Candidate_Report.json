@@ -1,0 +1,266 @@
+{
+    "ATS": {
+        "Extracted Data": {
+            "Name": "DHEERAJ MADHAV RAO",
+            "Contact Details": "+91 8286568242, Bangalore, Karnataka, raodheeraj@rocketmail.com, linkedin.com/in/raomdheeraj",
+            "Summary or Objective": "An analytical and business focused finance professional with experience across FP&A, inventory planning, and tech nology finance. Adaptive to translating complex data into actionable insights to drive strategic decisions. Proven track record in optimizing budgets, automating reporting workflows, and partnering with leadership on high impact initiatives. Proficient in Excel, SQL, Power BI, Python, and financial modeling. Actively seeking roles in Financial Analysis, Data Analytics, or Business Consulting.",
+            "Skills": {
+                "Soft Skills": [],
+                "Hard Skills": [
+                    "Budgeting",
+                    "FP&A",
+                    "Forecasting",
+                    "Cost Optimization",
+                    "Scenario Modeling",
+                    "Risk Management",
+                    "Excel",
+                    "SQL",
+                    "Power BI",
+                    "Python",
+                    "Financial Modeling",
+                    "Variance Analysis",
+                    "ChatGPT"
+                ]
+            },
+            "Experience": [
+                {
+                    "Title": "Senior Analyst",
+                    "Company": "Lowe s India",
+                    "Duration": "Apr 2023 \u2013 Present",
+                    "Description": "Led forecasting for high impact inventory categories aligned to corporate goals. Built Power BI dashboards to automate metrics reporting, saving 60% effort. Partnered cross functionally to evaluate excess inventory pricing and markdowns. Automated recurring reports using SQL, Excel, and Power Automate workflows. Delivered business insights to senior leadership on stock health and velocity."
+                },
+                {
+                    "Title": "Analyst",
+                    "Company": "Lowe s India",
+                    "Duration": "Jun 2022 \u2013 Apr 2023",
+                    "Description": "Managed $500M software budget portfolio; identified $2.5M in savings. Built a Python based tracker to monitor forecasts and accruals, saving 10+ hrs/month. Automated workflows and reports using ChatGPT, Python, and Power Automate. Provided cost, variance, and forecast insights to cross functional stakeholders."
+                },
+                {
+                    "Title": "Associate Intern",
+                    "Company": "Samvitti Capital Pvt. Ltd.",
+                    "Duration": "Apr 2022 \u2013 Jun 2022",
+                    "Description": "Developed and tested Python based F&O strategies for institutional clients. Delivered trading and risk management insights to improve portfolio outcomes. Created models to manage leverage and reduce drawdown impact."
+                },
+                {
+                    "Title": "Civil & Project Engineer",
+                    "Company": null,
+                    "Duration": "2017 \u2013 2021",
+                    "Description": "Oversaw 1000 crore CIDCO housing project across 15 contractors. Ensured structural and material quality; resolved site level issues in real time. Delivered foundation slabs in record 6 month cycles to maintain timelines."
+                }
+            ],
+            "Projects": [
+                "Stock Indicator App: Developed a Python tool to backtest strategies using technical indicators for retail traders.",
+                "X Culture Challenge: Designed a go to market strategy with international teammates for a real business client.",
+                "SCOT Store Project: Led vendor outreach and collected feedback for sustainable store relaunch planning."
+            ],
+            "Certifications": [],
+            "Education": "PGDM, T A Pai Management Institute, Manipal 2021 \u2013 2023 CGPA: 7.08\nB.E. Civil Engineering, Pillai HOC College of Engg. 2013 \u2013 2017 CGPA: 7.38\nClass XII, DAV Public School 2013 Percentage: 83.2%\nClass X, DAV Public School 2011 CGPA: 9.4"
+        },
+        "ATS Score": {
+            "Total Score": 77,
+            "Breakdown": {
+                "Format Score": 5,
+                "Spelling & Grammar": 10,
+                "Summary": 10,
+                "Skills": 9,
+                "Experience": 10,
+                "Projects": 10,
+                "Certifications": 0,
+                "Education": 8,
+                "Contact Details": 5
+            }
+        },
+        "Recommendations": [
+            "The resume is 2 pages long which is acceptable, however, consider to short it into 1 page to improve the **format score**. Tailor the content to fit into a single page, highlighting the most relevant experiences and skills for the desired roles.",
+            "While the resume showcases technical skills, it lacks explicit **soft skills**. Integrate soft skills like communication, teamwork, and problem-solving within the experience descriptions to demonstrate well-rounded capabilities.",
+            "The resume is missing a **Certifications** section. Consider adding any relevant certifications to enhance credibility and demonstrate expertise in specific areas relevant to financial analysis, data analytics, or business consulting.",
+            "While the education section is present, it could benefit from additional details. Consider mentioning relevant coursework, academic projects, or honors received during your PGDM or B.E. to showcase **academic achievements**.",
+            "The contact details section is somewhat lacking in formatting. Ensure your **email address** and **LinkedIn profile URL** are clearly formatted and easily accessible. Consider adding a professional headshot to improve visual appeal and recognizability.",
+            "While the skills section lists various technical skills, consider quantifying your proficiency levels. Use terms like 'Advanced,' 'Intermediate,' or 'Proficient' to provide a better understanding of your **skill levels** in tools like Excel, SQL, and Power BI.",
+            "The objective statement is effective but could be further refined. Highlight your unique value proposition and tailor it to align specifically with the target roles in financial analysis, data analytics, or business consulting. Use **keywords** from the job descriptions."
+        ]
+    },
+    "Resume": {
+        "RESUME_RELEVANCE_SCORE": 75,
+        "ROLE_FIT_SCORE": 70,
+        "ATS_SCORE": 80,
+        "KEYWORD_MATCH_SCORE": 72,
+        "MATCHED_KEYWORDS": [
+            "Inventory Planning",
+            "Analytics",
+            "Demand Forecasting",
+            "Inventory Levels",
+            "Retail",
+            "Online Channels",
+            "Replenishments",
+            "Central Warehouse",
+            "Actionable Insights",
+            "Reporting",
+            "Dashboards",
+            "Inventory Availability",
+            "Working Capital Efficiency",
+            "Forecast Product Demand",
+            "SKU",
+            "Store",
+            "Channel Level",
+            "Historical Sales",
+            "Seasonality",
+            "Marketing Inputs",
+            "Sales Teams",
+            "Adjust Forecasts",
+            "New Launches",
+            "Promotions",
+            "Regional Preferences",
+            "Min Max Levels",
+            "Replenishment Rules",
+            "Monitor Stock Movement",
+            "Timely Transfers",
+            "Allocate Stock",
+            "Reorders",
+            "High Performing SKUs",
+            "Inventory Optimization",
+            "Inventory Turnover",
+            "Sell Through",
+            "Aging Stock",
+            "Overstocked Items",
+            "Forecast Accuracy",
+            "Store Performance",
+            "Automate Reporting",
+            "Power BI",
+            "Excel",
+            "SQL",
+            "Leadership",
+            "Planning Reviews",
+            "Advanced Excel",
+            "Pivot Tables",
+            "Lookups",
+            "Modeling",
+            "Tableau",
+            "Forecasting Techniques",
+            "Planning Logic",
+            "ABC Classification",
+            "Analytical Thinking",
+            "Attention to Detail",
+            "Communication Skills",
+            "Cross Functional Collaboration",
+            "Omnichannel Inventory",
+            "D2C Brands",
+            "Merchandising",
+            "Supply Chain",
+            "Variance Analysis",
+            "Financial Modeling"
+        ],
+        "MISSING_KEYWORDS": [
+            "ERP Systems",
+            "NetSuite",
+            "Zoho",
+            "Unicommerce",
+            "FOFO Franchise",
+            "Stock Out %",
+            "Overstock %",
+            "Dashboard Adherence",
+            "Reporting Adherence",
+            "EOQ",
+            "Jewelry",
+            "Fashion Retail",
+            "FMCG",
+            "Replenishment & Allocation"
+        ],
+        "MISSING_SKILLS": [
+            "Tableau",
+            "Inventory Planning Tools",
+            "ERP Systems",
+            "NetSuite",
+            "Zoho",
+            "Unicommerce"
+        ],
+        "INTERVIEW_QUESTIONS": {
+            "PSYCHOMETRIC": [
+                {
+                    "questions": "Describe a situation where you had to make a quick decision with limited information. How did you approach it, and what was the outcome?",
+                    "answer": "Ideal answer should highlight the candidate's ability to assess risk, prioritize factors, and make a logical decision under pressure. It should show adaptability and learning from the outcome."
+                },
+                {
+                    "questions": "How do you handle conflicting priorities when multiple stakeholders demand your attention?",
+                    "answer": "Ideal answer should showcase the candidate's prioritization skills, ability to negotiate, and communicate effectively with stakeholders to manage expectations and ensure alignment."
+                },
+                {
+                    "questions": "Share an instance where you had to adapt to a significant change in your work environment or role. How did you handle the transition, and what did you learn from it?",
+                    "answer": "Ideal answer should demonstrate the candidate's resilience, flexibility, and ability to quickly adjust to new situations. It should highlight their learning and growth mindset."
+                }
+            ],
+            "Soft_Skills": [
+                {
+                    "questions": "Describe a time when you had to collaborate with a difficult team member. How did you navigate the situation, and what was the result?",
+                    "answer": "Ideal answer should illustrate the candidate's interpersonal skills, patience, and ability to find common ground and work towards a shared goal despite differences. It should highlight their conflict resolution abilities."
+                },
+                {
+                    "questions": "How do you ensure effective communication with stakeholders who have varying levels of technical knowledge?",
+                    "answer": "Ideal answer should demonstrate the candidate's ability to tailor communication to the audience, use clear and concise language, and actively listen to ensure understanding and alignment."
+                },
+                {
+                    "questions": "Tell me about a time when you had to lead a team through a challenging project. What strategies did you use to motivate and guide the team, and what was the outcome?",
+                    "answer": "Ideal answer should showcase the candidate's leadership skills, ability to inspire and empower others, and effectively manage team dynamics to achieve project goals. It should highlight their ability to provide direction, support, and recognition."
+                }
+            ],
+            "Behavioral": [
+                {
+                    "questions": "Tell me about a time when you identified a problem with inventory management and took the initiative to solve it. What was the situation, what actions did you take, and what was the result?",
+                    "answer": "Ideal answer should follow the STAR method and highlight the candidate's problem-solving skills, analytical thinking, and proactive approach to improving inventory processes. It should quantify the positive impact of their actions."
+                },
+                {
+                    "questions": "Describe a situation where you had to present complex data to senior leadership. How did you prepare, what was your approach, and what was the outcome?",
+                    "answer": "Ideal answer should demonstrate the candidate's communication skills, ability to translate complex data into actionable insights, and effectively influence decision-making. It should highlight their ability to present a clear and compelling narrative."
+                },
+                {
+                    "questions": "Share an experience where you had to implement a new forecasting technique or tool. What challenges did you encounter, how did you overcome them, and what improvements did it bring?",
+                    "answer": "Ideal answer should showcase the candidate's adaptability, problem-solving skills, and ability to drive innovation and process improvements. It should highlight their learning and growth mindset."
+                }
+            ],
+            "Technical": {
+                "easy": [
+                    {
+                        "questions": "What is ABC classification in inventory management, and how is it used?",
+                        "answer": "Ideal answer should explain that ABC classification categorizes inventory items based on their value and importance. A items are high-value, B items are medium-value, and C items are low-value. This helps prioritize inventory management efforts."
+                    },
+                    {
+                        "questions": "How do you use Excel pivot tables for inventory analysis?",
+                        "answer": "Ideal answer should describe how pivot tables can summarize and analyze large datasets, allowing for easy identification of trends, patterns, and outliers in inventory data. It should include examples like calculating inventory turnover by SKU or store."
+                    },
+                    {
+                        "questions": "What is demand forecasting, and why is it important for inventory planning?",
+                        "answer": "Ideal answer should explain that demand forecasting is the process of predicting future demand for products or services. It is crucial for inventory planning as it helps ensure optimal inventory levels, minimizing stockouts and overstocking."
+                    }
+                ],
+                "medium": [
+                    {
+                        "questions": "How would you approach forecasting demand for a new product launch with limited historical data?",
+                        "answer": "Ideal answer should include using market research, competitor analysis, and qualitative insights from sales and marketing teams. It should mention techniques like scenario planning and sensitivity analysis to account for uncertainty."
+                    },
+                    {
+                        "questions": "Describe how you would use SQL to automate a recurring inventory report. What steps would you take?",
+                        "answer": "Ideal answer should outline the process of writing SQL queries to extract and transform data from inventory databases, scheduling the queries to run automatically, and integrating the output with reporting tools like Power BI."
+                    },
+                    {
+                        "questions": "Explain how you would use Power BI to create a dashboard for monitoring inventory health. What key metrics would you include, and why?",
+                        "answer": "Ideal answer should describe creating visualizations for key metrics like inventory turnover, sell-through rate, stockout percentage, and aging stock. It should explain how the dashboard can provide insights into inventory performance and support decision-making."
+                    }
+                ],
+                "hard": [
+                    {
+                        "questions": "You're tasked with optimizing inventory levels across multiple retail stores and online channels. How would you develop a comprehensive inventory planning strategy?",
+                        "answer": "Ideal answer should cover analyzing historical sales data, forecasting demand using statistical models, setting min-max levels based on lead times and variability, implementing replenishment rules, and continuously monitoring and adjusting the strategy based on performance."
+                    },
+                    {
+                        "questions": "How would you use machine learning techniques to improve demand forecasting accuracy? Describe a specific algorithm or approach.",
+                        "answer": "Ideal answer should discuss using time series forecasting algorithms like ARIMA or Prophet, incorporating external factors like seasonality and promotions, and continuously training and validating the model to improve accuracy."
+                    },
+                    {
+                        "questions": "Describe a situation where you had to manage a complex inventory issue, such as a product recall or supply chain disruption. What steps did you take to mitigate the impact and ensure business continuity?",
+                        "answer": "Ideal answer should showcase the candidate's problem-solving skills, ability to coordinate with multiple stakeholders, and implement contingency plans to minimize disruptions. It should highlight their communication and leadership abilities."
+                    }
+                ]
+            }
+        }
+    }
+}

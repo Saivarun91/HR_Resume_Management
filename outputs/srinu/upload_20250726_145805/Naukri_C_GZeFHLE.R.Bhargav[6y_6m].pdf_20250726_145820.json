@@ -1,0 +1,154 @@
+{
+    "RESUME_RELEVANCE_SCORE": 65,
+    "ROLE_FIT_SCORE": 60,
+    "ATS_SCORE": 70,
+    "KEYWORD_MATCH_SCORE": 75,
+    "MATCHED_KEYWORDS": [
+        "Power BI",
+        "SQL",
+        "Excel",
+        "Dashboards",
+        "Retail",
+        "Inventory",
+        "Reporting",
+        "Data",
+        "Analytics",
+        "Demand Forecasting",
+        "Inventory Planning",
+        "Data sources",
+        "Data modelling",
+        "Data Analysis",
+        "Data validation",
+        "Communication skills",
+        "SQL server",
+        "Forecasting techniques",
+        "KPI",
+        "Data Transformation",
+        "Data Visualization",
+        "ETL",
+        "SaaS"
+    ],
+    "MISSING_KEYWORDS": [
+        "Jewelry",
+        "Omnichannel",
+        "Marketplaces",
+        "FMCG",
+        "D2C brands",
+        "ERP systems",
+        "NetSuite",
+        "Zoho",
+        "Unicommerce",
+        "Replenishment",
+        "Allocation",
+        "Inventory Optimization",
+        "Min/Max Levels",
+        "ABC Classification",
+        "EOQ",
+        "Stock Movement",
+        "Slow Moving Items",
+        "Overstocked Items",
+        "Store performance",
+        "Leadership",
+        "Planning reviews",
+        "Stock out %",
+        "Overstock %",
+        "Dashboard adherence",
+        "reporting adherence",
+        "merchandising"
+    ],
+    "MISSING_SKILLS": [
+        "Tableau",
+        "Advanced Excel",
+        "Analytical thinking",
+        "Cross functional collaboration"
+    ],
+    "ROLEMATCHES": {
+        "Power BI Developer": 85,
+        "Data Analyst": 80,
+        "Business Intelligence Analyst": 78,
+        "Data Engineer": 75,
+        "SQL Developer": 70
+    },
+    "INTERVIEW_QUESTIONS": {
+        "PSYCHOMETRIC": [
+            {
+                "questions": "Describe a situation where you had to make a quick decision with limited information. How did you approach it, and what was the outcome?",
+                "answer": "Look for evidence of critical thinking, risk assessment, and adaptability. The candidate should demonstrate an ability to remain calm and rational under pressure."
+            },
+            {
+                "questions": "How do you handle ambiguity and uncertainty in your work environment?",
+                "answer": "Assess the candidate's resilience and problem-solving skills. They should be able to articulate strategies for managing uncertainty and proactively seeking clarity."
+            },
+            {
+                "questions": "Tell me about a time when you had to adapt to a significant change in your work or project. How did you handle it?",
+                "answer": "Evaluate their adaptability and flexibility. The response should highlight their willingness to learn new skills and adjust to changing circumstances."
+            }
+        ],
+        "Soft_Skills": [
+            {
+                "questions": "Describe a time when you had to collaborate with a difficult team member. How did you handle the situation?",
+                "answer": "The candidate should demonstrate empathy, communication skills, and the ability to find common ground. Look for examples of conflict resolution and compromise."
+            },
+            {
+                "questions": "How do you ensure clear and effective communication with stakeholders who may not have a technical background?",
+                "answer": "Assess the candidate's ability to simplify complex information and tailor their communication style to different audiences. They should be able to provide examples of successful communication strategies."
+            },
+            {
+                "questions": "Tell me about a time when you had to take the lead on a project. What were the key challenges, and how did you overcome them?",
+                "answer": "Evaluate their leadership skills, including delegation, motivation, and problem-solving. The response should highlight their ability to take initiative and drive results."
+            }
+        ],
+        "Behavioral": [
+            {
+                "questions": "Tell me about a time when you had to debug and optimize a complex Power BI report. What steps did you take, and what was the outcome?",
+                "answer": "The candidate should describe the situation (complex report), task (debug and optimize), action (steps taken to analyze DAX formulas, data model relationships, etc.), and result (improved report performance). Look for a structured approach and a focus on measurable improvements."
+            },
+            {
+                "questions": "Describe a situation where you had to implement row-level security in Power BI. What challenges did you face, and how did you overcome them?",
+                "answer": "Evaluate their experience with security measures and their ability to handle sensitive data. The response should demonstrate a strong understanding of security best practices and problem-solving skills."
+            },
+            {
+                "questions": "Tell me about a time when you had to integrate data from multiple sources, including APIs and SQL Server. What were the key challenges, and how did you ensure data accuracy and consistency?",
+                "answer": "Assess their data integration skills and attention to detail. The candidate should be able to describe the steps taken to ensure data quality and reliability across different data sources."
+            }
+        ],
+        "Technical": [
+            {
+                "easy": [
+                    {
+                        "questions": "What are the key differences between calculated columns and measures in Power BI?",
+                        "answer": "Calculated columns are computed during data refresh and stored in the data model, while measures are computed dynamically based on the current context. Measures are generally more efficient for aggregations and calculations."
+                    },
+                    {
+                        "questions": "Explain the purpose of the Power BI Service and how it differs from Power BI Desktop.",
+                        "answer": "Power BI Desktop is used for developing and designing reports, while Power BI Service is a cloud-based platform for publishing, sharing, and collaborating on reports and dashboards."
+                    }
+                ]
+            },
+            {
+                "medium": [
+                    {
+                        "questions": "How would you optimize a Power BI report that is performing slowly due to a large dataset and complex DAX calculations?",
+                        "answer": "The candidate should suggest techniques such as optimizing DAX formulas, reducing the data model size, using aggregations, and optimizing data types."
+                    },
+                    {
+                        "questions": "Describe the process of setting up and configuring a data gateway for connecting Power BI to on-premises data sources.",
+                        "answer": "The candidate should explain the steps involved in installing and configuring the data gateway, setting up data source connections, and scheduling data refreshes."
+                    }
+                ]
+            },
+            {
+                "hard": [
+                    {
+                        "questions": "Design a data model for a retail inventory system, including key tables, relationships, and measures for analyzing inventory turnover and stock levels.",
+                        "answer": "The candidate should propose a star schema or snowflake schema with tables for products, stores, sales, and inventory. They should define key relationships and measures for calculating inventory metrics."
+                    },
+                    {
+                        "questions": "How would you implement a real-time dashboard in Power BI that displays data from streaming sources, such as IoT sensors or social media feeds?",
+                        "answer": "The candidate should discuss the use of Power BI Streaming Datasets, Azure Stream Analytics, or other real-time data ingestion techniques. They should also address considerations for data latency and scalability."
+                    }
+                ]
+            }
+        ]
+    }
+}

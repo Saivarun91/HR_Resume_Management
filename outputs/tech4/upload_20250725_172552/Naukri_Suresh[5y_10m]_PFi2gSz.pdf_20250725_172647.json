@@ -1,0 +1,171 @@
+{
+    "RESUME_RELEVANCE_SCORE": 80,
+    "ROLE_FIT_SCORE": 75,
+    "ATS_SCORE": 85,
+    "KEYWORD_MATCH_SCORE": 82,
+    "MATCHED_KEYWORDS": [
+        "Inventory planning",
+        "Analytics",
+        "Demand forecasting",
+        "Inventory levels",
+        "Retail",
+        "Online channels",
+        "Replenishment",
+        "Reporting",
+        "Dashboards",
+        "Inventory availability",
+        "Working capital",
+        "SKU",
+        "Historical sales",
+        "Seasonality",
+        "Marketing",
+        "Merchandising",
+        "Sales teams",
+        "Promotions",
+        "Min max levels",
+        "Stock movement",
+        "Warehouse",
+        "New launches",
+        "Reorders",
+        "Inventory optimization",
+        "Inventory turnover",
+        "Aging stock",
+        "Slow moving",
+        "Overstocked items",
+        "Forecast accuracy",
+        "Store performance",
+        "Automate reporting",
+        "Power BI",
+        "Excel",
+        "SQL",
+        "Leadership",
+        "Planning",
+        "Advanced Excel",
+        "Pivot tables",
+        "Lookups",
+        "Modeling",
+        "Forecasting techniques",
+        "Planning logic",
+        "Analytical thinking",
+        "Attention to detail",
+        "ERP systems",
+        "Communication skills",
+        "Collaboration",
+        "KPIs",
+        "Stock out",
+        "Omnichannel inventory",
+        "Marketplaces"
+    ],
+    "MISSING_KEYWORDS": [
+        "FOFO franchise",
+        "Central warehouse",
+        "ABC classification",
+        "EOQ",
+        "NetSuite",
+        "Zoho",
+        "Unicommerce",
+        "FMCG",
+        "D2C brands",
+        "Store fill rate",
+        "Jewelry",
+        "Fashion retail"
+    ],
+    "MISSING_SKILLS": [
+        "Tableau",
+        "Forecasting techniques",
+        "Planning logic",
+        "NetSuite",
+        "Zoho",
+        "Unicommerce",
+        "Communication skills",
+        "Collaboration"
+    ],
+    "INTERVIEW_QUESTIONS": {
+        "PSYCHOMETRIC": [
+            {
+                "questions": "Describe a situation where you had to make a quick decision with limited information. What was the outcome?",
+                "answer": "I once had to reallocate inventory due to a sudden surge in demand for a specific product. I quickly analyzed the available data, consulted with the sales team, and made a decision to shift inventory from a slower-selling store to the high-demand location. This resulted in meeting customer demand and minimizing potential revenue loss."
+            },
+            {
+                "questions": "How do you handle stress when dealing with tight deadlines and competing priorities?",
+                "answer": "I prioritize tasks based on urgency and impact, break down large projects into smaller manageable steps, and communicate proactively with stakeholders to manage expectations. I also ensure to take short breaks to maintain focus and prevent burnout."
+            },
+            {
+                "questions": "Explain a time when you had to adapt to a significant change in your work environment.",
+                "answer": "When my company migrated from Excel-based reporting to Power BI, I embraced the change by taking online courses to quickly learn Power BI. I then led the migration of legacy reports, enhancing reporting scalability and stakeholder engagement."
+            }
+        ],
+        "Soft_Skills": [
+            {
+                "questions": "Describe a time when you had to work with a difficult team member to achieve a common goal.",
+                "answer": "I once worked with a colleague who was resistant to adopting new reporting tools. I took the time to understand their concerns, provided personalized training, and highlighted the benefits of the new system. Eventually, they became proficient and even advocated for the new tool, improving team efficiency."
+            },
+            {
+                "questions": "Give an example of a time when you had to communicate a complex technical issue to a non-technical audience.",
+                "answer": "When explaining the benefits of a new inventory optimization model to senior management, I avoided technical jargon and focused on the business impact, such as improved inventory turnover and reduced costs. This helped them understand the value of the project and secure their support."
+            },
+            {
+                "questions": "Tell me about a time you had to lead a project with limited resources. What strategies did you use?",
+                "answer": "When leading the automation of manual reporting tasks, I had limited access to dedicated developers. I leveraged my Excel Macros and VBA skills to automate 80% of the tasks, significantly reducing turnaround time and minimizing errors. I also prioritized tasks based on their impact, focusing on the most time-consuming and error-prone processes first."
+            }
+        ],
+        "Behavioral": [
+            {
+                "questions": "Tell me about a time when you identified a problem in a process and took the initiative to fix it (STAR Method).",
+                "answer": "Situation: While working as an MIS Analyst, I noticed significant discrepancies in inventory data across departments, leading to inaccurate reports. Task: My task was to identify the root cause of these discrepancies and implement a solution to ensure data accuracy. Action: I conducted a thorough analysis of the data flow, identified inconsistencies in data entry processes, and streamlined data validation procedures. I also created a data reconciliation dashboard in Power BI to monitor data accuracy in real-time. Result: The streamlined processes and data validation dashboard increased data accuracy across multi-departmental reports by 95%, ensuring reliable reporting and improved decision-making."
+            },
+            {
+                "questions": "Describe a situation where you had to deal with a high-pressure situation while maintaining data accuracy (STAR Method).",
+                "answer": "Situation: During a critical audit, I was responsible for providing accurate inventory reports under a tight deadline. Task: My task was to extract, validate, and present the required data while ensuring compliance with audit requirements. Action: I optimized SQL queries to expedite data retrieval, implemented automated validation checks using Excel macros, and worked extended hours to meet the deadline. Result: I successfully delivered accurate reports on time, ensuring a smooth audit process and preventing potential penalties."
+            },
+            {
+                "questions": "Describe a time when you had to make a difficult decision that impacted multiple stakeholders (STAR Method).",
+                "answer": "Situation: When migrating legacy Excel-based reports to Power BI, some stakeholders were reluctant to adopt the new system due to familiarity with the old reports. Task: My task was to convince stakeholders of the benefits of Power BI and ensure a smooth transition. Action: I organized training sessions, created user-friendly dashboards, and highlighted the enhanced scalability and stakeholder engagement. I also provided ongoing support to address any issues. Result: Stakeholder engagement increased, reporting scalability improved, and the team fully embraced Power BI, leading to more data-driven decisions."
+            }
+        ],
+        "Technical": {
+            "easy": [
+                {
+                    "questions": "What are pivot tables in Excel and how are they useful for inventory analysis?",
+                    "answer": "Pivot tables are a powerful tool in Excel for summarizing and analyzing large datasets. They allow you to quickly aggregate data based on different categories, such as product, store, or time period, making it easy to identify trends and patterns in inventory data."
+                },
+                {
+                    "questions": "Explain the purpose of VLOOKUP or INDEX/MATCH in Excel.",
+                    "answer": "VLOOKUP (or INDEX/MATCH) is used to find and retrieve data from a specific column in a table based on a matching value in another column. In inventory management, it can be used to retrieve product information based on SKU or to find the price of a product."
+                },
+                {
+                    "questions": "What is DAX in Power BI, and what is it used for?",
+                    "answer": "DAX (Data Analysis Expressions) is a formula language used in Power BI to create calculated columns, measures, and custom tables. It is used to perform advanced calculations and data analysis beyond what is possible with basic Power BI features."
+                }
+            ],
+            "medium": [
+                {
+                    "questions": "How would you use Power BI to create a dashboard that tracks inventory turnover and aging stock?",
+                    "answer": "I would connect Power BI to the inventory database, create measures to calculate inventory turnover (COGS / Average Inventory) and aging stock (using date calculations), and then visualize these metrics using charts and tables. I would also add filters to allow users to drill down into specific products, stores, or time periods."
+                },
+                {
+                    "questions": "Describe how you would automate a monthly sales report using SQL and Excel/Power BI.",
+                    "answer": "I would write an SQL query to extract the necessary sales data from the database, then use Excel or Power BI to import the data and create the report. To automate the process, I would schedule the SQL query to run automatically and set up Excel/Power BI to refresh the data on a regular basis. Power Automate can also be used to distribute"
+                },
+                {
+                    "questions": "How would you approach forecasting product demand for a new product launch?",
+                    "answer": "I would start by gathering historical sales data from similar products, analyzing market trends, and considering any marketing plans. I would then use statistical forecasting techniques in Excel/Power BI to predict demand, adjusting the forecast based on feedback from merchandising and sales teams."
+                }
+            ],
+            "hard": [
+                {
+                    "questions": "Design a solution to optimize inventory levels across multiple retail stores and online channels.",
+                    "answer": "I would implement a min-max inventory management system that considers demand forecasts, lead times, and safety stock levels for each product and channel. I would use ABC classification to prioritize inventory management efforts, focusing on high-value items. I would also implement automated replenishment triggers and monitor inventory turnover, sell-through, and aging stock to identify areas for improvement."
+                },
+                {
+                    "questions": "How would you handle a situation where the forecast accuracy is consistently low? What steps would you take to improve it?",
+                    "answer": "I would first analyze the forecast errors to identify patterns and biases. I would then review the forecasting methodology, data sources, and assumptions to identify areas for improvement. I would also collaborate with merchandising and sales teams to gather more insights and refine the forecast models. I would also explore external data sources, such as economic indicators, to improve forecast accuracy."
+                },
+                {
+                    "questions": "Describe a scenario where you had to integrate data from multiple ERP systems for inventory analysis. How did you ensure data consistency and accuracy?",
+                    "answer": "I would use a combination of ETL tools and data validation techniques to ensure data consistency and accuracy. First, extract data from different ERP systems. Clean and standardize by addressing data inconsistencies, resolving naming differences, and managing missing values. Implement automated data validation rules. Set up monitoring and alerting to detect data quality issues. Document the entire integration process, including data sources, transformations, and validation steps."
+                }
+            ]
+        }
+    }
+}

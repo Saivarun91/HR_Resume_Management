@@ -1,0 +1,406 @@
+{
+    "ATS": {
+        "Extracted Data": {
+            "Name": "Neha Kumari",
+            "Contact Details": "Phone: +91 7978349451, Email: neha9155046494@gmail.com, Address: Electronic City Bangalore, Karnataka",
+            "Summary or Objective": "Talented and initiative taking with extensive experience in data analysis and statistical analysis. Offering 4 years of progressive leadership experience across various technical industries. Seeking challenging opportunity to use excellent critical thinking skills to automate processes and drive operational efficiency.",
+            "Skills": {
+                "Soft Skills": [
+                    "Research and analysis",
+                    "Storytelling",
+                    "Content Writing",
+                    "Communication Skills",
+                    "Client Management",
+                    "Relationship Building"
+                ],
+                "Hard Skills": [
+                    "Excel (Conditional Formatting, Index Match, V lookup & H lookup, Macros, IF Function, Chart, Data Validation, Pivot Table)",
+                    "SQL",
+                    "PowerPoint",
+                    "Power BI (Data Collection, Data Visualization, Data Cleaning, Data Modelling, Data Manipulation, Power Query, DAX Function, Power BI Services)",
+                    "SAP",
+                    "Contract Management"
+                ]
+            },
+            "Experience": [
+                {
+                    "Title": "Sr. Executive: Data Analyst",
+                    "Company": "JK Foods : TFPPL",
+                    "Duration": "Dec 2024 \u2013 Till",
+                    "Description": "Developed interactive dashboards and reports using Power BI to visualize import and export data, improving business decision making processes. Responsible for Data preparation, Data analysis and execution of requests that require data. Extracted, transformed, and loaded (ETL) data from multiple sources (Excel, SQL databases, CSV files) to create a centralized dataset for analysis. Conducted trend and variance analysis on trade data to identify key patterns in international shipments and market demand. Skilled at transforming briefing reports, monthly reports, influencers report and content into presentable slides. Collaborated with cross functional teams including logistics, finance, and sales to define KPIs and create custom Power BI reports tailored to user needs. Collaborated in the implementation and configuration of SAP modules, enhancing business processes and contributing to system optimization."
+                },
+                {
+                    "Title": "Data Analyst",
+                    "Company": "Fujifilm India Pvt. Ltd.",
+                    "Duration": "April 2023 \u2013 Dec 2024",
+                    "Description": "Work on planning monthly analysis of sales data across different cuts of SKU (ASM Wise, Retailer Wise etc.). Prepare ASM, RSO Incentive & Reward Recognition program. Manage & maintain all the data. Responsible for Data preparation, Data analysis and execution of requests that require data. Work on contract of photographer s, equipment management of all the assets, Vendor Registration, Provision etc. Work on monthly analysis of sales data across different cuts of SKU (ASM Wise, Retailer Wise etc.). Prepare ASM, RSO Incentive & Reward Recognition program. Manage & maintain all the data & share the same dashboard to management on monthly basic & weekly basic. Skilled at transforming briefing reports, monthly reports, influencers report and content into presentable slides. Collaborated with cross functional teams to configure SAP ERP system, resulting in a 15% increase in overall operational efficiency. Work on designing, developing, and deploying business analytics dashboards using Microsoft Power BI. RESUME Conducting full lifecycle analysis to include requirements, activities, and design, develop analysis and reporting capabilities. Also monitor performance and quality control plans to identify improvements. Worked on PowerPoint & Advance Excel: that included proposals for prospective clients, monthly reports, and review presentations. Providing expertise in data storage structures, data mining, and data cleansing. Work closely with email marketing team to support data pull/segmentation requirements for campaign execution while ensuring quality of data. My role included data extraction from legacy SAP systems, cleansing and transforming data as per the new system s requirements, and validating post migration accuracy. I collaborated closely with technical teams to ensure smooth data mapping and worked with business users for UAT and reconciliation. Depending on the project, the migration was to cloud platforms, ERP upgrades, or integration with third party tools."
+                }
+            ],
+            "Projects": [],
+            "Certifications": [
+                "Certified in Data Analyst offered by TCA training, Gurgaon  2024",
+                "Certified in Fundamentals of Data analyst offered by Google   2021"
+            ],
+            "Education": [
+                "B. tech, GIET Bhubaneswar College, BPUT University, 2020, 72.04%",
+                "Higher Secondary Schooling, S.S.L.N.T. Women s College Dhanbad, Jharkhand, 2016,50.00%",
+                "Secondary Schooling, High School Bina Babhangama, Bihar, 2013, 75.40%"
+            ]
+        },
+        "ATS Score": {
+            "Total Score": 82,
+            "Breakdown": {
+                "Format Score": 5,
+                "Spelling & Grammar": 10,
+                "Summary": 10,
+                "Skills": 9,
+                "Experience": 10,
+                "Projects": 0,
+                "Certifications": 10,
+                "Education": 8,
+                "Contact Details": 10
+            }
+        },
+        "Recommendations": [
+            "**Consolidate to one page:** The resume is currently two pages. Aim to condense the information to one page to improve readability and focus.",
+            "**Add specific project details:** Include details about any personal or academic data-related projects that would showcase the candidate's skills and accomplishments and quantify the impact.",
+            "Consider removing secondary Schooling, High School Bina Babhangama, Bihar, 2013, 75.40% to **make resume concise**.",
+            "**Quantify achievements:** Use metrics and numbers to quantify accomplishments in the work experience sections. For example, instead of saying 'improved business decision making processes', specify by what percentage the decision-making process was improved.",
+            "**Remove the word resume and make it clear:** To improve the resume's professionalism, remove the word resume from the text in the experience section.",
+            "**Ensure consistency in formatting:** Maintain consistent formatting (e.g., font, spacing) throughout the resume for a polished and professional appearance.",
+            "**Proofread carefully:** Double-check for any typos or grammatical errors to ensure the resume is error-free. Pay extra attention to dates, titles, and company names."
+        ]
+    },
+    "Resume": {
+        "RESUME_RELEVANCE_SCORE": 70,
+        "ROLE_FIT_SCORE": 65,
+        "ATS_SCORE": 67,
+        "KEYWORD_MATCH_SCORE": 55,
+        "MATCHED_KEYWORDS": [
+            "Power BI",
+            "Excel",
+            "SQL",
+            "Data analysis",
+            "reporting",
+            "forecasting",
+            "retail",
+            "supply chain",
+            "inventory",
+            "sales data",
+            "KPI",
+            "stock",
+            "replenishment",
+            "dashboards",
+            "analytics",
+            "e commerce",
+            "franchise",
+            "marketing",
+            "data visualization"
+        ],
+        "MISSING_KEYWORDS": [
+            "Inventory Planning",
+            "Demand Forecasting",
+            "merchandising",
+            "omnichannel inventory",
+            "ABC classification",
+            "EOQ",
+            "NetSuite",
+            "Zoho",
+            "Unicommerce",
+            "inventory turnover ratio",
+            "store fill rate",
+            "Stock out",
+            "aging stock",
+            "min max",
+            "FOFO",
+            "D2C",
+            "marketplaces",
+            "central warehouse",
+            "actionable insights",
+            "working capital efficiency",
+            "promotions",
+            "regional preferences",
+            "leadership reviews"
+        ],
+        "MISSING_SKILLS": [
+            "Inventory Planning",
+            "Demand Forecasting",
+            "NetSuite",
+            "Zoho",
+            "Unicommerce",
+            "ABC classification",
+            "EOQ",
+            "Omnichannel Inventory",
+            "Merchandising",
+            "Supply Chain",
+            "D2C"
+        ],
+        "RESUME_TIPS": [
+            "Expand the experience descriptions to demonstrate your understanding of **inventory planning**. Mention any initiatives where you balanced **inventory** availability with **working capital efficiency** to align with the job's responsibilities.",
+            "Include specific examples of how you utilized **demand forecasting** techniques in previous roles. Quantify the impact of your forecasts on reducing **stock outs** or minimizing **overstock** situations. Reference the accuracy improvements you achieved.",
+            "Detail experience with specific retail **inventory planning** tools or **ERP** systems such as **NetSuite**, **Zoho**, or **Unicommerce**. Add a section showcasing your experience with these systems.",
+            "Elaborate on your experience with **omnichannel inventory** management, if applicable. Mention any strategies you implemented to optimize **inventory** across both **retail** and **e-commerce** channels to ensure seamless customer experience.",
+            "Incorporate examples of your collaboration with **merchandising** and **sales** teams to adjust **forecasts** for new launches and **promotions**. Highlight how you tailored forecasts to accommodate **regional preferences**.",
+            "Quantify your achievements in improving **inventory turnover ratio** and **store fill rate**. Include specific metrics to demonstrate your effectiveness in optimizing **inventory** levels and reducing **aging stock**.",
+            "Describe how you used **ABC classification** or **EOQ** (**Economic Order Quantity**) in **inventory planning**. Include these terms under skills and provide context on how these techniques led to better decision-making.",
+            "Showcase your experience in managing **min max** levels and **replenishment** rules for each store, especially **FOFO** (Franchise Owned Franchise Operated) models. This is key given Paksha's expansion strategy.",
+            "Mention your experience with **D2C** (Direct-to-Consumer) brands, highlighting any success you've had in managing **inventory** and **supply chain** logistics for **e-commerce** platforms. Specifically mention **actionable insights** you have provided.",
+            "Explain in detail your responsibilities and achievements in managing inventory and planning. Your skills in inventory reporting, dashboards, and analytics are relevant, but more context is required."
+        ],
+        "COURSE_RECOMMENDATIONS": {
+            "Inventory Planning": [
+                {
+                    "COURSE_NAME": "Supply Chain Planning",
+                    "PLATFORM": "Coursera",
+                    "DESCRIPTION": "Learn the essentials of supply chain planning, including demand forecasting and inventory management.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.coursera.org/learn/supply-chain-planning"
+                },
+                {
+                    "COURSE_NAME": "Inventory Management Foundations",
+                    "PLATFORM": "LinkedIn Learning",
+                    "DESCRIPTION": "Understand inventory control, warehouse operations, and logistics to optimize inventory levels.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.linkedin.com/learning/inventory-management-foundations"
+                },
+                {
+                    "COURSE_NAME": "Introduction to Inventory Management",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "A comprehensive guide to inventory management concepts and techniques.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.youtube.com/watch?v=cxKB2jE_4Tk"
+                }
+            ],
+            "Demand Forecasting": [
+                {
+                    "COURSE_NAME": "Demand Forecasting: Models and Methods",
+                    "PLATFORM": "Udemy",
+                    "DESCRIPTION": "Master demand forecasting techniques using statistical models and machine learning.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.udemy.com/course/demand-forecasting/"
+                },
+                {
+                    "COURSE_NAME": "Business Forecasting",
+                    "PLATFORM": "Coursera",
+                    "DESCRIPTION": "Learn to forecast business outcomes using time series analysis and regression models.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.coursera.org/specializations/business-forecasting"
+                },
+                {
+                    "COURSE_NAME": "Time Series Analysis and Forecasting",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "Learn about time series analysis, forecasting models, and evaluation metrics.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.youtube.com/watch?v=fgf2nnK-xtY"
+                }
+            ],
+            "NetSuite": [
+                {
+                    "COURSE_NAME": "NetSuite Fundamentals",
+                    "PLATFORM": "Udemy",
+                    "DESCRIPTION": "Understand the core functionalities of NetSuite, including financials, CRM, and supply chain management.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.udemy.com/course/netsuite-tutorial/"
+                },
+                {
+                    "COURSE_NAME": "NetSuite ERP Implementation",
+                    "PLATFORM": "Coursera",
+                    "DESCRIPTION": "Learn how to implement NetSuite ERP, from initial setup to data migration and user training.",
+                    "DIFFICULTY": "Advanced",
+                    "COURSE_LINK": "https://www.netsuite.com/"
+                },
+                {
+                    "COURSE_NAME": "NetSuite Training",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "Free tutorials and training videos on various NetSuite modules and features.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.youtube.com/watch?v=m5VtVnLFWZc"
+                }
+            ],
+            "Zoho": [
+                {
+                    "COURSE_NAME": "Zoho Inventory Management",
+                    "PLATFORM": "Udemy",
+                    "DESCRIPTION": "Learn how to manage inventory using Zoho Inventory, including product tracking, order fulfillment, and reporting.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.udemy.com/course/zoho-inventory/"
+                },
+                {
+                    "COURSE_NAME": "Mastering Zoho CRM",
+                    "PLATFORM": "Coursera",
+                    "DESCRIPTION": "Comprehensive Zoho CRM course covering sales automation, marketing campaigns, and customer support.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.zoho.com/crm/"
+                },
+                {
+                    "COURSE_NAME": "Zoho CRM Tutorial",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "Step-by-step tutorial on using Zoho CRM for sales and marketing.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.youtube.com/watch?v=99Gqv1_wR3E"
+                }
+            ],
+            "Unicommerce": [
+                {
+                    "COURSE_NAME": "Unicommerce Training Program",
+                    "PLATFORM": "Unicommerce",
+                    "DESCRIPTION": "Official training program to learn how to use Unicommerce for e-commerce order and inventory management.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.unicommerce.com/training/"
+                },
+                {
+                    "COURSE_NAME": "E-commerce Operations Management",
+                    "PLATFORM": "Coursera",
+                    "DESCRIPTION": "Learn to manage e-commerce operations, including supply chain, inventory, and logistics.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.coursera.org/specializations/ecommerce-operations"
+                },
+                {
+                    "COURSE_NAME": "Unicommerce Tutorial",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "Tutorial on setting up and using Unicommerce for e-commerce order management.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.youtube.com/@EasyEcom"
+                }
+            ],
+            "ABC classification": [
+                {
+                    "COURSE_NAME": "Inventory Control: ABC Analysis",
+                    "PLATFORM": "Udemy",
+                    "DESCRIPTION": "Learn how to classify inventory using ABC analysis and prioritize inventory management efforts.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.udemy.com/course/inventory-control-abc-analysis/"
+                },
+                {
+                    "COURSE_NAME": "Inventory Management: Principles and Practices",
+                    "PLATFORM": "Coursera",
+                    "DESCRIPTION": "Understand inventory management principles, including ABC analysis, and apply them to real-world scenarios.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.coursera.org/lecture/supply-chain-principles/abc-xyz-analysis-of-inventory-demand-4N8f4"
+                },
+                {
+                    "COURSE_NAME": "ABC Analysis",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "Explains what ABC analysis is in simple terms.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.youtube.com/watch?v=e-mO6SInE8Q"
+                }
+            ],
+            "EOQ": [
+                {
+                    "COURSE_NAME": "Inventory Management: Economic Order Quantity (EOQ)",
+                    "PLATFORM": "Udemy",
+                    "DESCRIPTION": "Learn how to calculate the Economic Order Quantity (EOQ) to optimize inventory ordering.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.udemy.com/course/inventory-management-economic-order-quantity-eoq/"
+                },
+                {
+                    "COURSE_NAME": "Supply Chain Analytics",
+                    "PLATFORM": "Coursera",
+                    "DESCRIPTION": "Utilize analytics to improve processes.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.coursera.org/specializations/supply-chain-analytics"
+                },
+                {
+                    "COURSE_NAME": "Economic Order Quantity",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "How to calculate EOQ",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.youtube.com/watch?v=D5f_c29oWlI"
+                }
+            ],
+            "Omnichannel Inventory": [
+                {
+                    "COURSE_NAME": "Omnichannel Retail Strategy",
+                    "PLATFORM": "Coursera",
+                    "DESCRIPTION": "Learn how to develop and implement an omnichannel retail strategy.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.coursera.org/lecture/omnichannel-retail/omnichannel-inventory-management-JgW3K"
+                },
+                {
+                    "COURSE_NAME": "Omnichannel Marketing",
+                    "PLATFORM": "edX",
+                    "DESCRIPTION": "Strategies for unifying experiences.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.edx.org/professional-certificate/berkeleyx-omnichannel-marketing"
+                },
+                {
+                    "COURSE_NAME": "Omnichannel Marketing Strategy",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "The Key to Retail Success",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://m.youtube.com/watch?v=sF2nhWHWVC8"
+                }
+            ],
+            "Merchandising": [
+                {
+                    "COURSE_NAME": "Retail Merchandising",
+                    "PLATFORM": "Udemy",
+                    "DESCRIPTION": "Enhance your retail success.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.udemy.com/course/retail-merchandising/"
+                },
+                {
+                    "COURSE_NAME": "Merchandising Analytics",
+                    "PLATFORM": "Coursera",
+                    "DESCRIPTION": "Understand and apply metrics to improve revenue.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.coursera.org/courses?query=merchandising"
+                },
+                {
+                    "COURSE_NAME": "Retail Display",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "Visual merchandising is very important.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://m.youtube.com/watch?v=r9B6n44I1yE"
+                }
+            ],
+            "Supply Chain": [
+                {
+                    "COURSE_NAME": "Supply Chain Management",
+                    "PLATFORM": "Coursera",
+                    "DESCRIPTION": "Master the fundamental concepts of supply chain management.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.coursera.org/specializations/supply-chain-management"
+                },
+                {
+                    "COURSE_NAME": "Supply Chain Analytics",
+                    "PLATFORM": "edX",
+                    "DESCRIPTION": "Learn data and decision-making in supply chain management.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.edx.org/professional-certificate/mitx-supply-chain-analytics"
+                },
+                {
+                    "COURSE_NAME": "What is Supply Chain",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "Learn the basics.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://m.youtube.com/watch?v=SC7RlVv0O-4"
+                }
+            ],
+            "D2C": [
+                {
+                    "COURSE_NAME": "D2C Marketing",
+                    "PLATFORM": "Udemy",
+                    "DESCRIPTION": "Learn the basics of marketing to consumers.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.udemy.com/course/d2c-marketing-for-growth-brands/"
+                },
+                {
+                    "COURSE_NAME": "eCommerce Marketing",
+                    "PLATFORM": "Coursera",
+                    "DESCRIPTION": "Learn how to market online.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.coursera.org/specializations/ecommerce-marketing"
+                },
+                {
+                    "COURSE_NAME": "D2C Marketing",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "Learn the basics.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://m.youtube.com/watch?v=j9Jj91NqDyo"
+                }
+            ]
+        }
+    }
+}

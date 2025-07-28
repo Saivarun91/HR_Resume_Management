@@ -1,0 +1,184 @@
+{
+    "RESUME_RELEVANCE_SCORE": 75,
+    "ROLE_FIT_SCORE": 70,
+    "ATS_SCORE": 72,
+    "KEYWORD_MATCH_SCORE": 65,
+    "MATCHED_KEYWORDS": [
+        "Inventory Optimization",
+        "Sales Strategy",
+        "Forecasting",
+        "Excel",
+        "Power BI",
+        "Analytics",
+        "Reporting",
+        "Inventory Planning",
+        "Demand Forecasting",
+        "Inventory",
+        "Retail",
+        "Marketplaces",
+        "Ecommerce",
+        "KPI",
+        "Stock",
+        "SKU",
+        "Communication skills",
+        "Sales",
+        "Pricing",
+        "Category Management",
+        "Stock Movement",
+        "ABC classification",
+        "SQL",
+        "Cross functional collaboration"
+    ],
+    "MISSING_KEYWORDS": [
+        "Omnichannel",
+        "Min max levels",
+        "Replenishment",
+        "Inventory turnover ratio",
+        "Store fill rate",
+        "Stock out %",
+        "EOQ",
+        "Aging stock",
+        "D2C",
+        "FMCG",
+        "NetSuite",
+        "Zoho",
+        "Unicommerce",
+        "Tableau"
+    ],
+    "MISSING_SKILLS": [
+        "Omnichannel inventory management",
+        "Min max level planning",
+        "Replenishment strategies",
+        "ERP systems (NetSuite, Zoho, Unicommerce)",
+        "Tableau"
+    ],
+    "RESUME_TIPS": [
+        "Quantify your achievements in inventory management at Xiaomi India by including metrics such as improved **inventory turnover ratio** or reduced **stock out percentages**. Highlight how your dynamic stocking algorithm influenced these KPIs.",
+        "In your Gain Insights Solutions experience, elaborate on how you used **Multivariate Regression** to provide simulation strategies. Mention specific improvements or cost savings achieved through your marketing mix optimization.",
+        "Add a section detailing your experience with **ERP systems** like **NetSuite**, **Zoho**, or **Unicommerce**, as proficiency in these systems is highly valued. Even mentioning exposure to these systems can make your resume stand out.",
+        "Expand on your proficiency in **SQL** by providing examples of how you used it to automate reporting or build dashboards for inventory health and store performance. Quantify the time savings or efficiency gains from these automations.",
+        "Demonstrate your understanding of **replenishment strategies** by including examples of how you defined and managed **min max levels** for different stores and SKUs at Xiaomi. Show how this improved **store fill rate**.",
+        "Include details on your experience with **omnichannel inventory management**, especially if you've worked with both retail and online channels. Mention any strategies you employed to optimize inventory across these channels, and the impact this had on metrics like **aging stock**.",
+        "Mention your experience with **ABC classification** and **EOQ** in the Skills section to show your understanding of inventory planning logic. Briefly describe how you applied these techniques in your previous roles, emphasizing their impact.",
+        "In the Xiaomi India section, detail how you collaborated with merchandising and sales teams to adjust demand forecasts for new launches and promotions. Quantify the impact of these adjustments on **forecast accuracy**.",
+        "Incorporate the term '**Aging stock**' when you describe how you managed the **inventory risk framework** at Xiaomi India to help in reducing **aging stock** by 22% over 2 quarters through channel specific liquidation strategies.",
+        "Include **Tableau** in your Skills section, as it is listed as an alternative to **Power BI** in the job description. Since you have experience with **Power BI**, learning **Tableau** will make you a more versatile candidate."
+    ],
+    "COURSE_RECOMMENDATIONS": {
+        "Omnichannel inventory management": [
+            {
+                "COURSE_NAME": "Omnichannel Retail Strategy",
+                "PLATFORM": "Coursera",
+                "DESCRIPTION": "Learn to integrate online and offline channels for a seamless customer experience and optimized inventory.",
+                "DIFFICULTY": "Intermediate",
+                "COURSE_LINK": "https://www.coursera.org/courses?query=omnichannel%20retail"
+            },
+            {
+                "COURSE_NAME": "Omnichannel Mastery: How to Thrive in the New Retail World",
+                "PLATFORM": "Udemy",
+                "DESCRIPTION": "Understand how to create a robust omnichannel strategy to enhance customer engagement and drive sales.",
+                "DIFFICULTY": "Advanced",
+                "COURSE_LINK": "https://www.udemy.com/course/omnichannel-mastery/"
+            },
+            {
+                "COURSE_NAME": "Omnichannel Marketing: The Future of Retail",
+                "PLATFORM": "YouTube",
+                "DESCRIPTION": "An introduction to omnichannel marketing strategies for retail businesses.",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://www.youtube.com/watch?v=63g99s_EV9g"
+            }
+        ],
+        "Min max level planning": [
+            {
+                "COURSE_NAME": "Inventory Management: Principles and Practices",
+                "PLATFORM": "Coursera",
+                "DESCRIPTION": "Learn the fundamentals of inventory management, including setting min/max levels.",
+                "DIFFICULTY": "Intermediate",
+                "COURSE_LINK": "https://www.coursera.org/lecture/supply-chain-management/inventory-planning-with-min-max-levels-zFUrK"
+            },
+            {
+                "COURSE_NAME": "Inventory Management Fundamentals",
+                "PLATFORM": "Udemy",
+                "DESCRIPTION": "Master the concepts of inventory control, including safety stock and reorder points.",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://www.udemy.com/course/inventory-management-fundamentals/"
+            },
+            {
+                "COURSE_NAME": "Inventory Management Techniques",
+                "PLATFORM": "YouTube",
+                "DESCRIPTION": "Min-Max Inventory Control System Explained.",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://www.youtube.com/watch?v=k9YqA-tKlb0"
+            }
+        ],
+        "Replenishment strategies": [
+            {
+                "COURSE_NAME": "Supply Chain Planning",
+                "PLATFORM": "edX",
+                "DESCRIPTION": "Understand replenishment strategies and demand planning in supply chain management.",
+                "DIFFICULTY": "Intermediate",
+                "COURSE_LINK": "https://www.edx.org/course/supply-chain-planning"
+            },
+            {
+                "COURSE_NAME": "Inventory Replenishment Planning",
+                "PLATFORM": "Udemy",
+                "DESCRIPTION": "Learn about different replenishment models and how to optimize them for your business.",
+                "DIFFICULTY": "Advanced",
+                "COURSE_LINK": "https://www.udemy.com/course/inventory-replenishment-planning/"
+            },
+            {
+                "COURSE_NAME": "Inventory Replenishment Methods",
+                "PLATFORM": "YouTube",
+                "DESCRIPTION": "Inventory replenishment methods with examples.",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://m.youtube.com/watch?v=yX7sAa9G5gU"
+            }
+        ],
+        "ERP systems (NetSuite, Zoho, Unicommerce)": [
+            {
+                "COURSE_NAME": "NetSuite ERP Essentials",
+                "PLATFORM": "Coursera",
+                "DESCRIPTION": "Learn the core modules and functionalities of NetSuite ERP.",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://www.coursera.org/courses?query=netsuite"
+            },
+            {
+                "COURSE_NAME": "Zoho CRM - The Complete Course",
+                "PLATFORM": "Udemy",
+                "DESCRIPTION": "A comprehensive guide to using Zoho CRM for business management.",
+                "DIFFICULTY": "Intermediate",
+                "COURSE_LINK": "https://www.udemy.com/course/zoho-crm-the-complete-course/"
+            },
+            {
+                "COURSE_NAME": "Introduction to ERP Systems",
+                "PLATFORM": "YouTube",
+                "DESCRIPTION": "Basic introduction to ERP concepts and systems.",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://www.youtube.com/watch?v=U3-m0eE3R6k"
+            }
+        ],
+        "Tableau": [
+            {
+                "COURSE_NAME": "Tableau Desktop Specialist Certification",
+                "PLATFORM": "Coursera",
+                "DESCRIPTION": "Master Tableau Desktop to create interactive dashboards and visualizations.",
+                "DIFFICULTY": "Intermediate",
+                "COURSE_LINK": "https://www.coursera.org/professional-certificates/google-data-analytics"
+            },
+            {
+                "COURSE_NAME": "Tableau A-Z: Hands-On Tableau Training for Data Science!",
+                "PLATFORM": "Udemy",
+                "DESCRIPTION": "Learn Tableau from scratch and become a data visualization expert.",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://www.udemy.com/course/tableau10/"
+            },
+            {
+                "COURSE_NAME": "Tableau Full Course - Learn Tableau in 4 Hours",
+                "PLATFORM": "YouTube",
+                "DESCRIPTION": "A comprehensive Tableau tutorial for beginners.",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://www.youtube.com/watch?v=aHaFwnCwMws"
+            }
+        ]
+    }
+}

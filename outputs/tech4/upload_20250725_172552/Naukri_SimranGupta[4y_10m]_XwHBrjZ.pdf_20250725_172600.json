@@ -1,0 +1,191 @@
+{
+    "RESUME_RELEVANCE_SCORE": 85,
+    "ROLE_FIT_SCORE": 80,
+    "ATS_SCORE": 90,
+    "KEYWORD_MATCH_SCORE": 88,
+    "MATCHED_KEYWORDS": [
+        "Inventory Planning & Analytics Manager",
+        "Inventory Planning",
+        "Analytics",
+        "inventory levels",
+        "online channels",
+        "reporting",
+        "dashboards",
+        "Inventory availability",
+        "Demand Forecasting",
+        "sales",
+        "marketing",
+        "Replenishment",
+        "Allocation",
+        "stock movement",
+        "Inventory Optimization",
+        "inventory turnover",
+        "Excel",
+        "Power BI",
+        "forecasting techniques",
+        "analytical thinking",
+        "communication skills",
+        "Inventory planning",
+        "demand forecasting",
+        "merchandising",
+        "retail",
+        "online/marketplaces",
+        "strategy",
+        "forecasting",
+        "segmentation",
+        "data modeling",
+        "Sales",
+        "Supply Chain",
+        "e commerce",
+        "SQL",
+        "Python",
+        "A/B Testing",
+        "channel",
+        "Excel",
+        "stock",
+        "product",
+        "SKU",
+        "store performance"
+    ],
+    "MISSING_KEYWORDS": [
+        "Paksha",
+        "silver jewelry",
+        "House of Tarinika",
+        "FOFO franchise",
+        "artisanal",
+        "motivs",
+        "contemporary styling",
+        "franchise models",
+        "ecommerce",
+        "marketplaces",
+        "KPIs",
+        "store fill rate",
+        "stock out %",
+        "overstock %",
+        "dashboard/reporting adherence",
+        "FMCG",
+        "D2C brands",
+        "NetSuite",
+        "Zoho",
+        "Unicommerce",
+        "ERP systems",
+        "ABC classification",
+        "EOQ",
+        "min max",
+        "store level",
+        "leadership",
+        "planning reviews",
+        "working capital efficiency",
+        "omnichannel",
+        "regional preferences",
+        "replenishments",
+        "central warehouse",
+        "merchandising",
+        "promotions",
+        "new launches",
+        "sell through",
+        "aging stock",
+        "slow moving",
+        "overstocked",
+        "pivot tables",
+        "lookups",
+        "modeling",
+        "Tableau",
+        "planning logic",
+        "cross functional collaboration"
+    ],
+    "MISSING_SKILLS": [
+        "Tableau",
+        "NetSuite",
+        "Zoho",
+        "Unicommerce"
+    ],
+    "INTERVIEW_QUESTIONS": {
+        "PSYCHOMETRIC": [
+            {
+                "questions": "How do you handle stress and maintain composure when dealing with tight deadlines and high-pressure situations in inventory planning?",
+                "answer": "I stay organized, prioritize tasks, and break down large projects into smaller, manageable steps. I also communicate proactively with stakeholders to manage expectations and seek support when needed. Regular breaks and mindfulness exercises help me maintain focus and reduce stress."
+            },
+            {
+                "questions": "Describe a time when you had to make a quick decision with limited information. What was the situation, how did you approach it, and what was the outcome?",
+                "answer": "In a previous role, a critical supplier had a sudden disruption, impacting inventory levels. I quickly analyzed the available data, identified alternative suppliers, and made a decision to expedite orders from them, ensuring minimal disruption to production. Regular communication with the supply chain team ensured smooth execution."
+            },
+            {
+                "questions": "How do you typically handle disagreements or conflicts with team members when working on a collaborative project?",
+                "answer": "I focus on active listening and understanding different perspectives. I communicate my viewpoint clearly and respectfully, seeking common ground and mutually beneficial solutions. If necessary, I involve a neutral third party to mediate and facilitate a resolution."
+            }
+        ],
+        "Soft_Skills": [
+            {
+                "questions": "Describe your experience working in cross-functional teams. How do you ensure effective communication and collaboration?",
+                "answer": "In my role as an Analytics Manager, I frequently collaborate with sales, marketing, and supply chain teams. I prioritize clear and open communication, actively listen to understand their needs, and ensure that data-driven insights are communicated effectively to support their decision-making. Regular meetings and shared documentation help maintain alignment."
+            },
+            {
+                "questions": "Give an example of a time when you had to influence a stakeholder who had a different perspective on inventory planning. How did you approach it?",
+                "answer": "I once had to convince a sales manager to adjust their forecast based on inventory levels. I presented data-driven insights, including historical sales trends and current stock levels, to support my recommendation. By addressing their concerns and demonstrating the potential impact on sales and profitability, I successfully influenced them to align with my plan."
+            },
+            {
+                "questions": "Tell me about a time when you had to lead a team through a challenging project. What leadership qualities did you demonstrate?",
+                "answer": "During a project to optimize inventory levels, my team faced resistance due to concerns about potential stockouts. I addressed their fears by providing data-driven insights, fostering open communication, and involving them in the decision-making process. By demonstrating empathy and empowering them to contribute, I led the team to achieve significant improvements in inventory efficiency."
+            }
+        ],
+        "Behavioral": [
+            {
+                "questions": "Describe a situation where you identified an inefficiency in inventory planning and took the initiative to improve it. What was the situation, your actions, and the result?",
+                "answer": "Situation: Our inventory planning process relied on static monthly forecasts, leading to frequent stockouts and overstocking. Task: I developed a dynamic stocking algorithm to identify real-time gaps. Action: I analyzed historical sales data, identified high-demand zones, and implemented the algorithm. Result: Product availability in high-demand zones improved by 12%, reducing stockouts and increasing sales."
+            },
+            {
+                "questions": "Tell me about a time when you had to adapt to a sudden change in demand or market conditions that impacted inventory levels. What did you do?",
+                "answer": "Situation: During the COVID-19 pandemic, there was a surge in demand for certain products. Task: I had to quickly adjust inventory levels to meet the increased demand. Action: I collaborated with the supply chain team to expedite orders and prioritize high-demand products. Result: We successfully met the increased demand, avoided stockouts, and maintained customer satisfaction."
+            },
+            {
+                "questions": "Share an example of a time when you had to make a difficult decision regarding inventory management that had a significant impact on the company.",
+                "answer": "Situation: We had a large quantity of slow-moving SKUs that were tying up valuable warehouse space. Task: I had to develop a strategy to liquidate the aging stock. Action: I created an inventory risk framework to flag and liquidate slow-moving SKUs through channel-specific liquidation strategies. Result: We reduced aging stock by 22% over two quarters, freeing up warehouse space and improving cash flow."
+            }
+        ],
+        "Technical": {
+            "easy": [
+                {
+                    "questions": "Explain the difference between ABC classification and EOQ (Economic Order Quantity) in inventory planning.",
+                    "answer": "ABC classification categorizes inventory based on value, while EOQ determines the optimal order quantity to minimize costs. ABC focuses on prioritizing high-value items, while EOQ calculates the ideal quantity to order based on demand, holding costs, and ordering costs."
+                },
+                {
+                    "questions": "What are the key metrics you would track in a dashboard to monitor inventory health and store performance?",
+                    "answer": "I would track forecast accuracy, inventory turnover ratio, store fill rate, stockout percentage, overstock percentage, and sales per square foot to assess inventory health and store performance."
+                },
+                {
+                    "questions": "Can you describe your experience with forecasting techniques such as time series analysis? How have you used it in previous roles?",
+                    "answer": "In my previous role, I built time series forecasting models to project quarterly sales and inventory with 94% accuracy, reducing inventory overhang and improving replenishment planning. I used techniques like ARIMA and exponential smoothing to analyze historical data and predict future trends."
+                }
+            ],
+            "medium": [
+                {
+                    "questions": "How would you use Power BI to automate inventory reporting for leadership and planning reviews? What key elements would you include?",
+                    "answer": "I would use Power BI to create interactive dashboards that visualize inventory health, forecast accuracy, and store performance. Key elements would include real-time inventory levels, sales trends, stockout rates, and aging inventory. I would automate data refresh and distribution to stakeholders for regular planning reviews."
+                },
+                {
+                    "questions": "Describe a scenario where you had to improve forecast accuracy. What steps did you take to analyze and address the issue?",
+                    "answer": "In a previous role, forecast accuracy was low due to inaccurate historical data and lack of collaboration with sales and marketing teams. I cleaned and validated the historical data, collaborated with sales and marketing to gather insights on upcoming promotions and market trends, and incorporated these inputs into the forecasting model. This improved forecast accuracy and reduced stockouts."
+                },
+                {
+                    "questions": "How would you approach optimizing inventory levels across multiple retail and online channels to balance availability with working capital efficiency?",
+                    "answer": "I would use a combination of techniques, including ABC classification, EOQ, and safety stock calculations. I would analyze demand patterns for each channel, optimize min-max levels, and implement automated replenishment rules to ensure inventory availability while minimizing working capital."
+                }
+            ],
+            "hard": [
+                {
+                    "questions": "Design an inventory risk framework to identify and mitigate the risks associated with slow-moving SKUs. What factors would you consider, and how would you prioritize liquidation strategies?",
+                    "answer": "I would consider factors such as inventory age, carrying costs, and potential for obsolescence. I would prioritize liquidation strategies based on potential revenue recovery, impact on warehouse space, and customer demand. Strategies would include promotions, discounts, and channel-specific liquidation efforts."
+                },
+                {
+                    "questions": "How would you integrate machine learning techniques into the demand forecasting process to improve accuracy and reduce forecast error?",
+                    "answer": "I would use machine learning algorithms to analyze historical sales data, external factors such as weather and economic indicators, and promotional activities. I would train the model to identify patterns and predict future demand, using techniques such as regression, time series forecasting, and neural networks. I would continuously monitor and refine the model to improve accuracy."
+                },
+                {
+                    "questions": "Describe a scenario where you had to implement an ERP system for inventory planning. What challenges did you face, and how did you overcome them?",
+                    "answer": "Implementing an ERP system for inventory planning involved data migration, system configuration, and user training. Challenges included data quality issues, resistance to change, and integration with existing systems. I addressed these challenges by ensuring data accuracy, providing comprehensive training, and collaborating with IT to resolve integration issues. This resulted in improved inventory visibility and efficiency."
+                }
+            ]
+        }
+    }
+}

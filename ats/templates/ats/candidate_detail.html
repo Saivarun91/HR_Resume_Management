@@ -1,0 +1,792 @@
+{% load dict_extras %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Candidate Details</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            overflow-x:hidden;
+        }
+
+        body { 
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif; 
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            min-height: 100vh;
+            padding: 2rem 1rem;
+            line-height: 1.6;
+        }
+
+        .container { 
+            max-width: 1200px; 
+            margin: 0 auto; 
+            background: rgba(255, 255, 255, 0.95); 
+            backdrop-filter: blur(10px);
+            border-radius: 20px; 
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1), 0 0 0 1px rgba(255,255,255,0.2); 
+            padding: 3rem; 
+            position: relative;
+            overflow: hidden;
+        }
+
+        .container::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+            background: linear-gradient(90deg, #1e3c72, #2a5298, #3b82f6, #06b6d4);
+            border-radius: 20px 20px 0 0;
+        }
+
+        h1 { 
+            color: #1a202c; 
+            font-size: 2.8rem; 
+            font-weight: 900; 
+            margin-bottom: 2.5rem;
+            text-align: center;
+            background: linear-gradient(135deg, #1e3c72, #2a5298);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            letter-spacing: -0.02em;
+        }
+
+        h2, h3 { 
+            color: #2d3748; 
+            font-weight: 700;
+        }
+
+        .info-grid { 
+            display: grid; 
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); 
+            gap: 2rem; 
+            margin-bottom: 3rem; 
+        }
+
+        .info-card {
+            background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
+            border-radius: 20px;
+            padding: 2.5rem;
+            box-shadow: 0 6px 20px rgba(0,0,0,0.06);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            border: 1px solid rgba(255,255,255,0.9);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .info-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 3px;
+            background: linear-gradient(90deg, #1e3c72, #2a5298);
+            border-radius: 20px 20px 0 0;
+        }
+
+        .info-card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 12px 35px rgba(0,0,0,0.12);
+        }
+
+        .info-label { 
+            font-weight: 700; 
+            color: #4a5568; 
+            margin-bottom: 0.5rem; 
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .info-value { 
+            color: #1a202c; 
+            margin-bottom: 1.5rem; 
+            font-size: 1.1rem;
+            font-weight: 500;
+        }
+
+        .score-cards { 
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1.5rem; 
+            margin-bottom: 3rem; 
+        }
+
+        .score-card { 
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            color: white;
+            border-radius: 20px; 
+            padding: 2.5rem 2rem; 
+            text-align: center; 
+            box-shadow: 0 12px 35px rgba(30, 60, 114, 0.25);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            position: relative;
+            overflow: hidden;
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+
+        .score-card::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, transparent 70%);
+            transform: rotate(45deg);
+            transition: opacity 0.3s ease;
+            opacity: 0;
+        }
+
+        .score-card:hover {
+            transform: translateY(-10px) scale(1.03);
+            box-shadow: 0 20px 50px rgba(30, 60, 114, 0.35);
+        }
+
+        .score-card:hover::before {
+            opacity: 1;
+        }
+
+        .score-title { 
+            font-size: 1rem; 
+            font-weight: 600;
+            opacity: 0.9;
+            margin-bottom: 0.5rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .score-value { 
+            font-size: 3rem; 
+            font-weight: 900; 
+            margin: 1rem 0; 
+            text-shadow: 0 2px 4px rgba(0,0,0,0.2);
+        }
+
+        .score-description {
+            font-size: 0.9rem;
+            opacity: 0.8;
+            font-weight: 400;
+        }
+
+        .section-title { 
+            font-size: 2rem; 
+            color: #1a202c; 
+            margin: 4rem 0 2rem 0; 
+            border-bottom: 3px solid transparent;
+            border-image: linear-gradient(90deg, #1e3c72, #2a5298) 1;
+            padding-bottom: 0.75rem;
+            overflow: hidden;
+            font-weight: 800;
+            position: relative;
+        }
+
+        .section-title::after {
+            content: '';
+            position: absolute;
+            left: 0;
+            bottom: -3px;
+            width: 60px;
+            height: 3px;
+            background: linear-gradient(90deg, #1e3c72, #2a5298);
+            border-radius: 2px;
+        }
+
+        table { 
+            width: 100%; 
+            border-collapse: separate;
+            border-spacing: 0;
+            margin-top: 1.5rem; 
+            background: white;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.05);
+        }
+
+        th, td { 
+            padding: 1rem 1.5rem; 
+            text-align: left; 
+            border-bottom: 1px solid #e2e8f0;
+        }
+
+        th { 
+            background: linear-gradient(135deg, #f7fafc 0%, #edf2f7 100%);
+            color: #2d3748; 
+            font-weight: 700;
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        td {
+            background: white;
+            transition: background-color 0.2s ease;
+        }
+
+        tr:hover td {
+            background-color: #f8fafc;
+        }
+
+        .qa-category { 
+            margin-bottom: 2.5rem; 
+            background: white;
+            border-radius: 16px;
+            padding: 2rem;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+            border: 1px solid #e2e8f0;
+        }
+
+        .qa-title { 
+            font-size: 1.4rem; 
+            color: #2d3748;
+            margin-bottom: 1.5rem; 
+            font-weight: 700;
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid #e2e8f0;
+        }
+
+        .qa-pair { 
+            background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%);
+            padding: 1.5rem; 
+            border-radius: 12px; 
+            margin-bottom: 1rem; 
+            border: 1px solid #e2e8f0;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+
+        .qa-pair:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+        }
+
+        .qa-question { 
+            font-weight: 700;
+            color: #2d3748;
+            margin-bottom: 0.8rem;
+            font-size: 1.05rem;
+        }
+
+        .qa-answer {
+            color: #4a5568;
+            line-height: 1.7;
+        }
+
+        .qa-subcategory {
+            font-size: 1.2rem;
+            font-weight: 700;
+            color: #1e3c72;
+            margin: 2rem 0 1rem 0;
+            text-transform: capitalize;
+            padding: 0.5rem 0;
+            border-left: 4px solid #1e3c72;
+            padding-left: 1rem;
+            background: rgba(30, 60, 114, 0.05);
+            border-radius: 0 8px 8px 0;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        ul li {
+            background: linear-gradient(135deg, #1e3c72, #2a5298);
+            color: white;
+            padding: 1rem 1.5rem;
+            margin-bottom: 0.6rem;
+            border-radius: 10px;
+            font-weight: 600;
+            box-shadow: 0 3px 12px rgba(30, 60, 114, 0.25);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+
+        ul li:hover {
+            transform: translateX(8px) translateY(-2px);
+            box-shadow: 0 6px 20px rgba(30, 60, 114, 0.35);
+        }
+
+        /* Rating System Styles */
+        .rating-container {
+            background: white;
+            border-radius: 16px;
+            padding: 2rem;
+            margin-bottom: 3rem;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+            border: 1px solid #e2e8f0;
+        }
+
+        .rating-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+            margin-top: 1.5rem;
+        }
+
+        .rating-item {
+            background: #f8fafc;
+            padding: 1.5rem;
+            border-radius: 12px;
+            border-left: 4px solid #1e3c72;
+        }
+
+        .rating-category {
+            font-weight: 700;
+            margin-bottom: 1rem;
+            color: #2d3748;
+        }
+
+        .rating-stars {
+            display: flex;
+            gap: 0.5rem;
+            margin-bottom: 1rem;
+        }
+
+        .rating-star {
+            color: #e2e8f0;
+            font-size: 1.5rem;
+            cursor: pointer;
+            transition: color 0.2s;
+        }
+
+        .rating-star.active {
+            color: #f59e0b;
+        }
+
+        .feedback-textarea {
+            width: 100%;
+            padding: 1rem;
+            border: 1px solid #e2e8f0;
+            border-radius: 8px;
+            min-height: 120px;
+            font-family: inherit;
+            resize: vertical;
+            transition: border-color 0.2s;
+        }
+
+        .feedback-textarea:focus {
+            outline: none;
+            border-color: #1e3c72;
+            box-shadow: 0 0 0 3px rgba(30, 60, 114, 0.1);
+        }
+
+        /* Download Button Styles */
+        .download-section {
+            display: flex;
+            justify-content: center;
+            margin-top: 4rem;
+            padding-top: 3rem;
+            border-top: 1px solid #e2e8f0;
+        }
+
+        .download-btn {
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            color: white;
+            border: none;
+            padding: 1rem 2.5rem;
+            font-size: 1.1rem;
+            font-weight: 600;
+            border-radius: 50px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 0.8rem;
+            box-shadow: 0 4px 15px rgba(30, 60, 114, 0.3);
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .download-btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 25px rgba(30, 60, 114, 0.4);
+        }
+
+        .download-btn::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2), transparent);
+            transition: 0.5s;
+        }
+
+        .download-btn:hover::before {
+            left: 100%;
+        }
+
+        .download-icon {
+            font-size: 1.3rem;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .container {
+                padding: 1.5rem;
+                margin: 1rem;
+            }
+
+            h1 {
+                font-size: 2rem;
+            }
+
+            .info-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .score-cards {
+                grid-template-columns: 1fr;
+            }
+
+            .score-value {
+                font-size: 2.5rem;
+            }
+
+            table, th, td {
+                font-size: 0.9rem;
+            }
+
+            th, td {
+                padding: 0.8rem;
+            }
+
+            .rating-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        /* Animation for page load */
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .container > * {
+            animation: fadeInUp 0.6s ease-out forwards;
+        }
+
+        .container > *:nth-child(2) { animation-delay: 0.1s; }
+        .container > *:nth-child(3) { animation-delay: 0.2s; }
+        .container > *:nth-child(4) { animation-delay: 0.3s; }
+        
+        /* Collapsible questions */
+        .collapsible-question {
+            cursor: pointer;
+            position: relative;
+            overflow: hidden;
+            padding-right: 30px;
+            transition: all 0.3s ease;
+        }
+        
+        .collapsible-question:hover {
+            color: #1e3c72;
+        }
+        
+        .collapsible-question::after {
+            content: '+';
+            position: absolute;
+            right: 10px;
+            font-size: 1.5rem;
+            font-weight: bold;
+            transition: transform 0.3s ease;
+        }
+        
+        .collapsible-question.active::after {
+            content: '-';
+            transform: rotate(0deg);
+        }
+        
+        .question-container {
+            margin-bottom: 1rem;
+            border-left: 3px solid #1e3c72;
+            padding-left: 1rem;
+        }
+        
+        .answer-content {
+            padding: 1rem;
+            background: #f8fafc;
+            border-radius: 0 0 8px 8px;
+            margin-top: 0.5rem;
+        }
+    </style>
+    <!-- Include html2pdf library -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+</head>
+<body>
+<div class="container">
+    <h1>Candidate Profile</h1>
+    
+    {% with extracted=analysis.ATS|get_item:'Extracted Data' %}
+    <div class="info-grid">
+        <div class="info-card">
+            <div class="info-label">Full Name</div>
+            <div class="info-value">{{ extracted|get_item:'Name' }}</div>
+            <div class="info-label">Contact Information</div>
+            <div class="info-value">{{ extracted|get_item:'Contact Details' }}</div>
+        </div>
+        <div class="info-card">
+            <div class="info-label">Years of Experience</div>
+            <div class="info-value">{{ analysis.Resume|get_item:'YEARS' }}
+            </div>
+            <div class="info-label">Educational Background</div>
+            <div class="info-value">{{ extracted|get_item:'Education' }}</div>
+        </div>
+    </div>
+    {% endwith %}
+
+    <div class="section-title">Performance Analytics</div>
+    {% with ats_score=analysis.ATS|get_item:'ATS Score' %}
+    <div class="score-cards">
+        <div class="score-card">
+            <div class="score-title">ATS Score</div>
+            <div class="score-value">{{ ats_score|get_item:'Total Score' }}</div>
+            <div class="score-description">Applicant Tracking System Compatibility</div>
+        </div>
+        <div class="score-card">
+            <div class="score-title">RRS Score</div>
+            <div class="score-value">{{ analysis.Resume|get_item:'RESUME_RELEVANCE_SCORE' }}</div>
+            <div class="score-description">Resume Relevance Assessment</div>
+        </div>
+        <div class="score-card">
+            <div class="score-title">RFS Score</div>
+            <div class="score-value">{{ analysis.Resume|get_item:'ROLE_FIT_SCORE' }}</div>
+            <div class="score-description">Role Compatibility Index</div>
+        </div>
+    </div>
+    {% endwith %}
+
+    <div class="section-title">Skills & Competencies Analysis</div>
+    <div class="info-grid">
+        <div class="info-card">
+            <div class="info-label">Technical Expertise</div>
+            <div class="info-value">
+                {% if extracted|get_item:'Skills' %}
+                    {% with hard=extracted|get_item:'Skills'|get_item:'Hard Skills' %}
+                        {{ hard|join:', ' }}
+                    {% endwith %}
+                {% endif %}
+            </div>
+            <div class="info-label">Interpersonal Skills</div>
+            <div class="info-value">
+                {% if extracted|get_item:'Skills' %}
+                    {% with soft=extracted|get_item:'Skills'|get_item:'Soft Skills' %}
+                        {{ soft|join:', ' }}
+                    {% endwith %}
+                {% endif %}
+            </div>
+            <div class="info-label">Skills Gap Analysis</div>
+            <div class="info-value">{{ analysis.Resume|get_item:'MISSING_SKILLS'|join:', ' }}</div>
+        </div>
+        <div class="info-card">
+            <div class="info-label">Keywords Optimization</div>
+            <div class="info-value">{{ analysis.Resume|get_item:'MISSING_KEYWORDS'|join:', ' }}</div>
+            <div class="info-label">Role Compatibility Matches</div>
+            <div class="info-value">
+                <ul>
+                    {% with role=analysis.Resume.ROLEMATCHES %}
+                        {%for name,score in role.items%}
+                            <li>{{ name }} - {{ score }}%</li>
+                        {% endfor %}
+                    {% endwith %}
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="section-title">Professional Experience Timeline</div>
+    {% if extracted|get_item:'Experience' %}
+    <table>
+        <thead>
+            <tr>
+                <th>Position</th>
+                <th>Organization</th>
+                <th>Duration</th>
+                <th>Key Responsibilities</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for item in extracted|get_item:'Experience' %}
+            <tr>
+                <td>{{ item.Title }}</td>
+                <td>{{ item.Company }}</td>
+                <td>{{ item.Duration }}</td>
+                <td>{{ item.Description|truncatewords:25 }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    {% endif %}
+
+    <!-- HR Rating System Section -->
+    <div class="section-title">HR Evaluation</div>
+    <div class="rating-container">
+        <h3>Candidate Rating</h3>
+        <p>Rate the candidate on various parameters (1-5 stars)</p>
+        
+        <div class="rating-grid">
+            <div class="rating-item">
+                <div class="rating-category">Technical Skills</div>
+                <div class="rating-stars">
+                    <span class="rating-star" data-value="1">★</span>
+                    <span class="rating-star" data-value="2">★</span>
+                    <span class="rating-star" data-value="3">★</span>
+                    <span class="rating-star" data-value="4">★</span>
+                    <span class="rating-star" data-value="5">★</span>
+                </div>
+                <input type="hidden" name="technical_rating" value="0">
+            </div>
+            
+            <div class="rating-item">
+                <div class="rating-category">Cultural Fit</div>
+                <div class="rating-stars">
+                    <span class="rating-star" data-value="1">★</span>
+                    <span class="rating-star" data-value="2">★</span>
+                    <span class="rating-star" data-value="3">★</span>
+                    <span class="rating-star" data-value="4">★</span>
+                    <span class="rating-star" data-value="5">★</span>
+                </div>
+                <input type="hidden" name="cultural_rating" value="0">
+            </div>
+            
+            <div class="rating-item">
+                <div class="rating-category">Communication</div>
+                <div class="rating-stars">
+                    <span class="rating-star" data-value="1">★</span>
+                    <span class="rating-star" data-value="2">★</span>
+                    <span class="rating-star" data-value="3">★</span>
+                    <span class="rating-star" data-value="4">★</span>
+                    <span class="rating-star" data-value="5">★</span>
+                </div>
+                <input type="hidden" name="communication_rating" value="0">
+            </div>
+            
+            <div class="rating-item">
+                <div class="rating-category">Potential</div>
+                <div class="rating-stars">
+                    <span class="rating-star" data-value="1">★</span>
+                    <span class="rating-star" data-value="2">★</span>
+                    <span class="rating-star" data-value="3">★</span>
+                    <span class="rating-star" data-value="4">★</span>
+                    <span class="rating-star" data-value="5">★</span>
+                </div>
+                <input type="hidden" name="potential_rating" value="0">
+            </div>
+        </div>
+        
+        <div style="margin-top: 2rem;">
+            <div class="info-label">Overall Feedback</div>
+            <textarea class="feedback-textarea" placeholder="Provide detailed feedback about the candidate..."></textarea>
+        </div>
+        
+        <div style="margin-top: 1.5rem; display: flex; justify-content: flex-end;">
+            <button type="button" class="download-btn" style="padding: 0.8rem 1.5rem; font-size: 1rem;" id="save-feedback">
+                <span class="download-icon">✓</span> Save Evaluation
+            </button>
+        </div>
+    </div>
+    
+    <div class="section-title">Interview Preparation Guide</div>
+    {% with questions=analysis.Resume.INTERVIEW_QUESTIONS %}
+        {% for section, qa_list in questions.items %}
+            <div class="qa-category">
+                <div class="qa-title">{{ section|title }} Interview Questions</div>
+                {% for qa in qa_list %}
+                    {% if qa.questions %}
+                    <div class="question-container">
+                        <div class="qa-question collapsible-question">Q: {{ qa.questions }}</div>
+                        <div class="answer-content" style="display: none;">
+                            <div class="qa-answer">A: {{ qa.answer }}</div>
+                        </div>
+                    </div>
+                    {% endif %}
+                {% endfor %}
+            </div>
+        {% endfor %}
+    {% endwith %}
+    
+    <!-- Download PDF Section -->
+    <div class="download-section">
+        <button class="download-btn" id="download-pdf">
+            <span class="download-icon">⬇️</span> Download Full Report
+        </button>
+    </div>
+    
+</div>
+
+<!-- Replace your existing download script with the one below -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        // Collapsible Q&A
+        const questions = document.querySelectorAll('.collapsible-question');
+        questions.forEach(q => {
+            q.addEventListener('click', function () {
+                this.classList.toggle('active');
+                const answer = this.nextElementSibling;
+                answer.style.display = answer.style.display === 'block' ? 'none' : 'block';
+            });
+        });
+
+        // Star rating
+        document.querySelectorAll('.rating-stars').forEach(group => {
+            const stars = group.querySelectorAll('.rating-star');
+            const input = group.parentElement.querySelector('input[type="hidden"]');
+            stars.forEach(star => {
+                star.addEventListener('click', function () {
+                    const val = parseInt(this.dataset.value);
+                    stars.forEach((s, i) => s.classList.toggle('active', i < val));
+                    input.value = val;
+                });
+            });
+        });
+
+        // Save feedback
+        document.getElementById('save-feedback').addEventListener('click', function () {
+            alert('Evaluation saved successfully!');
+        });
+
+        // Download as styled PDF
+        document.getElementById('download-pdf').addEventListener('click', function () {
+            const element = document.querySelector('.container');
+            const name = document.querySelector('.info-value')?.textContent?.trim().replace(/\s+/g, '_') || 'Candidate';
+            const opt = {
+                margin: 0,
+                filename: `Candidate_Report_${name}.pdf`,
+                image: { type: 'jpeg', quality: 0.98 },
+                html2canvas: {
+                    scale: 2,
+                    useCORS: true,
+                    allowTaint: true
+                },
+                jsPDF: { unit: 'mm', format: 'a3', orientation: 'portrait' }
+            };
+
+            this.innerHTML = '<span class="download-icon">⏳</span> Generating...';
+            this.disabled = true;
+
+            html2pdf().set(opt).from(element).save().then(() => {
+                this.innerHTML = '<span class="download-icon">⬇️</span> Download Full Report';
+                this.disabled = false;
+            });
+        });
+    });
+</script>
+
+
+</body>
+</html>

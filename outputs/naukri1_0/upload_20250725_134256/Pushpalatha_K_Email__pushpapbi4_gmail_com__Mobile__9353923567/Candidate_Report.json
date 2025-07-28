@@ -1,0 +1,411 @@
+{
+    "ATS": {
+        "Extracted Data": {
+            "Name": "Pushpalatha K",
+            "Contact Details": "Email: pushpapbi4@gmail.com, Mobile: 9353923567",
+            "Summary or Objective": "Having 5+ years of professional development experience in the areas of Microsoft Power BI Desktop and Power BI Service. Developed rich visualized reports and dashboards using Microsoft Power BI. Created, maintained & scheduled various reports in Power BI Desktop. Expertise developing Reports and Dashboards using Microsoft Power BI. Excellent skills in writing DAX in Microsoft Power BI Desktop. Published power BI reports from the Power BI Desktop to Power BI Service. Expertise working with power BI Desktop and Power BI Service. Having the experience in implementing the security by using RLS (Row Level Security). Experience in scheduling refresh on Power BI Reports by using the Data Gateways and Knowledge of viewing dashboards in Power BI Mobile version. Created rich visualized charts like Line, Pie, Scatter, Slicer, Bar chat, Funnel charts etc. Expertise on working with Import Data source, Direct Query, Live Connections, in Power BI. Outstanding ability to communicate and work with in a diverse team and independently. Strong decision making skills, organizational skills, excellent leadership and problem solving skills.",
+            "Skills": {
+                "Soft Skills": [
+                    "Communication",
+                    "Teamwork",
+                    "Decision Making",
+                    "Organizational Skills",
+                    "Leadership",
+                    "Problem Solving"
+                ],
+                "Hard Skills": [
+                    "Microsoft Power BI Desktop",
+                    "Power BI Service",
+                    "DAX",
+                    "SQL Server",
+                    "Power Query",
+                    "Power View",
+                    "Pivot Tables",
+                    "T-SQL",
+                    "Import Data Source",
+                    "Direct Query",
+                    "Live Connections",
+                    "Data Gateways",
+                    "RLS (Row Level Security)"
+                ]
+            },
+            "Experience": [
+                {
+                    "Title": "E Commerce Executive",
+                    "Company": "Organic Mandya Food PVT LTD, Bangalore",
+                    "Duration": "Sep 2024 to till date",
+                    "Description": "Currently working"
+                },
+                {
+                    "Title": "Power BI developer",
+                    "Company": "Tech Mahindra Business Services Bangalore",
+                    "Duration": "May 2020 to August 2024",
+                    "Description": "Working Experience"
+                }
+            ],
+            "Projects": [
+                {
+                    "Title": "Super Market Sales Analysis",
+                    "Client": "Morrisons",
+                    "Description": "Created tables, Views and Procedures by using SQL script. Used Custom Visuals based on business requirement. Merge and Append Queries and Utilized aggregation to improve query performance. Worked on writing the complex measures using DAX. Created Custom columns using DAX. Using Charts with Power Maps, Working with layers. Creating a Query, the Query Editor Window in Power BI. Extensively worked on Power BI Personal Gateways and Enterprise Gateways. Created Bookmark Pane applies to the actions on view details and Text/ Matrix Tables. Created rich visualized Dashboards in Power BI.",
+                    "Role": "Power BI Developer"
+                },
+                {
+                    "Title": "Consumer Marketing (Retail)",
+                    "Client": "Cuna, USA",
+                    "Description": "Experience on Importing Power Bi repots to Power BI service, connecting to the data from SQL Server. Designed different types of reports like Drill Down, Drill Through and Sync Slicers. Develop Visual Level Filters, Report Level Filters and Page Level Filters in Power BI. Implemented RLS as part of security. Working on DAX functions like Date & Time, Information, Filter & Value, Logical, and Text functions. Ensure timely delivery & quality of delivery by adhering to Quality Process. Extensively worked on Power BI Personal Gateways and Enterprise Gateways. Creating, developing and deploying data reports and dashboards for large volumes of data in Power BI. Implement Row Level Security (RLS) as per requirement Publishing reports to Power BI server and providing the access to required users.",
+                    "Role": "Power BI, SQL server Developer"
+                },
+                {
+                    "Title": "Yale New Haven Hospital (Health care)",
+                    "Client": "Yale, (USA)",
+                    "Description": "Connecting to the data from SQL Server and different data sources. Experience on Importing Power BI Reports from the Power BI Desktop to Power BI service. As per the client requirements, rendering the Reports in the form .PDF, .CSV and Excel formats. Good on Sharing the dashboards & providing the security the Power Bi reports and Exporting /analyzing the data to excel. Extensively used for the Bookmarks and Selection pane to show all the visuals in a single page. Installed and Configured Power BI Gateways to keep the dashboards and reports up to date by scheduling the Refresh. Creating a Drill down and Drill through Reports. Implemented RLS (Row Level Security) for the reports. Working on DAX functions like Date & Time, Information, Filter & Value, Logical, and Text functions. Working on MS SQL Server and written queries to pull the data. Ensure timely delivery & quality of delivery by adhering to Quality Process.",
+                    "Role": "Power BI Developer"
+                }
+            ],
+            "Certifications": [],
+            "Education": "Bachelor of Science (B.SC) from Sri Srinivasa Degree College (SVU) in the year of 2015"
+        },
+        "ATS Score": {
+            "Total Score": 68,
+            "Breakdown": {
+                "Format Score": 5,
+                "Spelling & Grammar": 8,
+                "Summary": 10,
+                "Skills": 10,
+                "Experience": 10,
+                "Projects": 10,
+                "Certifications": 0,
+                "Education": 5,
+                "Contact Details": 10
+            }
+        },
+        "Recommendations": [
+            "Reduce the resume length to a maximum of two pages for better readability and conciseness. A lengthy resume can deter recruiters from thoroughly reviewing your qualifications and experience. **Focus on highlighting the most relevant and impactful information**.",
+            "Include any relevant certifications to showcase expertise and commitment to professional development. **Certifications can significantly enhance your credibility** and demonstrate specialized knowledge in Power BI and related technologies.",
+            "Reformat the education section to follow a standard format, including the degree name, university, and graduation year. Clearly presenting your educational background helps recruiters quickly assess your qualifications. **Maintain consistent formatting throughout the resume**.",
+            "Correct minor spelling and grammatical errors to ensure a professional and polished presentation. **Attention to detail reflects positively on your communication skills and overall competence**.",
+            "Quantify achievements within your work experience and project descriptions to demonstrate the impact of your contributions. **Using specific numbers and metrics makes your accomplishments more tangible and compelling**.",
+            "Tailor the resume to match the specific requirements of each job application, highlighting the most relevant skills and experiences. Customizing your resume increases its relevance and demonstrates a strong fit for the role. **Address the key qualifications outlined in the job description**.",
+            "Consider adding a portfolio or link to your Power BI projects to showcase your visualization and dashboarding skills. **Visual examples of your work can be highly effective in demonstrating your capabilities**."
+        ]
+    },
+    "Resume": {
+        "RESUME_RELEVANCE_SCORE": 75,
+        "ROLE_FIT_SCORE": 65,
+        "ATS_SCORE": 70,
+        "KEYWORD_MATCH_SCORE": 60,
+        "MATCHED_KEYWORDS": [
+            "Power BI",
+            "SQL Server",
+            "Excel",
+            "Retail",
+            "Dashboards",
+            "Reporting",
+            "Inventory",
+            "Analysis",
+            "Forecasting",
+            "Analytics",
+            "Data"
+        ],
+        "MISSING_KEYWORDS": [
+            "Inventory Planning",
+            "Replenishment",
+            "Allocation",
+            "Inventory Optimization",
+            "Demand Forecasting",
+            "SKU",
+            "ABC classification",
+            "EOQ",
+            "min max",
+            "Inventory turnover",
+            "Stock out",
+            "FOFO franchise",
+            "Omnichannel inventory",
+            "NetSuite",
+            "Zoho",
+            "Unicommerce",
+            "Excel modeling"
+        ],
+        "MISSING_SKILLS": [
+            "Inventory Planning",
+            "Replenishment",
+            "Allocation",
+            "Inventory Optimization",
+            "Demand Forecasting",
+            "ABC classification",
+            "EOQ",
+            "NetSuite",
+            "Zoho",
+            "Unicommerce",
+            "Excel modeling"
+        ],
+        "RESUME_TIPS": [
+            "In your experience at Organic Mandya Food PVT LTD, quantify your impact on inventory. For example, mention any improvements in **inventory turnover ratio** achieved using **Power BI dashboards**, such as a **15% reduction in overstock**.",
+            "Expand on your experience with **Power BI** by detailing how you automated reporting. Specifically, mention automating inventory reports, improving forecast accuracy by **10%**, and ensuring **dashboard adherence** in the role.",
+            "In your project descriptions, include details on **demand forecasting** techniques you've used. For example, state that you used **historical sales data and seasonality** to predict demand, leading to a **5% reduction in stockouts**.",
+            "Highlight your understanding of inventory management concepts by adding **ABC classification** and **EOQ (Economic Order Quantity)** to your skills. Describe how you\u2019ve applied these to optimize stock levels, leading to a **10% reduction in holding costs**.",
+            "Include experience with **replenishment** and **allocation** strategies. Detail how you defined and managed **min/max levels** for a product category, improving **store fill rate** by **8%**.",
+            "Add details about your experience with **inventory optimization**. For example, mention how you identified slow-moving items and implemented strategies to improve **inventory turnover** by **12%**.",
+            "Mention experience with retail inventory planning tools. Even if limited, mention any exposure to systems like **NetSuite**, **Zoho**, or **Unicommerce**, and how you leveraged them for **inventory planning**.",
+            "Elaborate on your experience with **Excel modeling** within the context of forecasting. Showcase how you built models to predict demand or manage inventory, achieving a **7% improvement in forecast accuracy**.",
+            "When discussing your **Power BI** projects, explain how you built dashboards to monitor inventory health. Mention specific KPIs like **stock out percentages** and **overstock percentages**, contributing to a **5% reduction in lost sales**.",
+            "In your summary, mention your experience with **omnichannel inventory**. If you've dealt with both retail and online inventory, highlight how you managed the complexities of an **omnichannel** setup, leading to a **10% improvement in order fulfillment rates**."
+        ],
+        "COURSE_RECOMMENDATIONS": {
+            "Inventory Planning": [
+                {
+                    "COURSE_NAME": "Supply Chain Planning",
+                    "PLATFORM": "Coursera",
+                    "DESCRIPTION": "Learn the fundamentals of supply chain planning, including demand forecasting and inventory management.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.coursera.org/specializations/supply-chain-management"
+                },
+                {
+                    "COURSE_NAME": "Inventory Management: How to Optimize Inventory",
+                    "PLATFORM": "Udemy",
+                    "DESCRIPTION": "This course covers inventory control techniques and teaches how to improve inventory efficiency.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.udemy.com/course/inventory-management-how-to-optimize-inventory/"
+                },
+                {
+                    "COURSE_NAME": "Inventory Management Fundamentals",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "A comprehensive guide to inventory management principles and practices.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.youtube.com/watch?v=wJ-cuQW9keA"
+                }
+            ],
+            "Replenishment": [
+                {
+                    "COURSE_NAME": "Supply Chain Analytics",
+                    "PLATFORM": "Coursera",
+                    "DESCRIPTION": "Learn advanced techniques for optimizing replenishment strategies using data analytics.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.coursera.org/specializations/supply-chain-analytics"
+                },
+                {
+                    "COURSE_NAME": "Inventory Replenishment Planning",
+                    "PLATFORM": "Udemy",
+                    "DESCRIPTION": "Learn how to plan and execute effective inventory replenishment strategies.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.udemy.com/course/inventory-replenishment-planning/"
+                },
+                {
+                    "COURSE_NAME": "Inventory Control and Replenishment",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "A video tutorial on inventory control and replenishment methods.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.youtube.com/watch?v=TrY-1vQVqDQ"
+                }
+            ],
+            "Allocation": [
+                {
+                    "COURSE_NAME": "Retail Analytics and Pricing",
+                    "PLATFORM": "Coursera",
+                    "DESCRIPTION": "Learn how to optimize product allocation in retail using analytical tools.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.coursera.org/learn/retail-analytics"
+                },
+                {
+                    "COURSE_NAME": "Supply Chain Planning and Optimization",
+                    "PLATFORM": "Udemy",
+                    "DESCRIPTION": "Optimize supply chain processes including product allocation using various models and techniques.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.udemy.com/course/supply-chain-planning-and-optimization/"
+                },
+                {
+                    "COURSE_NAME": "Supply Chain Management: Inventory Allocation",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "Explanation on the principles of inventory allocation in supply chain management.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://m.youtube.com/watch?v=Ea-1wKPMOaE"
+                }
+            ],
+            "Inventory Optimization": [
+                {
+                    "COURSE_NAME": "Inventory Optimization Techniques",
+                    "PLATFORM": "Skillshare",
+                    "DESCRIPTION": "Explore advanced inventory optimization techniques to reduce costs and improve efficiency.",
+                    "DIFFICULTY": "Advanced",
+                    "COURSE_LINK": "https://www.skillshare.com/en/classes/Inventory-Optimization-Techniques/187286084"
+                },
+                {
+                    "COURSE_NAME": "Inventory Management Masterclass",
+                    "PLATFORM": "Udemy",
+                    "DESCRIPTION": "Master inventory optimization strategies and processes from start to finish.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.udemy.com/course/inventory-management-masterclass/"
+                },
+                {
+                    "COURSE_NAME": "Inventory Control Best Practices",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "Video explaining inventory management best practices and optimization strategies.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.youtube.com/watch?v=3wEQ8B_3-94"
+                }
+            ],
+            "Demand Forecasting": [
+                {
+                    "COURSE_NAME": "Demand Forecasting: Models and Methods",
+                    "PLATFORM": "Coursera",
+                    "DESCRIPTION": "Learn the statistical models and methods to improve demand forecasting accuracy.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.coursera.org/learn/demand-forecasting"
+                },
+                {
+                    "COURSE_NAME": "Demand Planning and Forecasting",
+                    "PLATFORM": "Udemy",
+                    "DESCRIPTION": "Master demand planning process and improve forecast accuracy using real-world examples.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.udemy.com/course/demand-planning-and-forecasting/"
+                },
+                {
+                    "COURSE_NAME": "Demand Forecasting in Supply Chain",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "Understanding demand forecasting principles and methods.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.youtube.com/watch?v=JySfgqY6K3E"
+                }
+            ],
+            "ABC classification": [
+                {
+                    "COURSE_NAME": "Inventory Management Fundamentals",
+                    "PLATFORM": "Coursera",
+                    "DESCRIPTION": "Learn about inventory classification including ABC analysis to prioritize items.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.coursera.org/lecture/supply-chain-management/inventory-management-intro-and-abc-analysis-nB5zB"
+                },
+                {
+                    "COURSE_NAME": "Inventory Management: ABC Analysis",
+                    "PLATFORM": "Udemy",
+                    "DESCRIPTION": "A complete course on using ABC analysis for inventory management.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.udemy.com/course/inventory-management-abc-analysis/"
+                },
+                {
+                    "COURSE_NAME": "ABC Analysis for Inventory Control",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "Explains how to conduct ABC analysis for effective inventory control.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.youtube.com/watch?v=bKxjw1msX3k"
+                }
+            ],
+            "EOQ": [
+                {
+                    "COURSE_NAME": "Inventory Management: EOQ Model",
+                    "PLATFORM": "Coursera",
+                    "DESCRIPTION": "Learn to use the Economic Order Quantity (EOQ) model to optimize inventory orders.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.coursera.org/lecture/supply-chain-management/calculating-the-economic-order-quantity-eoq-Wv5JO"
+                },
+                {
+                    "COURSE_NAME": "Economic Order Quantity",
+                    "PLATFORM": "Udemy",
+                    "DESCRIPTION": "This course teaches you how to calculate EOQ and use it in inventory management.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.udemy.com/course/economic-order-quantity/"
+                },
+                {
+                    "COURSE_NAME": "EOQ Calculation and Inventory Optimization",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "Video tutorial on the EOQ calculation and its application in inventory management.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://m.youtube.com/watch?v=afwFNDt-fMw"
+                }
+            ],
+            "NetSuite": [
+                {
+                    "COURSE_NAME": "NetSuite ERP Essentials",
+                    "PLATFORM": "Udemy",
+                    "DESCRIPTION": "Get started with NetSuite ERP, covering essential modules including inventory management.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.udemy.com/course/netsuite-essentials/"
+                },
+                {
+                    "COURSE_NAME": "NetSuite Foundations",
+                    "PLATFORM": "Coursera",
+                    "DESCRIPTION": "Learn the fundamental concepts and features of NetSuite, including how to manage inventory.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.coursera.org/projects/getting-started-with-oracle-netsuite"
+                },
+                {
+                    "COURSE_NAME": "NetSuite Inventory Management Tutorial",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "Guide on setting up and managing inventory within NetSuite ERP system.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.youtube.com/watch?v=4dlTd0sNlew"
+                }
+            ],
+            "Zoho": [
+                {
+                    "COURSE_NAME": "Mastering Zoho Inventory",
+                    "PLATFORM": "Udemy",
+                    "DESCRIPTION": "Master Zoho Inventory and learn to manage your entire inventory process end-to-end.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.udemy.com/course/mastering-zoho-inventory/"
+                },
+                {
+                    "COURSE_NAME": "Zoho Inventory: The Complete Guide",
+                    "PLATFORM": "Skillshare",
+                    "DESCRIPTION": "An in-depth guide to Zoho Inventory, covering every feature and function.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.skillshare.com/en/classes/Zoho-Inventory-The-Complete-Guide/1449153398"
+                },
+                {
+                    "COURSE_NAME": "Zoho Inventory Tutorial for Beginners",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "Get started with Zoho Inventory by learning the basics of the system.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.youtube.com/watch?v=KjF-aI-4cO0"
+                }
+            ],
+            "Unicommerce": [
+                {
+                    "COURSE_NAME": "Unicommerce Training for Inventory Management",
+                    "PLATFORM": "Udemy",
+                    "DESCRIPTION": "Training course focused on inventory management within the Unicommerce platform.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.udemy.com/course/unicommerce-training-for-inventory-management/"
+                },
+                {
+                    "COURSE_NAME": "Unicommerce Inventory Management",
+                    "PLATFORM": "Coursera",
+                    "DESCRIPTION": "Explores the features of unicommerce",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://in.coursera.org/lecture/ecommerce-business-strategy/inventory-management-with-unicommerce-8w01w"
+                },
+                {
+                    "COURSE_NAME": "Unicommerce Platform Tutorial",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "A tutorial on using the Unicommerce platform for inventory management.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.youtube.com/watch?v=b-o5W-z-V6I"
+                }
+            ],
+            "Excel modeling": [
+                {
+                    "COURSE_NAME": "Financial Modeling and Valuation Analyst (FMVA)",
+                    "PLATFORM": "Corporate Finance Institute",
+                    "DESCRIPTION": "Learn financial modeling in Excel, with advanced techniques for forecasting.",
+                    "DIFFICULTY": "Advanced",
+                    "COURSE_LINK": "https://corporatefinanceinstitute.com/certifications/financial-modeling-valuation-analyst-fmva/"
+                },
+                {
+                    "COURSE_NAME": "Microsoft Excel - Data Analysis, Dashboard and Reporting",
+                    "PLATFORM": "Udemy",
+                    "DESCRIPTION": "Build Excel models and dashboards to perform data analysis and reporting.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.udemy.com/course/microsoft-excel-data-analysis-dashboards-and-reporting/"
+                },
+                {
+                    "COURSE_NAME": "Excel for Business Analysts",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "Excel tips and tricks for business analytics and modeling.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.youtube.com/watch?v=xPp4F_mvAio"
+                }
+            ]
+        }
+    }
+}

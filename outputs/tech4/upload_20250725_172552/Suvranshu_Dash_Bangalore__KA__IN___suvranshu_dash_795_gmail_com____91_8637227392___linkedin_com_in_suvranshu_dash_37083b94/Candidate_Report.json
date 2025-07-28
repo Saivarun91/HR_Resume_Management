@@ -1,0 +1,267 @@
+{
+    "ATS": {
+        "Extracted Data": {
+            "Name": "Suvranshu Dash",
+            "Contact Details": "Bangalore, KA, IN | suvranshu.dash.795@gmail.com | +91 8637227392 | linkedin.com/in/suvranshu dash 37083b94",
+            "Summary or Objective": "Data driven Analyst with 5+ years of experience in business intelligence, pricing strategy, and process automation across logistics and tech sectors. Proven expertise in SQL, Power BI, and Python to deliver actionable insights, streamline operations, and drive profitability. Skilled in stakeholder management, ERP/CRM systems (SAP, Salesforce), and delivering strategic business impact through automation and analytics.",
+            "Skills": {
+                "Soft Skills": [
+                    "Analytical & Problem Solving",
+                    "Risk Analysis",
+                    "Supply Chain and Warehousing",
+                    "Stakeholder Management",
+                    "Interpersonal Communication",
+                    "Decision Making & Strategic Planning",
+                    "Team Leadership & Cross Functional Collaboration",
+                    "Process Optimization & Automation"
+                ],
+                "Hard Skills": [
+                    "Power BI",
+                    "SQL",
+                    "Python",
+                    "SAP",
+                    "Salesforce",
+                    "Tableau",
+                    "Metabase",
+                    "Google Analytics",
+                    "AWS",
+                    "JIRA",
+                    "Risk Management",
+                    "Agile",
+                    "MS Excel",
+                    "Google Sheets",
+                    "AI Tools",
+                    "Automation Expert"
+                ]
+            },
+            "Experience": [
+                {
+                    "Title": "Deputy Manager Analytics & Pricing",
+                    "Company": "Zast Logisolutions Pvt Ltd",
+                    "Duration": "Aug 2024 \u2013 Present",
+                    "Description": "Spearhead pricing strategy and RFQ responses, improving market win rates by 9%. Designed Power BI dashboards and created complex SQL queries to deliver real time business insights. Streamlined reporting through automation, cutting manual workload by 30% and saving 32 hours per week on billing tasks. Led cross functional collaborations like New Business Development Pipelines, Team Scorecards and Overall Business Reviews. Led end to end project initiatives by defining road maps, validating updates, and presenting progress to senior leadership. Worked with ERP/CRM systems (SAP, Salesforce) to streamline workflows and enhance data visibility."
+                },
+                {
+                    "Title": "Senior Analyst, Corporate Business",
+                    "Company": "Zinka Logistics Solutions Pvt Ltd",
+                    "Duration": "May 2022 \u2013 Aug 2024",
+                    "Description": "Created Power BI dashboards and advanced Excel reports to analyze business trends. Developed SQL queries for data extraction and validation. Collaborated with stakeholders to refine business strategies and enhance P&L impact. Managed projects, monitored updates, and presented findings to senior leadership. Drove client focused project management solutions, increasing success rates by implementing cost effective strategies and process improvements."
+                },
+                {
+                    "Title": "Data Analyst",
+                    "Company": "Quantum International Pvt Ltd",
+                    "Duration": "Nov 2019 \u2013 Apr 2022",
+                    "Description": "Conducted business requirement analysis and translated insights into strategic recommendations. Ensured data integrity across systems to facilitate accurate reporting. Developed SQL based reports and dashboards for streamlined business intelligence."
+                }
+            ],
+            "Projects": [
+                "Analyzed SAP Order to Cash (O2C) process using Celonis to detect inefficiencies and quantify business impact.",
+                "Co developed an AI powered healthcare recommendation system using Python, NLP, and ML."
+            ],
+            "Certifications": [],
+            "Education": "Bachelor of Technology, Mechanical Engineering, Institute of Technical Education C Research, Bhubaneswar (May 2017), CGPA: 8.75"
+        },
+        "ATS Score": {
+            "Total Score": 93,
+            "Breakdown": {
+                "Format Score": 5,
+                "Spelling & Grammar": 10,
+                "Summary": 10,
+                "Skills": 10,
+                "Experience": 10,
+                "Projects": 10,
+                "Certifications": 5,
+                "Education": 10,
+                "Contact Details": 10
+            }
+        },
+        "Recommendations": [
+            "While the resume is well-structured, consider **quantifying** more achievements with specific numbers or percentages to highlight the impact of your work, particularly within the experience section.",
+            "Although a variety of **skills** are listed, tailoring the skills section to match the specific requirements of each job application can further improve the resume's relevance and ATS compatibility.",
+            "Consider adding any relevant **certifications** to enhance credibility and demonstrate expertise in specific areas. This section is currently missing, and including relevant certifications could significantly boost your profile.",
+            "Ensure **consistent formatting** throughout the resume, including date formats, font styles, and spacing, to maintain a professional and polished appearance.",
+            "Expand on the **project descriptions** by providing more context on your role, the technologies used, and the quantifiable results achieved. This will provide a clearer picture of your contributions and skills.",
+            "The resume extends to **two pages**, which is acceptable. However, ensure that all information is highly relevant and impactful. Eliminate any redundancies to keep the resume concise and engaging.",
+            "While **interests** are listed, consider whether they are relevant to the jobs you are applying for. If not, it might be best to omit them to save space and maintain a focus on your professional qualifications."
+        ]
+    },
+    "Resume": {
+        "RESUME_RELEVANCE_SCORE": 75,
+        "ROLE_FIT_SCORE": 80,
+        "ATS_SCORE": 85,
+        "KEYWORD_MATCH_SCORE": 70,
+        "MATCHED_KEYWORDS": [
+            "Analytics",
+            "Power BI",
+            "Excel",
+            "Reporting",
+            "Inventory",
+            "SQL",
+            "Stakeholder management",
+            "automation",
+            "Supply Chain",
+            "retail",
+            "forecasting",
+            "replenishment",
+            "ERP",
+            "CRM",
+            "SAP",
+            "Salesforce",
+            "Market research",
+            "Strategic Planning",
+            "Team Leadership",
+            "Cross Functional Collaboration",
+            "Pricing Strategy",
+            "Senior Leadership",
+            "P&L",
+            "Project Management",
+            "Business Intelligence",
+            "Data Analysis",
+            "Business Development",
+            "Competitive Analysis",
+            "Market Win Rates",
+            "Data Extraction",
+            "Data Validation",
+            "Business Strategies",
+            "Project Initiatives",
+            "Process Improvement",
+            "Data Integrity",
+            "Strategic Recommendations",
+            "Business Reviews",
+            "Client Focused",
+            "Senior Analyst",
+            "Business Trends",
+            "Revenue",
+            "Business Impact",
+            "Cost Effective Strategies"
+        ],
+        "MISSING_KEYWORDS": [
+            "Inventory Planning",
+            "Demand Forecasting",
+            "Optimal Inventory Levels",
+            "Replenishments",
+            "Actionable Insights",
+            "Working Capital Efficiency",
+            "Merchandising",
+            "Promotions",
+            "Regional Preferences",
+            "Min Max Levels",
+            "Allocation",
+            "High Performing SKUs",
+            "Inventory Optimization",
+            "Inventory Turnover",
+            "Sell Through",
+            "Aging Stock",
+            "Slow Moving Items",
+            "Overstocked Items",
+            "Forecast Accuracy",
+            "Store Performance",
+            "Planning Reviews",
+            "Forecasting Techniques",
+            "Planning Logic",
+            "ABC Classification",
+            "EOQ",
+            "Attention to Detail",
+            "Retail Inventory Planning Tools",
+            "NetSuite",
+            "Zoho",
+            "Unicommerce",
+            "Omnichannel Inventory",
+            "D2C Brands",
+            "FOFO Franchise Models"
+        ],
+        "MISSING_SKILLS": [
+            "Tableau",
+            "Advanced Excel (Pivot Tables, Lookups, Modeling)",
+            "Retail Inventory Planning Tools"
+        ],
+        "INTERVIEW_QUESTIONS": {
+            "PSYCHOMETRIC": [
+                {
+                    "questions": "How do you handle situations where you need to make a decision quickly with limited information?",
+                    "answer": "I assess the available data, identify potential risks and benefits, and make a calculated decision based on my understanding of the situation and company goals. I also communicate my rationale to stakeholders and remain open to adjustments as new information becomes available."
+                },
+                {
+                    "questions": "Describe a time when you had to adapt to a significant change in your work environment.",
+                    "answer": "In a previous role, our company implemented a new ERP system. I quickly learned the system, identified potential challenges, and trained my team on how to use it effectively, minimizing disruption and improving data accuracy."
+                },
+                {
+                    "questions": "How do you prioritize tasks when faced with multiple competing deadlines?",
+                    "answer": "I evaluate the urgency and importance of each task, considering their impact on business objectives. I then create a structured plan, communicate timelines to stakeholders, and proactively address any potential roadblocks to ensure timely completion."
+                }
+            ],
+            "Soft_Skills": [
+                {
+                    "questions": "Describe a time when you successfully led a team to achieve a challenging goal.",
+                    "answer": "In my previous role, I led a team of 5 to automate post-acquisition business queries and dashboards. By fostering open communication, delegating tasks effectively, and providing continuous support, we reduced project delivery time by 15% and improved reporting accuracy."
+                },
+                {
+                    "questions": "How do you handle conflicts within a team environment?",
+                    "answer": "I facilitate open and honest communication, actively listen to all perspectives, and mediate discussions to find common ground. I focus on addressing the root cause of the conflict and work towards a mutually acceptable solution that aligns with team goals."
+                },
+                {
+                    "questions": "How do you communicate complex data insights to non-technical stakeholders?",
+                    "answer": "I tailor my communication style to the audience, using clear and concise language, visualizations, and real-world examples to explain complex concepts. I focus on the business implications of the data and provide actionable recommendations to drive decision-making."
+                }
+            ],
+            "Behavioral": [
+                {
+                    "questions": "Tell me about a time when you implemented a data-driven pricing strategy that increased revenue.",
+                    "answer": "Situation: At Zast Logisolutions, we were struggling to maintain profitability in a competitive market. Task: I was tasked with developing a data-driven pricing strategy to increase revenue. Action: I conducted market research and competitive analysis, analyzed historical pricing data, and implemented a dynamic pricing model based on demand and cost factors. Result: The new pricing strategy increased revenue by 9% and improved our market win rates."
+                },
+                {
+                    "questions": "Describe a situation where you had to streamline reporting through automation.",
+                    "answer": "Situation: At Zast Logisolutions, the billing team was spending a significant amount of time on manual reporting tasks. Task: I was asked to streamline the reporting process to reduce workload and improve efficiency. Action: I designed Power BI dashboards and created complex SQL queries to automate reporting, cutting manual workload by 30% and saving 32 hours per week on billing tasks. Result: The automation improved reporting accuracy and freed up the billing team to focus on more strategic activities."
+                },
+                {
+                    "questions": "Tell me about a time when you improved data visibility by working with ERP/CRM systems.",
+                    "answer": "Situation: At Zast Logisolutions, data was siloed across multiple systems, making it difficult to get a comprehensive view of business performance. Task: I needed to enhance data visibility and streamline workflows. Action: I worked with ERP/CRM systems (SAP, Salesforce) to integrate data, create dashboards, and automate reporting processes. Result: The improved data visibility enabled better decision-making and enhanced business performance."
+                }
+            ],
+            "Technical": {
+                "easy": [
+                    {
+                        "questions": "What are the key functions of SQL, and can you describe a practical application of SQL in data analysis?",
+                        "answer": "SQL is used for data extraction, data manipulation, and data definition. A practical application is creating SQL queries to extract sales data from a database, which can then be used to generate reports on sales trends."
+                    },
+                    {
+                        "questions": "Can you describe the purpose of Power BI?",
+                        "answer": "Power BI is a business analytics tool used for visualizing data, creating interactive dashboards, and generating reports to provide actionable insights."
+                    },
+                    {
+                        "questions": "What is data integrity, and why is it important?",
+                        "answer": "Data integrity refers to the accuracy and consistency of data. It is crucial for ensuring that business decisions are based on reliable information."
+                    }
+                ],
+                "medium": [
+                    {
+                        "questions": "How would you use SQL to identify slow-moving inventory items in a retail database?",
+                        "answer": "I would write an SQL query to calculate the average days an item has been in stock. Then I would filter this data to identify items above a certain threshold for days in stock, indicating slow-moving items. This helps in making decisions on discounts or clearance sales."
+                    },
+                    {
+                        "questions": "Explain how you would use Power BI to visualize store performance and forecast accuracy.",
+                        "answer": "I would create a dashboard in Power BI that includes key metrics such as sales, inventory turnover, and forecast accuracy. I would use various charts and graphs (e.g., line charts, bar charts) to visualize trends and compare performance across different stores and time periods, making it easier to identify areas for improvement."
+                    },
+                    {
+                        "questions": "How do you use Python for analyzing data and implementing inventory management?",
+                        "answer": "Using libraries like Pandas, NumPy, and Matplotlib to import, clean, analyze and visualize sales and inventory data. Implement forecasting algorithms to predict future demand and optimize inventory levels. Can also integrate the analysis into automated reports and alerting systems."
+                    }
+                ],
+                "hard": [
+                    {
+                        "questions": "Describe a scenario where you had to optimize a complex SQL query to improve performance. What steps did you take?",
+                        "answer": "I once had a query that joined multiple large tables and took a long time to execute. I used query optimization techniques such as adding indexes to frequently used columns, rewriting the query to reduce the amount of data scanned, and using temporary tables to break down the complex query into smaller, more manageable steps. These steps significantly improved the query's performance."
+                    },
+                    {
+                        "questions": "Explain how you would design an end-to-end reporting solution for inventory management, from data extraction to dashboard creation.",
+                        "answer": "First, I would set up automated data extraction processes from ERP and CRM systems using SQL or Python scripts. Then, I would use Power BI to create interactive dashboards that display key inventory metrics. Finally, I would schedule automated report generation and distribution to stakeholders, ensuring they have timely access to the information they need."
+                    },
+                    {
+                        "questions": "How can you leverage machine learning to improve demand forecasting accuracy, given the data available from past sales, promotions, and seasonality?",
+                        "answer": "Firstly, preprocess the data by cleaning and transforming it to remove noise and handle missing values. Then, I'd select and train a machine learning model, such as ARIMA, Exponential Smoothing, or Random Forest, to forecast demand based on historical sales data, promotions, and seasonality. Would tune the model using cross-validation techniques. After evaluation I would deploy the model to make continuous predictions and then integrate it with ERP systems."
+                    }
+                ]
+            }
+        }
+    }
+}

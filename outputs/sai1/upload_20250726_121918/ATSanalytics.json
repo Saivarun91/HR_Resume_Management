@@ -1,0 +1,94 @@
+{
+    "Extracted Data": {
+        "Name": "Bhargav. C. R",
+        "Contact Details": "Email: C.bhargav481@gmail.com Mobile: +91 8790918976",
+        "Summary or Objective": "Having overall 6.5 years of work experience in IT Industry working on Power BI. Skilled in creating dashboards, reports, and data models to support business needs for decision making. Having good experience on Power Bi Desktop and service development and worked on the Power BI Reports and Dashboards with Database. Expertise in importing data from multiple data sources into Power BI, created relationships between various Tables in Power Pivot. Experience in Data preparation such as shaping data in Edit Query like add columns, split column, pivot column, Un pivot column, changing data type and managing columns. Combined the tables and columns by append queries and merge queries in Power BI. Experience on understanding DAX Functions in Power BI and created calculated columns measures and New Tables using DAX. Expertise in Creating Data Visualizations like Matrix table, Area Charts, tree map, Line, stacked bar chart, stacked column chart, Donut chart, Waterfall chart, Gauge chart and Funnel chart. Hands on Experience in creating different filters like Visual level, page level, report level and drill through filters. Hands on Experience in Create Buttons, Bookmarks, Actions, Action types, Conditional Formatting, Page Navigation, Bookmark Navigation, and Web URL. Debugged and optimized complex Power BI reports by analyzing DAX formulas, refining data model relationships, and improving report performance by 40%. Experience working on SaaS based BI solutions, especially with Power BI integrations for cloud hosted applications like Open Blue. Hands on Experience in to Create and Working on Incremental Refresh. Hands on experience with Power BI Service connected to cloud hosted databases and on premises data sources using Azure On Premises Data Gateway. Hands on Experience in Data Validation on Existing Projects and Support also. Experience with cloud based SaaS BI platforms (Open Blue) for scalable and secure enterprise reporting solutions. Experience in publishing reports to Power BI services and setting up the necessary connection details and proving access for required users. Worked on On Premises Gateway to refresh the data sources/creating a live connection scheduling the reports. Implemented Role based security as part of security in Power BI. Worked on Microsoft SQL server & Snowflake databases. Integrated APIs, SQL Server, and Snowflake as data sources for real time reporting and analytics. Performed in depth debugging of Power BI reports, including correcting DAX logic errors, fixing broken visuals, and resolving refresh failures across multiple data sources. Knowledge on Data Warehousing Concepts like Start Schema, Snowflake schema, fact and dimensional tables and software development life cycle. Having the knowledge on Live Connection Mode. Comfortable working in Agile environments, participating in sprints, grooming sessions, and production deployments.",
+        "Skills": {
+            "Soft Skills": [
+                "Strong analytical and problem solving skills",
+                "Building reports that align with stakeholder goals and KPIs",
+                "Excellent communication and presentation abilities",
+                "Strong ownership and accountability in production support and delivery",
+                "Team player with a proactive approach to work",
+                "Adaptable and keen on learning new technologies",
+                "Experience in handling high severity productions issues",
+                "Strong analytical mindset with a passion for data driven decision making"
+            ],
+            "Hard Skills": [
+                "Power BI Desktop",
+                "Power BI Service",
+                "Power Query",
+                "DAX",
+                "SQL",
+                "Tableau",
+                "Power App",
+                "SQL Server",
+                "Excel",
+                "Snowflake",
+                "HBase",
+                "API s",
+                "ETL",
+                "Azure",
+                "SharePoint folders",
+                "JSON",
+                "RDBMS",
+                "JIRA",
+                "Performance Tuning",
+                "Data Transformation",
+                "Version Control & Collaboration",
+                "Bar",
+                "Line",
+                "Pie",
+                "Card",
+                "Drill through",
+                "Bookmarks",
+                "Tooltips",
+                "KPI"
+            ]
+        },
+        "Experience": [
+            {
+                "Title": "Power BI Developer",
+                "Company": "Delmon Solutions Pvt Ltd",
+                "Duration": "APR 2022 to March 2025",
+                "Description": null
+            },
+            {
+                "Title": null,
+                "Company": "Innovative Retail concepts Pvt ltd",
+                "Duration": "JAN 2019 to March 2022",
+                "Description": null
+            }
+        ],
+        "Projects": [
+            "Open Blue Enterprise Manager (OBEM)",
+            "Remote Diagnostics & Reporting (RDR)",
+            "Consumer Marketing (Retail)"
+        ],
+        "Certifications": [],
+        "Education": "B.Sc. in Computer Science VBVP University (2012 - 2015)"
+    },
+    "ATS Score": {
+        "Total Score": 78,
+        "Breakdown": {
+            "Format Score": 5,
+            "Spelling & Grammar": 10,
+            "Summary": 8,
+            "Skills": 10,
+            "Experience": 10,
+            "Projects": 10,
+            "Certifications": 0,
+            "Education": 10,
+            "Contact Details": 5
+        }
+    },
+    "Recommendations": [
+        "The resume is longer than 2 pages. Condense the information to be more concise. **Prioritize the most relevant experiences and skills**.",
+        "There are no certifications listed. If you have any relevant certifications, **add them to showcase your expertise**.",
+        "Consider adding specific achievements or metrics to quantify your impact in previous roles. **Use numbers to highlight your accomplishments**.",
+        "The format score is low due to the length. Ensure the resume is well-structured and easy to read. **Use bullet points and clear headings**.",
+        "Expand on the descriptions for each work experience entry to provide more context. **Focus on your responsibilities and contributions**.",
+        "While many skills are listed, ensure they are tailored to the job description. **Highlight the skills that are most relevant to the position**.",
+        "Project descriptions could be more detailed, showcasing your contributions and the outcomes achieved. **Describe the technologies used and the results obtained**."
+    ]
+}

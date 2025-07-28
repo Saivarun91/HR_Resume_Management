@@ -1,0 +1,235 @@
+{
+    "ATS": {
+        "Extracted Data": {
+            "Name": "SUJALINI PARIDA",
+            "Contact Details": "Email: sujalini31daisy@gmail.com\nPhone: (+91) 7381077016\nLocation: Bangalore, India\nLinkedIn: https://www.linkedin.com/in/sujalini parida b77717102/",
+            "Summary or Objective": "A highly skilled and result driven Data Analyst, PMO Specialist, MIS Analyst with Over 10 years of experience in delivering business insights through advanced data analysis, reporting and visualization proficient in Power BI, Tableau, Advanced Excel and other business intelligence tools, I specialize in transforming complex data into actionable insights that drive strategic decision making. Experienced in handling large datasets, creating customized dashboards, and delivering reports that improve operational efficiency and support budget forecasting.",
+            "Skills": {
+                "Soft Skills": [
+                    "Strong analytical and problem solving abilities",
+                    "Excellent communication and interpersonal skills",
+                    "Detail Oriented with a focus on data accuracy"
+                ],
+                "Hard Skills": [
+                    "Data Visualization: Power BI, Tableau",
+                    "Data Analysis: SQL, Advanced Excel, Vba Macros",
+                    "Collaboration Tools: Atlassian Confluence",
+                    "Reporting &Dashboarding: MIS Reporting, Financial Reporting, KPI Dashboards",
+                    "Project Management: PMO, Budgeting, Resource Allocation, Gantt Charts",
+                    "Business Intelligence: Power Query, PowerPivot, DAX (Power BI), Data Warehousing"
+                ]
+            },
+            "Experience": [
+                {
+                    "Title": "Data Analyst Associate",
+                    "Company": "Infiniminds Private Limited",
+                    "Duration": "08/2021 \u2013 08/2024",
+                    "Description": "Developed methods to support the access, storage, and reporting of data sets that result from project initiatives. Developed and maintained Power BI dashboards and Tableau reports to track KPIs leading to a reduction in reporting time for senior management. Actively collaborated with cross functional teams to support project management initiatives, using confluence for documentation, task tracking, ensuring timely delivery of all mile stones. Gathered data on software development issues, identified ideal solutions, and coordinated with the development team to enhance Salesforce performance."
+                },
+                {
+                    "Title": "PMO Executive",
+                    "Company": "Ceragon Network India Private Limited",
+                    "Duration": "08/2014 \u2013 09/2019",
+                    "Description": "Managed daily operations for teams including staffing Budgeting, training and development, implementing new process for managing projects connected to PMO initiatives. Automated monthly MIS reports using Advanced Excel and Power BI, increasing reporting accuracy. Managed data from multiple sources and conducted ad hoc analysis for leadership, Providing insights on market trends, customer behavior, and operational performance. Client & Stakeholder support whenever issue arises, Monitoring updating of work plans. Budget Forecasting, Project performance, Gap Analysis Report & Milestone update."
+                },
+                {
+                    "Title": "Project Engineer",
+                    "Company": "East India Automation and Control Private Limited",
+                    "Duration": "02/2012 \u2013 04/2014",
+                    "Description": "Worked on various industrial instruments like CNC PLC AC & DC motors with corresponding drives, induction motor with drives, field devices with controllers like temperature, pressure flow."
+                }
+            ],
+            "Projects": [
+                "Power Bi Desktop",
+                "Tableau Desktop",
+                "SQL"
+            ],
+            "Certifications": [
+                "Best Employee Award Received for Q3 2018",
+                "Best Team Award Received for Q3 2018",
+                "Best Team Award Received for Q2 2023",
+                "PROGRAMMING USING C++",
+                "JSE (CORE JAVA)",
+                "VLSI DESIGN"
+            ],
+            "Education": "B. Tech/B.E. ElectronicsTelecommunication BPUT 2011\n12th CBSE Ahallabad University 2006\n10th CBSE Ahallabad University 2004"
+        },
+        "ATS Score": {
+            "Total Score": 88,
+            "Breakdown": {
+                "Format Score": 10,
+                "Spelling & Grammar": 10,
+                "Summary": 10,
+                "Skills": 10,
+                "Experience": 10,
+                "Projects": 8,
+                "Certifications": 10,
+                "Education": 10,
+                "Contact Details": 10
+            }
+        },
+        "Recommendations": [
+            "While the resume includes certifications, consider adding more **technical or industry-specific certifications** to enhance credibility in the data reporting and visualization domain. These could include advanced Power BI certifications, Tableau certifications, or certifications related to data warehousing and ETL processes.",
+            "In the projects section, it could be more detailed. **Elaborate more on the Projects** and mention what are the tools and technologies used.",
+            "Consider adding details on the **impact of your projects** and how they improved the business."
+        ]
+    },
+    "Resume": {
+        "RESUME_RELEVANCE_SCORE": 75,
+        "ROLE_FIT_SCORE": 70,
+        "ATS_SCORE": 80,
+        "KEYWORD_MATCH_SCORE": 85,
+        "MATCHED_KEYWORDS": [
+            "Data Analysis",
+            "Data Visualization",
+            "Power BI",
+            "Tableau",
+            "Excel",
+            "Reporting",
+            "Dashboards",
+            "Forecasting",
+            "SQL",
+            "Retail",
+            "Analytics",
+            "Leadership",
+            "Communication",
+            "Inventory",
+            "Store",
+            "Planning",
+            "Supply Chain",
+            "Inventory Planning",
+            "Reporting",
+            "KPI",
+            "Stock",
+            "Performance",
+            "Allocation",
+            "Franchise"
+        ],
+        "MISSING_KEYWORDS": [
+            "Demand Forecasting",
+            "Replenishment",
+            "Inventory Optimization",
+            "Working Capital Efficiency",
+            "SKU",
+            "Seasonality",
+            "Merchandising",
+            "Promotions",
+            "Regional Preferences",
+            "Min Max Levels",
+            "Inventory Turnover",
+            "Sell Through",
+            "Aging Stock",
+            "Omnichannel Inventory",
+            "ABC classification",
+            "EOQ",
+            "Store Fill Rate",
+            "Stock Out %",
+            "Overstock %",
+            "Dashboard Adherence",
+            "ERP systems",
+            "NetSuite",
+            "Zoho",
+            "Unicommerce",
+            "Jewelry",
+            "Fashion Retail",
+            "FMCG",
+            "D2C brands"
+        ],
+        "MISSING_SKILLS": [
+            "Demand Forecasting",
+            "Inventory Optimization",
+            "Replenishment",
+            "NetSuite",
+            "Zoho",
+            "Unicommerce"
+        ],
+        "INTERVIEW_QUESTIONS": {
+            "PSYCHOMETRIC": [
+                {
+                    "questions": "Describe a situation where you had to make a quick decision with limited information. What was your thought process?",
+                    "answer": "Ideal answers should demonstrate an ability to assess risks, prioritize information, and make a reasoned judgment under pressure. Look for examples where the candidate considered potential outcomes and adapted their approach based on new information."
+                },
+                {
+                    "questions": "How do you typically handle stressful situations or tight deadlines in your work?",
+                    "answer": "Ideal answers should show strategies for managing stress, such as prioritizing tasks, breaking down large projects, seeking support, or maintaining a positive attitude. Candidates should demonstrate resilience and an ability to remain productive under pressure."
+                },
+                {
+                    "questions": "Give an example of a time you had to adapt to a significant change in your work environment. How did you manage the transition?",
+                    "answer": "The ideal answer will show that the candidate quickly assessed the situation, asked questions to understand the change, sought information, and changed plans accordingly. This illustrates agility."
+                }
+            ],
+            "Soft_Skills": [
+                {
+                    "questions": "Describe a time when you had to work with a difficult team member. How did you handle the situation?",
+                    "answer": "Ideal answers should highlight the candidate's ability to remain professional, empathetic, and focused on achieving team goals despite interpersonal challenges. Look for examples of proactive communication, conflict resolution skills, and a willingness to find common ground."
+                },
+                {
+                    "questions": "Tell me about a time when you had to explain a complex data analysis or inventory concept to someone who wasn't familiar with the subject. How did you ensure they understood?",
+                    "answer": "Ideal answers should demonstrate effective communication skills, including the ability to tailor explanations to the audience, use clear and concise language, and provide relevant examples or analogies. Look for evidence of active listening and a focus on ensuring comprehension."
+                },
+                {
+                    "questions": "Give an example of a time when you took the initiative to improve a process or workflow in your previous role. What was the outcome?",
+                    "answer": "The ideal answer will show that the candidate took initiative, assessed the situation, developed and implemented new ideas, and measured the results. This illustrates proactive leadership."
+                }
+            ],
+            "Behavioral": [
+                {
+                    "questions": "Tell me about a time when you had to develop a demand forecast for a new product or market with limited historical data. What approach did you take, and what were the results?",
+                    "answer": "Ideal answers should follow the STAR method (Situation, Task, Action, Result). Look for candidates who describe their process for gathering market research, collaborating with sales and marketing teams, and using statistical techniques or modeling to create a forecast. The answer should also highlight the accuracy of the forecast and its impact on inventory levels or sales performance."
+                },
+                {
+                    "questions": "Describe a situation where you identified a significant discrepancy between your inventory forecast and actual sales. What steps did you take to investigate the issue and rectify the problem?",
+                    "answer": "Look for candidates who demonstrate a systematic approach to problem-solving, including data analysis, root cause investigation, and collaboration with relevant stakeholders. The answer should emphasize the candidate's ability to identify the cause of the discrepancy, implement corrective actions, and prevent similar issues from recurring."
+                },
+                {
+                    "questions": "Share an example of a time when you had to implement a new inventory management system or process. What challenges did you encounter, and how did you overcome them?",
+                    "answer": "Ideal answers should showcase the candidate's experience in change management, project implementation, and stakeholder communication. Look for candidates who describe their approach to planning, training, and addressing resistance to change. The answer should also highlight the positive impact of the new system or process on inventory efficiency or accuracy."
+                }
+            ],
+            "Technical": {
+                "easy": [
+                    {
+                        "questions": "Explain the difference between a KPI and a metric in the context of supply chain and inventory management.",
+                        "answer": "KPIs (Key Performance Indicators) are strategic measurements that reflect critical success factors, while metrics are more general measurements that may or may not directly impact strategic goals. KPIs are typically tied to specific targets and are used to monitor progress towards those targets."
+                    },
+                    {
+                        "questions": "What is ABC classification and how can it be used in Inventory management?",
+                        "answer": "ABC classification is a method of categorizing inventory items based on their value and consumption. A items are high-value items with low consumption, B items are moderate-value items with moderate consumption, and C items are low-value items with high consumption. This allows inventory professionals to focus on A items, as they contribute most to revenue."
+                    },
+                    {
+                        "questions": "Describe the relationship between forecasting and inventory management.",
+                        "answer": "Ideal answer: Forecasting is a foundation of effective inventory management, enabling anticipation of the future demand and sales. It enables managers to maintain optimal stock levels, reduce stockouts and optimize working capital by avoiding overstocking."
+                    }
+                ],
+                "medium": [
+                    {
+                        "questions": "How would you use Power BI or Excel to analyze inventory turnover and identify slow-moving items?",
+                        "answer": "Ideal answer: Should show how to extract, transform and analyze inventory data to determine turnover rate for each item. How to visualize data using dashboards and excel to spot outliers in slow moving inventory."
+                    },
+                    {
+                        "questions": "Explain how you would approach forecasting demand for a seasonal product using historical data and external factors.",
+                        "answer": "Ideal answer: Should include data cleaning, seasonal indices, regression analysis with external factors (economic conditions, market trends, etc.), forecast validation, and adjustment strategies. Knowledge of time series analysis is a plus."
+                    },
+                    {
+                        "questions": "Can you describe a time when your forecasting skills led to a significant cost saving?",
+                        "answer": "Ideal answer: the candidate should describe how demand forecasting was applied to meet business needs and to help the business improve or cut costs."
+                    }
+                ],
+                "hard": [
+                    {
+                        "questions": "Describe a situation where you had to reconcile conflicting demand forecasts from different departments. What steps did you take to arrive at a consensus forecast?",
+                        "answer": "Ideal answers should demonstrate strong negotiation, communication, and analytical skills. Look for candidates who describe their approach to data validation, sensitivity analysis, and scenario planning. The answer should also highlight the importance of collaboration and transparency in the forecasting process."
+                    },
+                    {
+                        "questions": "How would you design an end-to-end reporting and dashboard solution using Power BI or Tableau to monitor inventory health, forecast accuracy, and store performance in a retail environment?",
+                        "answer": "Ideal answers should demonstrate a holistic understanding of inventory management and data visualization. Look for candidates who describe their approach to data integration, data modeling, dashboard design, and user access management. The answer should also highlight the importance of creating actionable insights and driving data-driven decision-making."
+                    },
+                    {
+                        "questions": "How do you approach the task of optimizing omnichannel inventory levels?",
+                        "answer": "Ideal answer: the candidate should demonstrate an understanding of the differences between channels and how inventory levels need to fluctuate. They should also understand data models and how they come into play."
+                    }
+                ]
+            }
+        }
+    }
+}

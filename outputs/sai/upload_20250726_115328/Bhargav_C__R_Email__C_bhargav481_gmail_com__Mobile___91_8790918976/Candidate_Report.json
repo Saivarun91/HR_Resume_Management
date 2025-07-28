@@ -1,0 +1,225 @@
+{
+    "ATS": {
+        "Extracted Data": {
+            "Name": "Bhargav C. R",
+            "Contact Details": "Email: C.bhargav481@gmail.com, Mobile: +91 8790918976",
+            "Summary or Objective": "Having overall 6.5 years of work experience in IT Industry working on Power BI. Skilled in creating dashboards, reports, and data models to support business needs for decision making. Having good experience on Power Bi Desktop and service development and worked on the Power BI Reports and Dashboards with Database. Expertise in importing data from multiple data sources into Power BI, created relationships between various Tables in Power Pivot. Experience in Data preparation such as shaping data in Edit Query like add columns, split column, pivot column, Un pivot column, changing data type and managing columns. Combined the tables and columns by append queries and merge queries in Power BI. Experience on understanding DAX Functions in Power BI and created calculated columns measures and New Tables using DAX. Expertise in Creating Data Visualizations like Matrix table, Area Charts, tree map, Line, stacked bar chart, stacked column chart, Donut chart, Waterfall chart, Gauge chart and Funnel chart. Hands on Experience in creating different filters like Visual level, page level, report level and drill through filters. Hands on Experience in Create Buttons, Bookmarks, Actions, Action types, Conditional Formatting, Page Navigation, Bookmark Navigation, and Web URL. Debugged and optimized complex Power BI reports by analyzing DAX formulas, refining data model relationships, and improving report performance by 40%. Experience working on SaaS based BI solutions, especially with Power BI integrations for cloud hosted applications like Open Blue. Hands on Experience in to Create and Working on Incremental Refresh. Hands on experience with Power BI Service connected to cloud hosted databases and on premises data sources using Azure On Premises Data Gateway. Hands on Experience in Data Validation on Existing Projects and Support also. Experience with cloud based SaaS BI platforms (Open Blue) for scalable and secure enterprise reporting solutions. Experience in publishing reports to Power BI services and setting up the necessary connection details and proving access for required users. Worked on On Premises Gateway to refresh the data sources/creating a live connection scheduling the reports. Implemented Role based security as part of security in Power BI. Worked on Microsoft SQL server & Snowflake databases. Integrated APIs, SQL Server, and Snowflake as data sources for real time reporting and analytics. Performed in depth debugging of Power BI reports, including correcting DAX logic errors, fixing broken visuals, and resolving refresh failures across multiple data sources. Knowledge on Data Warehousing Concepts like Start Schema, Snowflake schema, fact and dimensional tables and software development life cycle. Having the knowledge on Live Connection Mode. Comfortable working in Agile environments, participating in sprints, grooming sessions, and production deployments.",
+            "Skills": {
+                "Soft Skills": [
+                    "Strong analytical and problem solving skills",
+                    "Building reports that align with stakeholder goals and KPIs",
+                    "Excellent communication and presentation abilities",
+                    "Strong ownership and accountability in production support and delivery",
+                    "Team player with a proactive approach to work",
+                    "Adaptable and keen on learning new technologies",
+                    "Experience in handling high severity productions issues",
+                    "Strong analytical mindset with a passion for data driven decision making"
+                ],
+                "Hard Skills": [
+                    "Power BI Desktop",
+                    "Power BI Service",
+                    "Power Query",
+                    "DAX",
+                    "SQL",
+                    "Tableau",
+                    "Power App",
+                    "SQL Server",
+                    "Excel",
+                    "Snowflake",
+                    "HBase",
+                    "APIs",
+                    "ETL",
+                    "Azure",
+                    "SharePoint folders",
+                    "JSON",
+                    "RDBMS",
+                    "JIRA",
+                    "Performance Tuning",
+                    "Data Transformation",
+                    "Version Control & Collaboration",
+                    "SaaS Applications (Open Blue)",
+                    "Cloud based BI Solutions"
+                ]
+            },
+            "Experience": [
+                {
+                    "Title": "Not specified",
+                    "Company": "Delmon Solutions Pvt Ltd",
+                    "Duration": "APR 2022 to March 2025",
+                    "Description": null
+                },
+                {
+                    "Title": "Not specified",
+                    "Company": "Innovative Retail concepts Pvt ltd",
+                    "Duration": "JAN 2019 to March 2022",
+                    "Description": null
+                }
+            ],
+            "Projects": [
+                "Open Blue Enterprise Manager (OBEM)",
+                "Remote Diagnostics & Reporting (RDR)",
+                "Consumer Marketing (Retail)"
+            ],
+            "Certifications": [],
+            "Education": "B.Sc. in Computer Science, VBVP University (2012 - 2015)"
+        },
+        "ATS Score": {
+            "Total Score": 68,
+            "Breakdown": {
+                "Format Score": 5,
+                "Spelling & Grammar": 10,
+                "Summary": 8,
+                "Skills": 10,
+                "Experience": 8,
+                "Projects": 7,
+                "Certifications": 0,
+                "Education": 10,
+                "Contact Details": 10
+            }
+        },
+        "Recommendations": [
+            "**Reduce the resume length** to a maximum of two pages. A concise resume ensures recruiters focus on your most relevant qualifications, as a 4 page resume will automatically deter most recruiters.",
+            "While the summary is comprehensive, consider **tailoring it** to specific job descriptions. Highlight the skills and experiences most relevant to the target role to immediately grab the recruiter's attention. For example, you can make different summaries for different jobs",
+            "**Add quantifiable achievements** to the experience section. Instead of just listing responsibilities, describe the impact of your work using numbers and metrics to demonstrate your value and create more impact. For example increased efficiency by x%.",
+            "**Include details about your role in each project**. Elaborate on your contributions and the technologies you utilized to achieve project goals. This provides a clearer picture of your capabilities. You can describe what the projects were about and the technologies you have added.",
+            "Consider adding a **certifications section** if you have any relevant certifications. Certifications demonstrate your commitment to professional development and can significantly enhance your credibility in specific skill areas.",
+            "Ensure that the **job titles are clearly defined** to show what position the candidate had in each company. Without clear job titles, the description for each company may be confusing.",
+            "Add **more details to the description of each company**. The description for each company does not give a clear description of what that role encompassed. More details can be added."
+        ]
+    },
+    "Resume": {
+        "RESUME_RELEVANCE_SCORE": 70,
+        "ROLE_FIT_SCORE": 65,
+        "ATS_SCORE": 75,
+        "KEYWORD_MATCH_SCORE": 80,
+        "MATCHED_KEYWORDS": [
+            "inventory planning",
+            "analytics",
+            "Excel",
+            "Power BI",
+            "retail",
+            "forecasting",
+            "data",
+            "dashboards",
+            "reporting",
+            "KPIs",
+            "SQL",
+            "Data Warehousing",
+            "Data Transformation",
+            "supply chain",
+            "Data Analysis",
+            "SaaS",
+            "Agile",
+            "Data Visualization",
+            "Stakeholder",
+            "Data Governance",
+            "Visual Level Filters",
+            "Report Level Filters",
+            "SaaS Integration"
+        ],
+        "MISSING_KEYWORDS": [
+            "SKU",
+            "merchandising",
+            "store performance",
+            "omnichannel inventory",
+            "FOFO franchise",
+            "inventory turnover",
+            "stock movement",
+            "sell through",
+            "aging stock",
+            "replenishment",
+            "NetSuite",
+            "Zoho",
+            "Unicommerce",
+            "D2C brands",
+            "FMCG",
+            "ABC classification",
+            "EOQ",
+            "Min Max levels"
+        ],
+        "MISSING_SKILLS": [
+            "Retail inventory planning tools",
+            "ERP systems",
+            "Forecasting techniques",
+            "Planning logic"
+        ],
+        "INTERVIEW_QUESTIONS": {
+            "PSYCHOMETRIC": [
+                {
+                    "questions": "Describe a time you had to make a quick decision with limited information in a high-pressure situation. What was your thought process, and what was the outcome?",
+                    "answer": "I need to understand the situation, identify key priorities, evaluate available options quickly, and make a decision that minimizes potential negative impacts while aligning with overall objectives. In this scenario, I quickly assessed the situation, identified the most critical factors, consulted with available resources, and made a calculated decision based on the information at hand."
+                },
+                {
+                    "questions": "How do you handle ambiguity and uncertainty in your work environment? Can you provide an example of when you successfully navigated a project with unclear objectives?",
+                    "answer": "When faced with ambiguity, I take a structured approach by breaking down the problem into smaller, manageable components. I try to seek clarification, make reasonable assumptions, and iteratively refine the objectives as more information becomes available."
+                },
+                {
+                    "questions": "Describe your approach to problem-solving. How do you typically analyze a complex issue to identify the root cause and develop effective solutions?",
+                    "answer": "I methodically analyze a complex issue by first gathering all relevant information and data. I use techniques like the 5 Whys or Ishikawa diagrams to drill down to the root cause. I then brainstorm potential solutions, evaluate their feasibility, and implement the most effective one, while continuously monitoring the results and making adjustments as needed."
+                }
+            ],
+            "Soft_Skills": [
+                {
+                    "questions": "How do you ensure effective communication and collaboration with team members who have diverse backgrounds and skill sets?",
+                    "answer": "I foster open and inclusive communication channels, actively listen to different perspectives, and tailor my communication style to suit individual preferences. I encourage knowledge sharing and mutual respect, creating a collaborative environment where everyone feels valued and can contribute their best work."
+                },
+                {
+                    "questions": "Describe a situation where you had to influence a stakeholder who had conflicting priorities. How did you approach the situation, and what was the outcome?",
+                    "answer": "I approached the stakeholder by first understanding their perspective and priorities through active listening and empathy. I then presented a clear and compelling rationale for my proposed solution, highlighting its benefits and addressing their concerns. By building trust, fostering open dialogue, and finding common ground, I was able to influence their decision and achieve a mutually beneficial outcome."
+                },
+                {
+                    "questions": "How do you handle conflicts within a team environment? Can you share an example of how you successfully resolved a disagreement between team members?",
+                    "answer": "I address conflicts promptly and constructively by facilitating open communication and active listening between the involved parties. I encourage them to express their concerns, identify common goals, and collaboratively explore potential solutions. I act as a mediator, guiding the discussion towards a mutually agreeable resolution while ensuring that everyone feels heard and respected."
+                }
+            ],
+            "Behavioral": [
+                {
+                    "questions": "Tell me about a time you had to manage a project with conflicting deadlines. How did you prioritize tasks and ensure successful completion?",
+                    "answer": "S: In my previous role, I was managing two critical projects with overlapping deadlines. T: My task was to prioritize tasks and allocate resources effectively to ensure the successful completion of both projects. A: I conducted a thorough risk assessment, identified critical dependencies, and collaborated with stakeholders to align on priorities. I then developed a detailed project plan with clear milestones and assigned responsibilities. R: As a result, both projects were completed on time and within budget, with minimal disruption to the team."
+                },
+                {
+                    "questions": "Describe a situation where you had to implement a new technology or process in a team setting. What challenges did you encounter, and how did you overcome them?",
+                    "answer": "S: In my previous role, I was responsible for implementing a new data analytics platform across the marketing team. T: The challenge was to ensure that team members with varying levels of technical expertise could effectively use the platform. A: I conducted training sessions, provided ongoing support, and developed user-friendly documentation. I also established a feedback loop to address any issues or concerns. R: As a result, the team successfully adopted the new platform, leading to improved data-driven decision-making and increased marketing effectiveness."
+                },
+                {
+                    "questions": "Tell me about a time you identified a critical issue in a data analysis project. What steps did you take to investigate the problem and implement a solution?",
+                    "answer": "S: In a data analysis project, I noticed an anomaly in the sales data that could indicate a potential error. T: My task was to investigate the issue and implement a solution to ensure data integrity. A: I traced the data lineage back to the source, identified the root cause of the error, and implemented data validation procedures. R: As a result, the data integrity was restored, and the issue was prevented from recurring in future projects."
+                }
+            ],
+            "Technical": [
+                {
+                    "easy": [
+                        {
+                            "questions": "Can you explain the difference between a measure and a calculated column in Power BI?",
+                            "answer": "A calculated column is computed at the time the data is loaded, and it is stored in the data model, taking up memory. A measure is calculated dynamically at query time, and it is not stored in the data model."
+                        },
+                        {
+                            "questions": "What are the different types of filters available in Power BI?",
+                            "answer": "Visual-level filters, Page-level filters, and Report-level filters."
+                        }
+                    ],
+                    "medium": [
+                        {
+                            "questions": "How would you optimize a Power BI report that is running slowly?",
+                            "answer": "I would start by analyzing DAX formulas for inefficiencies and optimizing data model relationships. I would also consider reducing the data volume and complexity, using appropriate data types, and optimizing visuals."
+                        },
+                        {
+                            "questions": "How do you handle data ingestion from multiple data sources into Power BI?",
+                            "answer": "I would use Power Query to connect to various data sources, transform and cleanse the data, and create relationships between different tables. I would also consider using incremental refresh to optimize the data loading process."
+                        }
+                    ],
+                    "hard": [
+                        {
+                            "questions": "Describe a complex data modeling scenario you encountered while building a Power BI report. How did you approach the problem, and what was the outcome?",
+                            "answer": "In a project involving multiple data sources with complex relationships, I encountered issues with data consistency and performance. I addressed the problem by creating a star schema data model, optimizing relationships, and implementing DAX measures for calculated fields. As a result, the report performance improved significantly, and the data was more accurate and reliable."
+                        },
+                        {
+                            "questions": "How would you implement row-level security (RLS) in Power BI to restrict data access based on user roles?",
+                            "answer": "I would define roles and rules in Power BI Desktop, then publish the report to Power BI Service. I would then assign users to the appropriate roles, ensuring that they only have access to the data they are authorized to view."
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,339 @@
+{
+    "ATS": {
+        "Extracted Data": {
+            "Name": "SURESH M",
+            "Contact Details": "96773 93611   sureshaijay@gmail.com   4 Cross Ganganagar Bangalore",
+            "Summary or Objective": "Experienced professional with 7 years and 6 months of expertise, including 2 years as a Junior Planning Engineer and 5 years and 6 months as an MIS Analyst. Adept at data analysis, reporting automation, and business intelligence. Proficient in Advanced Excel with macros (VBA) for process automation, SQL for data extraction and transformation, and Power BI for creating dynamic dashboards. Experienced in using SAP for operational reporting and ensuring data accuracy across departments. Demonstrated ability to streamline reporting processes, uncover actionable insights, and support data driven business decisions across both planning and MIS functions.",
+            "Skills": {
+                "Soft Skills": [
+                    "Leadership",
+                    "Analytical",
+                    "Stakeholder engagement",
+                    "Communication",
+                    "Coordination",
+                    "Problem solving",
+                    "Teamwork"
+                ],
+                "Hard Skills": [
+                    "Advanced Excel",
+                    "VBA",
+                    "SQL",
+                    "Power BI",
+                    "SAP",
+                    "Data Analysis",
+                    "Dashboard Development",
+                    "ETL",
+                    "DAX",
+                    "Sales Analysis"
+                ]
+            },
+            "Experience": [
+                {
+                    "Title": "MIS Analyst",
+                    "Company": "Pro Team Solutions Pvt Ltd",
+                    "Duration": "Sep 2021 \u2013 Present",
+                    "Description": "Demonstrated strong analytical leadership by driving automation and data accuracy across nationwide reporting systems, leading to a 60% reduction in manual workload and significantly improving decision  making speed through the deployment of Power BI dashboards and advanced Excel solutions. UDAAN MIS Executive Managing day to day inventory management. Analytics month data. Sharing reports on time. Manpower Co ordination, Monitoring S & G, Monitoring Pack size Follow ups, Inventory Reports, Shortfall reports, EOD Records, Tracker Maintenance all are done daily. Automated 80% of manual reporting tasks using Excel Macros and VBA, significantly reducing turnaround time and minimizing errors Optimized SQL queries and reporting workflows, leading to a 40% improvement in data retrieval and processing efficiency Streamlined data validation and reconciliation processes, increasing accuracy across multi  departmental reports by 95%. Led the migration of legacy Excel based reports to Power BI, enhancing reporting scalability and stakeholder engagement. Handled and maintained reporting for 15+ active client datasets, ensuring accuracy, confidentiality, and timely delivery of insights to stakeholders. Successfully managed daily, weekly, and monthly reports for operations and business performance using advanced Excel techniques Continuously worked to improve and optimize reporting processes, reducing manual work and increasing productivity. Recognized for data accuracy and on time delivery, supporting 100% SLA compliance on reporting deliverables."
+                },
+                {
+                    "Title": "MIS ANALYST",
+                    "Company": "Dec 2019 \u2013 July 2021",
+                    "Duration": null,
+                    "Description": null
+                },
+                {
+                    "Title": "Junior Planning Engineer",
+                    "Company": "Larsen & Toubro (L&T)",
+                    "Duration": "Aug 2017 \u2013 Aug 2019",
+                    "Description": "Worked in the Materials Planning Department supporting project execution and inventory management using SAP ERP. Handled MBOM (Manufacturing Bill of Materials) verification and ensured accurate material planning for final production stages. Assisted in preparing planning schedules and aligning material availability with project timelines Accomplishments: Worked in the Materials Planning Department supporting project execution and inventory management using SAP ERP Handled MBOM (Manufacturing Bill of Materials) verification and ensured accurate material planning for final production stages Assisted in preparing planning schedules and aligning material availability with project timelines."
+                }
+            ],
+            "Projects": [],
+            "Certifications": [],
+            "Education": [
+                "Diploma in Electronics and Communication Engineering muthayammal polytechnic institute",
+                "BBA in Business Administration Alagappa Univercity",
+                "Class XII govt Hr Sec School"
+            ]
+        },
+        "ATS Score": {
+            "Total Score": 82,
+            "Breakdown": {
+                "Format Score": 8,
+                "Spelling & Grammar": 9,
+                "Summary": 10,
+                "Skills": 10,
+                "Experience": 10,
+                "Projects": 7,
+                "Certifications": 7,
+                "Education": 10,
+                "Contact Details": 10
+            }
+        },
+        "Recommendations": [
+            "Consider adding specific **quantifiable achievements** to your experience descriptions, using metrics to demonstrate the impact of your work. For instance, instead of saying 'Improved reporting processes,' state 'Improved reporting processes, resulting in a 15% reduction in reporting time.'",
+            "Include specific **projects** you've worked on, detailing your role, the technologies used, and the outcomes achieved. This provides concrete evidence of your skills and experience, and shows your practical experience.",
+            "Include any relevant **certifications** to boost your credibility and show your commitment to professional development. Certifications can be highly valued by employers, especially in specialized fields.",
+            "Reformat the Education section to clearly indicate the **degree name, institution, and graduation date** for each entry. Providing this information helps the ATS accurately parse your educational background.",
+            "Maintain consistency in formatting throughout the resume to improve its readability and professional appearance. Ensure that **dates, titles, and descriptions** are presented in a uniform style.",
+            "Use action verbs at the beginning of each bullet point in your work experience descriptions to make them more impactful. For example, instead of 'Responsible for data analysis,' use 'Analyzed data to identify trends and insights.'",
+            "Ensure that your resume is tailored to each specific job you apply for, highlighting the skills and experiences that are most relevant to the position. Customize your summary and skills sections accordingly."
+        ]
+    },
+    "Resume": {
+        "RESUME_RELEVANCE_SCORE": 75,
+        "ROLE_FIT_SCORE": 70,
+        "ATS_SCORE": 72,
+        "KEYWORD_MATCH_SCORE": 65,
+        "MATCHED_KEYWORDS": [
+            "Data analysis",
+            "Reporting",
+            "Automation",
+            "Business intelligence",
+            "Advanced Excel",
+            "Macros",
+            "VBA",
+            "SQL",
+            "Power BI",
+            "Dashboard development",
+            "Process improvement",
+            "Inventory management",
+            "SAP",
+            "Sales Analysis",
+            "Data Accuracy",
+            "Reporting Scalability",
+            "Forecasting"
+        ],
+        "MISSING_KEYWORDS": [
+            "Inventory Planning",
+            "Demand Forecasting",
+            "Replenishment",
+            "Allocation",
+            "Inventory Optimization",
+            "Inventory Turnover",
+            "Sell Through",
+            "Aging Stock",
+            "SKU",
+            "Min Max levels",
+            "ABC classification",
+            "EOQ",
+            "Store fill rate",
+            "Stock out %",
+            "Overstock %",
+            "Omnichannel Inventory",
+            "FMCG",
+            "D2C",
+            "NetSuite",
+            "Zoho",
+            "Unicommerce",
+            "Marketplaces"
+        ],
+        "MISSING_SKILLS": [
+            "Inventory Planning",
+            "Demand Forecasting",
+            "Replenishment",
+            "Allocation",
+            "Inventory Optimization",
+            "NetSuite",
+            "Zoho",
+            "Unicommerce"
+        ],
+        "RESUME_TIPS": [
+            "In your experience section, highlight your knowledge of **inventory planning** methodologies, mentioning your experience with techniques like **ABC classification** or **EOQ** to demonstrate a deeper understanding.",
+            "Quantify the impact of your reporting automation with concrete metrics, such as 'Reduced reporting time by **30%**' or 'Improved data accuracy by **25%**', to strengthen your accomplishments and demonstrate tangible results.",
+            "Expand on your familiarity with **ERP systems** such as **SAP** by specifically mentioning modules related to **inventory management** and **planning**, showcasing your practical application of these systems in a supply chain context.",
+            "To better align with the job requirements, add a section detailing your experience with **demand forecasting** techniques and tools. Explain how you've used **historical data** and **market trends** to predict future demand.",
+            "In your accomplishments, showcase instances where you've optimized **inventory levels** to reduce **stockouts** or minimize **excess inventory**, highlighting your ability to balance availability with efficiency.",
+            "Mention your experience with **replenishment strategies** and **allocation methods**, explaining how you've determined the optimal **min/max levels** for different products and stores to optimize **store fill rates**.",
+            "Add a section on **inventory optimization**, detailing how you've identified **slow-moving** or **overstocked items** and implemented strategies to improve **inventory turnover** and reduce **aging stock**.",
+            "To demonstrate your familiarity with **omnichannel inventory management**, discuss any experience you have with managing inventory across both **retail** and **online/marketplace** channels, highlighting any challenges and solutions.",
+            "Incorporate examples of how you've used **Power BI** to create dashboards that track key **inventory KPIs**, such as **stock out percentage** or **overstock percentage**, to showcase your analytical capabilities.",
+            "Although you mention **SQL**, explicitly state your experience in using it for **data extraction** and **reporting** related to **inventory analysis**. Mention specific functions or queries you've used."
+        ],
+        "COURSE_RECOMMENDATIONS": {
+            "Inventory Planning": [
+                {
+                    "COURSE_NAME": "Inventory Management: How to Optimize Inventory",
+                    "PLATFORM": "Udemy",
+                    "DESCRIPTION": "Learn strategies to optimize inventory levels, reduce costs, and improve supply chain efficiency.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.udemy.com/course/inventory-management-how-to-optimize-inventory/"
+                },
+                {
+                    "COURSE_NAME": "Inventory Analytics",
+                    "PLATFORM": "Coursera",
+                    "DESCRIPTION": "Understand inventory planning and control through analytical insights. Learn how to effectively manage inventory.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.coursera.org/lecture/supply-chain-analytics/inventory-analytics-jRj11"
+                },
+                {
+                    "COURSE_NAME": "Inventory Management Fundamentals",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "Covers the fundamentals of Inventory Management.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.youtube.com/watch?v=vYEjrJ4pT-o"
+                }
+            ],
+            "Demand Forecasting": [
+                {
+                    "COURSE_NAME": "Demand Forecasting",
+                    "PLATFORM": "Coursera",
+                    "DESCRIPTION": "Learn the techniques for forecasting future demand.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.coursera.org/specializations/forecasting"
+                },
+                {
+                    "COURSE_NAME": "Supply Chain Forecasting",
+                    "PLATFORM": "Udemy",
+                    "DESCRIPTION": "Learn to develop strategies for forecasting in supply chain.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.udemy.com/course/supply-chain-forecasting/"
+                },
+                {
+                    "COURSE_NAME": "Demand Planning and Forecasting",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "Learn about demand planning and forecasting through this YouTube playlist.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.youtube.com/playlist?list=PLh9mgdi4rNewVl0J2L7eWjS990lOQvLKA"
+                }
+            ],
+            "Replenishment": [
+                {
+                    "COURSE_NAME": "Supply Chain Replenishment Planning",
+                    "PLATFORM": "Udemy",
+                    "DESCRIPTION": "Master replenishment planning techniques to efficiently manage inventory and meet customer demand.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.udemy.com/course/supply-chain-replenishment-planning/"
+                },
+                {
+                    "COURSE_NAME": "Replenishment and Inventory Optimization",
+                    "PLATFORM": "Coursera",
+                    "DESCRIPTION": "Learn how to optimize replenishment strategies to improve inventory levels.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.coursera.org/lecture/supply-chain-mastery/module-3-replenishment-and-inventory-optimization-u5iTV"
+                },
+                {
+                    "COURSE_NAME": "Inventory Replenishment Strategies",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "Understand strategies for inventory replenishment.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.youtube.com/watch?v=P6p5Hxu_sXk"
+                }
+            ],
+            "Allocation": [
+                {
+                    "COURSE_NAME": "Inventory Allocation",
+                    "PLATFORM": "Udemy",
+                    "DESCRIPTION": "Learn techniques for inventory allocation.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.udemy.com/course/inventory-allocation/"
+                },
+                {
+                    "COURSE_NAME": "Supply Chain Planning",
+                    "PLATFORM": "Coursera",
+                    "DESCRIPTION": "Learn the techniques involved in supply chain planning.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.coursera.org/lecture/supply-chain-mastery/module-3-replenishment-and-inventory-optimization-u5iTV"
+                },
+                {
+                    "COURSE_NAME": "Inventory Allocation 101",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "Fundamentals of Inventory Allocation.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.youtube.com/watch?v=9t0K9pUv3kU"
+                }
+            ],
+            "Inventory Optimization": [
+                {
+                    "COURSE_NAME": "Inventory Optimization Techniques",
+                    "PLATFORM": "Udemy",
+                    "DESCRIPTION": "Discover best practices for optimizing inventory levels.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.udemy.com/course/inventory-optimization-techniques/"
+                },
+                {
+                    "COURSE_NAME": "Inventory Management Principles",
+                    "PLATFORM": "Coursera",
+                    "DESCRIPTION": "Learn the fundamentals of inventory management.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.coursera.org/lecture/supply-chain-mastery/module-3-replenishment-and-inventory-optimization-u5iTV"
+                },
+                {
+                    "COURSE_NAME": "Inventory Optimization Basics",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "Basics for inventory optimization.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.youtube.com/watch?v=2mFzX9J-EBE"
+                }
+            ],
+            "NetSuite": [
+                {
+                    "COURSE_NAME": "NetSuite ERP Essentials",
+                    "PLATFORM": "Udemy",
+                    "DESCRIPTION": "Learn the fundamentals of NetSuite ERP and its key modules.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.udemy.com/course/netsuite-erp-essentials/"
+                },
+                {
+                    "COURSE_NAME": "NetSuite Foundations",
+                    "PLATFORM": "Coursera",
+                    "DESCRIPTION": "An introduction to NetSuite",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.coursera.org/projects/introduction-to-netsuite-foundations"
+                },
+                {
+                    "COURSE_NAME": "NetSuite Training",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "Tutorials of NetSuite",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.youtube.com/watch?v=yT6J_H_z57o"
+                }
+            ],
+            "Zoho": [
+                {
+                    "COURSE_NAME": "Zoho Inventory Masterclass",
+                    "PLATFORM": "Udemy",
+                    "DESCRIPTION": "Master Zoho Inventory for efficient inventory management.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.udemy.com/course/zoho-inventory-masterclass/"
+                },
+                {
+                    "COURSE_NAME": "Zoho Inventory",
+                    "PLATFORM": "Skillshare",
+                    "DESCRIPTION": "Learn Zoho inventory.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.skillshare.com/en/classes/Zoho-Inventory/1397089576"
+                },
+                {
+                    "COURSE_NAME": "Zoho Inventory Tutorial",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "Tutorial on Zoho Inventory",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.youtube.com/watch?v=V3pQ8UVVj3I"
+                }
+            ],
+            "Unicommerce": [
+                {
+                    "COURSE_NAME": "Unicommerce Training",
+                    "PLATFORM": "Udemy",
+                    "DESCRIPTION": "Get trained on Unicommerce.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.udemy.com/course/unicommerce-training/"
+                },
+                {
+                    "COURSE_NAME": "Unicommerce ERP Training",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "Learn Unicommerce ERP through video tutorials.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.youtube.com/watch?v=V3pQ8UVVj3I"
+                },
+                {
+                    "COURSE_NAME": "Unicommerce Tutorials",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "Beginner level tutorials.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.youtube.com/@unicommerce"
+                }
+            ]
+        }
+    }
+}

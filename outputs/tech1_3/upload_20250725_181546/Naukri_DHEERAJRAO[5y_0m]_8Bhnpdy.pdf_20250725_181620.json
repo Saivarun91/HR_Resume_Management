@@ -1,0 +1,183 @@
+{
+    "RESUME_RELEVANCE_SCORE": 75,
+    "ROLE_FIT_SCORE": 70,
+    "ATS_SCORE": 80,
+    "KEYWORD_MATCH_SCORE": 72,
+    "MATCHED_KEYWORDS": [
+        "Inventory Planning",
+        "Analytics",
+        "Demand Forecasting",
+        "Inventory Levels",
+        "Retail",
+        "Online Channels",
+        "Replenishments",
+        "Central Warehouse",
+        "Actionable Insights",
+        "Reporting",
+        "Dashboards",
+        "Inventory Availability",
+        "Working Capital Efficiency",
+        "Forecast Product Demand",
+        "SKU",
+        "Store",
+        "Channel Level",
+        "Historical Sales",
+        "Seasonality",
+        "Marketing Inputs",
+        "Sales Teams",
+        "Adjust Forecasts",
+        "New Launches",
+        "Promotions",
+        "Regional Preferences",
+        "Min Max Levels",
+        "Replenishment Rules",
+        "Monitor Stock Movement",
+        "Timely Transfers",
+        "Allocate Stock",
+        "Reorders",
+        "High Performing SKUs",
+        "Inventory Optimization",
+        "Inventory Turnover",
+        "Sell Through",
+        "Aging Stock",
+        "Overstocked Items",
+        "Forecast Accuracy",
+        "Store Performance",
+        "Automate Reporting",
+        "Power BI",
+        "Excel",
+        "SQL",
+        "Leadership",
+        "Planning Reviews",
+        "Advanced Excel",
+        "Pivot Tables",
+        "Lookups",
+        "Modeling",
+        "Tableau",
+        "Forecasting Techniques",
+        "Planning Logic",
+        "ABC Classification",
+        "Analytical Thinking",
+        "Attention to Detail",
+        "Communication Skills",
+        "Cross Functional Collaboration",
+        "Omnichannel Inventory",
+        "D2C Brands",
+        "Merchandising",
+        "Supply Chain",
+        "Variance Analysis",
+        "Financial Modeling"
+    ],
+    "MISSING_KEYWORDS": [
+        "ERP Systems",
+        "NetSuite",
+        "Zoho",
+        "Unicommerce",
+        "FOFO Franchise",
+        "Stock Out %",
+        "Overstock %",
+        "Dashboard Adherence",
+        "Reporting Adherence",
+        "EOQ",
+        "Jewelry",
+        "Fashion Retail",
+        "FMCG",
+        "Replenishment & Allocation"
+    ],
+    "MISSING_SKILLS": [
+        "Tableau",
+        "Inventory Planning Tools",
+        "ERP Systems",
+        "NetSuite",
+        "Zoho",
+        "Unicommerce"
+    ],
+    "INTERVIEW_QUESTIONS": {
+        "PSYCHOMETRIC": [
+            {
+                "questions": "Describe a situation where you had to make a quick decision with limited information. How did you approach it, and what was the outcome?",
+                "answer": "Ideal answer should highlight the candidate's ability to assess risk, prioritize factors, and make a logical decision under pressure. It should show adaptability and learning from the outcome."
+            },
+            {
+                "questions": "How do you handle conflicting priorities when multiple stakeholders demand your attention?",
+                "answer": "Ideal answer should showcase the candidate's prioritization skills, ability to negotiate, and communicate effectively with stakeholders to manage expectations and ensure alignment."
+            },
+            {
+                "questions": "Share an instance where you had to adapt to a significant change in your work environment or role. How did you handle the transition, and what did you learn from it?",
+                "answer": "Ideal answer should demonstrate the candidate's resilience, flexibility, and ability to quickly adjust to new situations. It should highlight their learning and growth mindset."
+            }
+        ],
+        "Soft_Skills": [
+            {
+                "questions": "Describe a time when you had to collaborate with a difficult team member. How did you navigate the situation, and what was the result?",
+                "answer": "Ideal answer should illustrate the candidate's interpersonal skills, patience, and ability to find common ground and work towards a shared goal despite differences. It should highlight their conflict resolution abilities."
+            },
+            {
+                "questions": "How do you ensure effective communication with stakeholders who have varying levels of technical knowledge?",
+                "answer": "Ideal answer should demonstrate the candidate's ability to tailor communication to the audience, use clear and concise language, and actively listen to ensure understanding and alignment."
+            },
+            {
+                "questions": "Tell me about a time when you had to lead a team through a challenging project. What strategies did you use to motivate and guide the team, and what was the outcome?",
+                "answer": "Ideal answer should showcase the candidate's leadership skills, ability to inspire and empower others, and effectively manage team dynamics to achieve project goals. It should highlight their ability to provide direction, support, and recognition."
+            }
+        ],
+        "Behavioral": [
+            {
+                "questions": "Tell me about a time when you identified a problem with inventory management and took the initiative to solve it. What was the situation, what actions did you take, and what was the result?",
+                "answer": "Ideal answer should follow the STAR method and highlight the candidate's problem-solving skills, analytical thinking, and proactive approach to improving inventory processes. It should quantify the positive impact of their actions."
+            },
+            {
+                "questions": "Describe a situation where you had to present complex data to senior leadership. How did you prepare, what was your approach, and what was the outcome?",
+                "answer": "Ideal answer should demonstrate the candidate's communication skills, ability to translate complex data into actionable insights, and effectively influence decision-making. It should highlight their ability to present a clear and compelling narrative."
+            },
+            {
+                "questions": "Share an experience where you had to implement a new forecasting technique or tool. What challenges did you encounter, how did you overcome them, and what improvements did it bring?",
+                "answer": "Ideal answer should showcase the candidate's adaptability, problem-solving skills, and ability to drive innovation and process improvements. It should highlight their learning and growth mindset."
+            }
+        ],
+        "Technical": {
+            "easy": [
+                {
+                    "questions": "What is ABC classification in inventory management, and how is it used?",
+                    "answer": "Ideal answer should explain that ABC classification categorizes inventory items based on their value and importance. A items are high-value, B items are medium-value, and C items are low-value. This helps prioritize inventory management efforts."
+                },
+                {
+                    "questions": "How do you use Excel pivot tables for inventory analysis?",
+                    "answer": "Ideal answer should describe how pivot tables can summarize and analyze large datasets, allowing for easy identification of trends, patterns, and outliers in inventory data. It should include examples like calculating inventory turnover by SKU or store."
+                },
+                {
+                    "questions": "What is demand forecasting, and why is it important for inventory planning?",
+                    "answer": "Ideal answer should explain that demand forecasting is the process of predicting future demand for products or services. It is crucial for inventory planning as it helps ensure optimal inventory levels, minimizing stockouts and overstocking."
+                }
+            ],
+            "medium": [
+                {
+                    "questions": "How would you approach forecasting demand for a new product launch with limited historical data?",
+                    "answer": "Ideal answer should include using market research, competitor analysis, and qualitative insights from sales and marketing teams. It should mention techniques like scenario planning and sensitivity analysis to account for uncertainty."
+                },
+                {
+                    "questions": "Describe how you would use SQL to automate a recurring inventory report. What steps would you take?",
+                    "answer": "Ideal answer should outline the process of writing SQL queries to extract and transform data from inventory databases, scheduling the queries to run automatically, and integrating the output with reporting tools like Power BI."
+                },
+                {
+                    "questions": "Explain how you would use Power BI to create a dashboard for monitoring inventory health. What key metrics would you include, and why?",
+                    "answer": "Ideal answer should describe creating visualizations for key metrics like inventory turnover, sell-through rate, stockout percentage, and aging stock. It should explain how the dashboard can provide insights into inventory performance and support decision-making."
+                }
+            ],
+            "hard": [
+                {
+                    "questions": "You're tasked with optimizing inventory levels across multiple retail stores and online channels. How would you develop a comprehensive inventory planning strategy?",
+                    "answer": "Ideal answer should cover analyzing historical sales data, forecasting demand using statistical models, setting min-max levels based on lead times and variability, implementing replenishment rules, and continuously monitoring and adjusting the strategy based on performance."
+                },
+                {
+                    "questions": "How would you use machine learning techniques to improve demand forecasting accuracy? Describe a specific algorithm or approach.",
+                    "answer": "Ideal answer should discuss using time series forecasting algorithms like ARIMA or Prophet, incorporating external factors like seasonality and promotions, and continuously training and validating the model to improve accuracy."
+                },
+                {
+                    "questions": "Describe a situation where you had to manage a complex inventory issue, such as a product recall or supply chain disruption. What steps did you take to mitigate the impact and ensure business continuity?",
+                    "answer": "Ideal answer should showcase the candidate's problem-solving skills, ability to coordinate with multiple stakeholders, and implement contingency plans to minimize disruptions. It should highlight their communication and leadership abilities."
+                }
+            ]
+        }
+    }
+}

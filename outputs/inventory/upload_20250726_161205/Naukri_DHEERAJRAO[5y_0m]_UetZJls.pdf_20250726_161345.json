@@ -1,0 +1,181 @@
+{
+    "RESUME_RELEVANCE_SCORE": 70,
+    "ROLE_FIT_SCORE": 65,
+    "ATS_SCORE": 75,
+    "KEYWORD_MATCH_SCORE": 80,
+    "MATCHED_KEYWORDS": [
+        "Inventory Planning",
+        "Analytics",
+        "Excel",
+        "Power BI",
+        "SQL",
+        "Forecasting",
+        "Inventory",
+        "Reporting",
+        "Dashboards",
+        "Retail",
+        "Demand Forecasting",
+        "Inventory Levels",
+        "Online Channels",
+        "Replenishment",
+        "Central Warehouse",
+        "Inventory Availability",
+        "Working Capital Efficiency",
+        "Historical Sales",
+        "Seasonality",
+        "Marketing",
+        "New Launches",
+        "Promotions",
+        "Regional Preferences",
+        "Min Max Levels",
+        "Stock Movement",
+        "Transfers",
+        "Stock",
+        "High Performing SKUs",
+        "Inventory Optimization",
+        "Inventory Turnover",
+        "Sell Through",
+        "Aging Stock",
+        "Slow Moving Items",
+        "Overstocked Items",
+        "Forecast Accuracy",
+        "Store Performance",
+        "Analytical Thinking",
+        "Communication Skills",
+        "Cross Functional Collaboration",
+        "Modeling",
+        "Actionable Insights",
+        "Senior Leadership",
+        "Strategic Decisions",
+        "Budgeting",
+        "FP&A",
+        "Cost Optimization",
+        "Scenario Modeling",
+        "Risk Management",
+        "Financial Modeling",
+        "Variance Analysis"
+    ],
+    "MISSING_KEYWORDS": [
+        "FOFO Franchise",
+        "E-commerce",
+        "Marketplaces",
+        "Artisanal Silver Jewelry",
+        "Supply Chain",
+        "SKU",
+        "Merchandising",
+        "Sales Teams",
+        "Reorders",
+        "ABC Classification",
+        "EOQ",
+        "Retail Inventory Planning Tools",
+        "ERP Systems",
+        "NetSuite",
+        "Zoho",
+        "Unicommerce",
+        "KPIs",
+        "Store Fill Rate",
+        "Stock Out %",
+        "Overstock %",
+        "Dashboard Adherence",
+        "FMCG",
+        "D2C Brands",
+        "Omnichannel Inventory"
+    ],
+    "MISSING_SKILLS": [
+        "Tableau"
+    ],
+    "ROLEMATCHES": {
+        "Financial Analyst": 85,
+        "Data Analyst": 82,
+        "Business Intelligence Analyst": 78,
+        "Supply Chain Analyst": 75,
+        "Inventory Analyst": 70
+    },
+    "YEARS": 4,
+    "INTERVIEW_QUESTIONS": {
+        "PSYCHOMETRIC": [
+            {
+                "questions": "How do you handle working under pressure to meet tight deadlines?",
+                "answer": "I prioritize tasks based on urgency and importance, break down large tasks into smaller, manageable steps, and communicate proactively with stakeholders about potential delays or challenges."
+            },
+            {
+                "questions": "Describe a time when you had to make a difficult decision with incomplete information.",
+                "answer": "In my previous role, we had to decide whether to launch a new product line based on limited market research data. I weighed the potential risks and rewards, consulted with my team, and made a decision based on the available data and our best judgment. We monitored the results closely and adjusted our strategy as needed."
+            },
+            {
+                "questions": "How do you stay motivated and engaged in your work?",
+                "answer": "I find purpose in my work by understanding how it contributes to the overall goals of the organization. I also set personal goals, seek out opportunities for growth and learning, and celebrate small victories along the way."
+            }
+        ],
+        "Soft_Skills": [
+            {
+                "questions": "Describe a time when you had to work with someone who had a very different personality than your own. How did you navigate that situation?",
+                "answer": "In a team project, I collaborated with a colleague who had a different communication style. I made an effort to understand their perspective, adapted my communication to their preferences, and focused on finding common ground to achieve our shared goals. This helped us build a productive working relationship."
+            },
+            {
+                "questions": "How do you handle conflict within a team?",
+                "answer": "I address conflict by first actively listening to all perspectives and seeking to understand the root cause of the issue. I then facilitate a discussion to find common ground and develop a mutually agreeable solution. If necessary, I involve a neutral third party to mediate the discussion."
+            },
+            {
+                "questions": "Tell me about a time when you had to persuade someone to see your point of view.",
+                "answer": "When proposing a new inventory management system, I encountered resistance from some team members. I presented a clear and compelling case, highlighting the potential benefits and addressing their concerns with data and logic. I also incorporated their feedback into the proposal to gain their buy-in."
+            }
+        ],
+        "Behavioral": [
+            {
+                "questions": "Tell me about a time you failed and what you learned from it.",
+                "answer": "In a previous project, I misjudged the time required to complete a task, leading to a delay. I learned the importance of realistic estimation and incorporating buffer time for unexpected challenges. I also improved my project planning skills to prevent similar issues in the future."
+            },
+            {
+                "questions": "Describe a situation where you had to adapt to a significant change in the workplace.",
+                "answer": "When my company implemented a new ERP system, I had to quickly learn the new software and adjust my workflows. I took advantage of training resources, sought help from colleagues, and actively practiced using the new system until I became proficient."
+            },
+            {
+                "questions": "Share an example of a time when you took the initiative to solve a problem.",
+                "answer": "I noticed inefficiencies in our reporting process, so I took the initiative to automate recurring reports using SQL, Excel, and Power Automate workflows. This not only saved time and effort but also improved the accuracy and consistency of our reporting."
+            }
+        ],
+        "Technical_easy": [
+            {
+                "questions": "What are pivot tables in Excel and how are they used?",
+                "answer": "Pivot tables are a tool in Excel used to summarize and analyze large datasets. They allow you to reorganize and group data to extract meaningful insights and identify patterns."
+            },
+            {
+                "questions": "Can you explain the basics of SQL and its purpose?",
+                "answer": "SQL (Structured Query Language) is a programming language used to manage and manipulate databases. It allows you to retrieve, update, and organize data stored in relational database management systems (RDBMS)."
+            },
+            {
+                "questions": "What is Power BI and what are its primary uses?",
+                "answer": "Power BI is a business analytics tool developed by Microsoft. It is used for creating interactive visualizations and business intelligence capabilities with an interface simple enough for end users to create their own reports and dashboards."
+            }
+        ],
+        "Technical_medium": [
+            {
+                "questions": "How would you use SQL to identify slow-moving inventory items?",
+                "answer": "I would use SQL to query the inventory database, filtering for items with low sales velocity or long periods since the last sale. I would use functions like `DATEDIFF` to calculate the time since the last sale and compare it to a threshold to identify slow-moving items."
+            },
+            {
+                "questions": "Describe how you would create a forecast accuracy dashboard in Power BI.",
+                "answer": "I would connect Power BI to our sales data and forecast data sources. Then, I would create visualizations to compare actual sales to forecasted sales, calculate error metrics like MAPE (Mean Absolute Percentage Error), and display trends over time. I would also allow users to filter the data by product, region, and time period."
+            },
+            {
+                "questions": "How would you perform variance analysis using Excel?",
+                "answer": "I would start by calculating the difference between actual and budgeted/forecasted values. Then, I would investigate the root causes of significant variances by analyzing underlying data, consulting with stakeholders, and identifying factors like pricing changes, volume fluctuations, or cost overruns."
+            }
+        ],
+        "Technical_hard": [
+            {
+                "questions": "Design a SQL query to optimize inventory replenishment based on demand forecasting and min-max levels.",
+                "answer": "This requires creating a complex query that joins sales data, forecast data, and inventory levels. The query should calculate the optimal order quantity based on demand forecasts, subtract the current inventory level, and compare the result to the min-max levels to generate a replenishment order."
+            },
+            {
+                "questions": "How would you use Python to automate inventory reporting workflows?",
+                "answer": "I would use libraries like `pandas` to read and process data from various sources, `SQLAlchemy` to connect to databases, and `openpyxl` to generate Excel reports. I would automate the entire process using a scheduling tool like `cron` or Windows Task Scheduler."
+            },
+            {
+                "questions": "Develop a financial model in Excel to assess the impact of different inventory optimization strategies.",
+                "answer": "This involves creating a model with inputs like inventory turnover, carrying costs, and holding costs. The model should calculate the financial impact of different inventory policies, such as reducing safety stock levels or implementing a just-in-time inventory system. Sensitivity analysis can be performed to assess the impact of changes in key assumptions."
+            }
+        ]
+    }
+}

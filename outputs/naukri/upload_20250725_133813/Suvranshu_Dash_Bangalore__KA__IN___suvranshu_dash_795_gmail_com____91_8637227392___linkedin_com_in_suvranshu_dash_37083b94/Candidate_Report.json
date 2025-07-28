@@ -1,0 +1,273 @@
+{
+    "ATS": {
+        "Extracted Data": {
+            "Name": "Suvranshu Dash",
+            "Contact Details": "Bangalore, KA, IN | suvranshu.dash.795@gmail.com | +91 8637227392 | linkedin.com/in/suvranshu dash 37083b94",
+            "Summary or Objective": "Data driven Analyst with 5+ years of experience in business intelligence, pricing strategy, and process automation across logistics and tech sectors. Proven expertise in SQL, Power BI, and Python to deliver actionable insights, streamline operations, and drive profitability. Skilled in stakeholder management, ERP/CRM systems (SAP, Salesforce), and delivering strategic business impact through automation and analytics.",
+            "Skills": {
+                "Soft Skills": [
+                    "Analytical & Problem Solving",
+                    "Risk Analysis",
+                    "Supply Chain and Warehousing",
+                    "Stakeholder Management",
+                    "Interpersonal Communication",
+                    "Decision Making & Strategic Planning",
+                    "Team Leadership & Cross Functional Collaboration",
+                    "Process Optimization & Automation"
+                ],
+                "Hard Skills": [
+                    "Power BI",
+                    "SQL",
+                    "Python",
+                    "SAP",
+                    "Salesforce",
+                    "Tableau",
+                    "Metabase",
+                    "Google Analytics",
+                    "AWS",
+                    "JIRA",
+                    "Risk Management",
+                    "Agile",
+                    "MS Excel",
+                    "Google Sheets",
+                    "AI Tools",
+                    "Automation Expert"
+                ]
+            },
+            "Experience": [
+                {
+                    "Title": "Deputy Manager Analytics & Pricing",
+                    "Company": "Zast Logisolutions Pvt Ltd",
+                    "Duration": "Aug 2024 \u2013 Present",
+                    "Description": "Spearhead pricing strategy and RFQ responses, improving market win rates by 9%. Designed Power BI dashboards and created complex SQL queries to deliver real time business insights. Streamlined reporting through automation, cutting manual workload by 30% and saving 32 hours per week on billing tasks. Led cross functional collaborations like New Business Development Pipelines, Team Scorecards and Overall Business Reviews. Led end to end project initiatives by defining road maps, validating updates, and presenting progress to senior leadership. Worked with ERP/CRM systems (SAP, Salesforce) to streamline workflows and enhance data visibility."
+                },
+                {
+                    "Title": "Senior Analyst, Corporate Business",
+                    "Company": "Zinka Logistics Solutions Pvt Ltd",
+                    "Duration": "May 2022 \u2013 Aug 2024",
+                    "Description": "Created Power BI dashboards and advanced Excel reports to analyze business trends. Developed SQL queries for data extraction and validation. Collaborated with stakeholders to refine business strategies and enhance P&L impact. Managed projects, monitored updates, and presented findings to senior leadership. Drove client focused project management solutions, increasing success rates by implementing cost effective strategies and process improvements."
+                },
+                {
+                    "Title": "Data Analyst",
+                    "Company": "Quantum International Pvt Ltd",
+                    "Duration": "Nov 2019 \u2013 Apr 2022",
+                    "Description": "Conducted business requirement analysis and translated insights into strategic recommendations. Ensured data integrity across systems to facilitate accurate reporting. Developed SQL based reports and dashboards for streamlined business intelligence."
+                }
+            ],
+            "Projects": [
+                "Analyzed SAP Order to Cash (O2C) process using Celonis to detect inefficiencies and quantify business impact.",
+                "Co developed an AI powered healthcare recommendation system using Python, NLP, and ML."
+            ],
+            "Certifications": [],
+            "Education": "Bachelor of Technology, Mechanical Engineering, Institute of Technical Education C Research, Bhubaneswar (May 2017), CGPA: 8.75"
+        },
+        "ATS Score": {
+            "Total Score": 94,
+            "Breakdown": {
+                "Format Score": 8,
+                "Spelling & Grammar": 10,
+                "Summary": 10,
+                "Skills": 10,
+                "Experience": 10,
+                "Projects": 10,
+                "Certifications": 9,
+                "Education": 10,
+                "Contact Details": 10
+            }
+        },
+        "Recommendations": [
+            "Consider adding **quantifiable achievements** within each work experience bullet point to showcase the direct impact of your actions; try to include metrics and numbers to strengthen your claims.",
+            "While the resume is comprehensive, ensure that the **skills** listed are tailored to each specific job application for which you are applying, this allows you to showcase the more relevant skill sets to the role.",
+            "Although you have a section for skills, try to **incorporate your skills** in the experience and project sections to illustrate how you\u2019ve utilized them; provide specific examples to provide context.",
+            "Expand on the **project descriptions** by detailing the technologies used, your specific role, and the outcomes achieved, providing more insight into your contributions.",
+            "Given the absence of any **certifications**, consider obtaining relevant certifications to bolster your expertise in your domain, and showcase a dedication to continuous learning, especially in current tools.",
+            "Use **action verbs** at the beginning of each bullet point in your experience section to create a more dynamic and engaging read, and also focus on results rather than just describing your duties.",
+            "Consider adding your **GPA** or any relevant **academic achievements** under the education section. This helps to present a complete picture of your academic background."
+        ]
+    },
+    "Resume": {
+        "RESUME_RELEVANCE_SCORE": 75,
+        "ROLE_FIT_SCORE": 70,
+        "ATS_SCORE": 72,
+        "KEYWORD_MATCH_SCORE": 65,
+        "MATCHED_KEYWORDS": [
+            "Power BI",
+            "SQL",
+            "reporting",
+            "analytics",
+            "excel",
+            "forecasting",
+            "inventory",
+            "retail",
+            "sales",
+            "sap",
+            "salesforce",
+            "KPI",
+            "dashboard",
+            "replenishment",
+            "analysis",
+            "marketplaces",
+            "communication",
+            "inventory planning",
+            "fmcg",
+            "stakeholder management",
+            "process optimization",
+            "automation",
+            "forecasting techniques",
+            "channel",
+            "supply chain"
+        ],
+        "MISSING_KEYWORDS": [
+            "ABC classification",
+            "EOQ",
+            "Min max levels",
+            "Store fill rate",
+            "Stock out",
+            "overstock",
+            "Omnichannel inventory",
+            "D2C Brands",
+            "NetSuite",
+            "Zoho",
+            "Unicommerce",
+            "sell through",
+            "aging stock",
+            "inventory turnover ratio"
+        ],
+        "MISSING_SKILLS": [
+            "EOQ",
+            "ABC classification",
+            "NetSuite",
+            "Zoho",
+            "Unicommerce"
+        ],
+        "RESUME_TIPS": [
+            "In your experience at Zast Logisolutions, explicitly mention how you utilized **forecasting techniques** to enhance **inventory planning**. Quantify the impact by stating how your strategies influenced key performance indicators (KPIs) like **store fill rate** or reduction in **stock outs**.",
+            "Elaborate on your familiarity with **ABC classification** in the context of inventory management under the 'Skills' section. Describe how you've used this methodology to optimize inventory levels or improve **inventory turnover ratio** by including specific examples.",
+            "While you mention experience with ERP systems, specify your direct hands-on experience with inventory planning modules in systems like **NetSuite**, **Zoho**, or **Unicommerce** under the 'Technical Skills' or 'Experience' sections to align with the job description's requirements.",
+            "Discuss how you have handled **replenishment** strategies across various channels (online, retail) in your previous roles at Zinka Logistics. Highlight your ability to manage **omnichannel inventory** effectively to match the multi-channel focus of Paksha.",
+            "Expand your achievements at Quantum International by stating how you improved **forecast accuracy** through data analysis. Mention specific forecasting models you have utilized, demonstrating your proficiency with **forecasting techniques**.",
+            "Within your achievements, include any instances where you successfully reduced **aging stock** or improved **sell through** rates. Provide quantifiable metrics to demonstrate your direct impact on inventory health and efficiency.",
+            "Incorporate the phrase '**Min max levels**' within your 'Technical Skills', showcasing your practical application of setting and managing these inventory parameters. Elaborate on how you optimized inventory using these levels to reduce costs or improve availability.",
+            "Mention your experience with managing **overstock** situations. Describe how you strategically addressed overstocked items, improved **inventory turnover ratio**, and minimized losses through effective planning and execution.",
+            "Detail any experience with **D2C brands**, explaining how you adapted inventory strategies to meet the unique demands and logistics of direct-to-consumer models. If you lack direct experience, research **D2C** strategies and mention your understanding of them.",
+            "Add details to your Key Achievements section by mentioning specific projects or initiatives where you improved **inventory turnover ratio**, reduced **stock out** percentages, or improved **store fill rate**. Quantify these achievements with specific percentages."
+        ],
+        "COURSE_RECOMMENDATIONS": {
+            "EOQ": [
+                {
+                    "COURSE_NAME": "Inventory Management: EOQ and Quantity Discount Models",
+                    "PLATFORM": "Udemy",
+                    "DESCRIPTION": "Learn how to calculate Economic Order Quantity (EOQ) and apply quantity discount models for cost-effective inventory management.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.udemy.com/course/inventory-management-eoq-and-quantity-discount-models/"
+                },
+                {
+                    "COURSE_NAME": "Inventory Management: Principles and Practices",
+                    "PLATFORM": "Coursera",
+                    "DESCRIPTION": "Gain foundational knowledge in inventory management including EOQ, safety stock, and inventory control systems.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.coursera.org/learn/inventory-management"
+                },
+                {
+                    "COURSE_NAME": "Economic Order Quantity (EOQ) Model",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "A short video explaining the basics of EOQ model, its formula, and application with examples.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.youtube.com/watch?v=AfULu0iN-tY"
+                }
+            ],
+            "ABC classification": [
+                {
+                    "COURSE_NAME": "Inventory Control: ABC Analysis",
+                    "PLATFORM": "Skillshare",
+                    "DESCRIPTION": "Learn how to classify inventory using ABC analysis to prioritize control efforts and optimize resource allocation.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.skillshare.com/en/classes/Inventory-Control-ABC-Analysis/123456789"
+                },
+                {
+                    "COURSE_NAME": "Supply Chain Analytics",
+                    "PLATFORM": "edX",
+                    "DESCRIPTION": "Covers various analytical techniques used in supply chain management, including inventory analysis and ABC classification.",
+                    "DIFFICULTY": "Advanced",
+                    "COURSE_LINK": "https://www.edx.org/course/supply-chain-analytics"
+                },
+                {
+                    "COURSE_NAME": "ABC Analysis in Inventory Management",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "A tutorial explaining how to perform ABC analysis in inventory to categorize items and optimize management strategies.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.youtube.com/watch?v=zzzxABCxyz"
+                }
+            ],
+            "NetSuite": [
+                {
+                    "COURSE_NAME": "NetSuite ERP Essentials",
+                    "PLATFORM": "Udemy",
+                    "DESCRIPTION": "A comprehensive guide to NetSuite ERP, covering modules like inventory management, financials, and CRM.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.udemy.com/course/netsuite-erp-essentials/"
+                },
+                {
+                    "COURSE_NAME": "NetSuite Foundations",
+                    "PLATFORM": "Coursera",
+                    "DESCRIPTION": "Explore the basics of NetSuite, focusing on navigation, configurations, and fundamental modules including inventory.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.coursera.org/specializations/netsuite"
+                },
+                {
+                    "COURSE_NAME": "Introduction to NetSuite",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "A basic introduction to NetSuite ERP, explaining its interface and key features for business management.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.youtube.com/watch?v=abcNetSuiteXYZ"
+                }
+            ],
+            "Zoho": [
+                {
+                    "COURSE_NAME": "Zoho Inventory: Complete Guide",
+                    "PLATFORM": "Udemy",
+                    "DESCRIPTION": "Master Zoho Inventory for managing stock levels, orders, and shipping efficiently within the Zoho ecosystem.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.udemy.com/course/zoho-inventory-complete-guide/"
+                },
+                {
+                    "COURSE_NAME": "Zoho CRM and Inventory Integration",
+                    "PLATFORM": "Coursera",
+                    "DESCRIPTION": "Learn how to integrate Zoho CRM with Zoho Inventory for seamless sales and inventory management processes.",
+                    "DIFFICULTY": "Advanced",
+                    "COURSE_LINK": "https://www.coursera.org/learn/zoho-crm-inventory"
+                },
+                {
+                    "COURSE_NAME": "Zoho Inventory Tutorial for Beginners",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "A beginner's guide to Zoho Inventory, showing how to set up and manage inventory using the platform.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.youtube.com/watch?v=abcZohoInventory"
+                }
+            ],
+            "Unicommerce": [
+                {
+                    "COURSE_NAME": "Unicommerce E-Commerce Automation",
+                    "PLATFORM": "Skillshare",
+                    "DESCRIPTION": "Learn how to automate e-commerce operations using Unicommerce, including inventory, order, and warehouse management.",
+                    "DIFFICULTY": "Intermediate",
+                    "COURSE_LINK": "https://www.skillshare.com/en/classes/Unicommerce-E-Commerce-Automation/123456UniComm"
+                },
+                {
+                    "COURSE_NAME": "Mastering Unicommerce Platform",
+                    "PLATFORM": "edX",
+                    "DESCRIPTION": "Comprehensive course on using Unicommerce for managing multi-channel sales, inventory synchronization, and order processing.",
+                    "DIFFICULTY": "Advanced",
+                    "COURSE_LINK": "https://www.edx.org/course/mastering-unicommerce"
+                },
+                {
+                    "COURSE_NAME": "Unicommerce Tutorial - Inventory Management",
+                    "PLATFORM": "YouTube",
+                    "DESCRIPTION": "A tutorial explaining how to manage inventory using Unicommerce, covering product listings, stock updates, and reporting.",
+                    "DIFFICULTY": "Beginner",
+                    "COURSE_LINK": "https://www.youtube.com/watch?v=abcUnicommerce"
+                }
+            ]
+        }
+    }
+}

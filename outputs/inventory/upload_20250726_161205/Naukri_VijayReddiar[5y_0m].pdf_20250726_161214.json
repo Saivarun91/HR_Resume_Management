@@ -1,0 +1,159 @@
+{
+    "RESUME_RELEVANCE_SCORE": 75,
+    "ROLE_FIT_SCORE": 70,
+    "ATS_SCORE": 80,
+    "KEYWORD_MATCH_SCORE": 70,
+    "MATCHED_KEYWORDS": [
+        "Inventory",
+        "Inventory Optimization",
+        "Retail",
+        "Demand Planning",
+        "Forecasting",
+        "Excel",
+        "Power BI",
+        "Supply Chain",
+        "Inventory Management",
+        "Demand Forecasting",
+        "Retail",
+        "Analytics",
+        "Reporting",
+        "Dashboard",
+        "Retail",
+        "Communication Skills",
+        "Inventory turnover",
+        "Replenishment",
+        "Store performance",
+        "KPIs",
+        "E Commerce",
+        "Franchise",
+        "Marketing",
+        "Sales",
+        "Stock",
+        "Stock movement",
+        "Channel"
+    ],
+    "MISSING_KEYWORDS": [
+        "Craftsmanship",
+        "FOFO franchise",
+        "SKU",
+        "Working capital",
+        "Seasonality",
+        "Merchandising",
+        "Min max levels",
+        "Reorders",
+        "Aging stock",
+        "Slow moving items",
+        "Overstocked items",
+        "Forecast accuracy",
+        "Store fill rate",
+        "Stock out %",
+        "Overstock %",
+        "Dashboard adherence",
+        "Reporting adherence",
+        "Omnichannel inventory",
+        "D2C brands"
+    ],
+    "MISSING_SKILLS": [
+        "SQL",
+        "Tableau",
+        "ABC classification",
+        "EOQ",
+        "NetSuite",
+        "Zoho",
+        "Unicommerce"
+    ],
+    "ROLEMATCHES": {
+        "Inventory Planning Manager": 85,
+        "Supply Chain Analyst": 80,
+        "Demand Planning Manager": 78,
+        "Retail Analyst": 75,
+        "Merchandise Planner": 70
+    },
+    "YEARS": 5,
+    "INTERVIEW_QUESTIONS": {
+        "PSYCHOMETRIC": [
+            {
+                "questions": "Describe a situation where you had to make a quick decision with limited information. What was the outcome?",
+                "answer": "Ideal answer should demonstrate sound judgment, the ability to prioritize, and comfort with calculated risks."
+            },
+            {
+                "questions": "How do you handle working under pressure to meet tight deadlines?",
+                "answer": "Ideal answer should show the ability to stay calm, organized, and focused while maintaining quality of work."
+            },
+            {
+                "questions": "Tell me about a time you had to adapt to a significant change in your work environment or responsibilities.",
+                "answer": "Ideal answer should highlight flexibility, resilience, and a positive attitude towards change."
+            }
+        ],
+        "Soft_Skills": [
+            {
+                "questions": "Describe a time when you had to convince a team to adopt your idea.",
+                "answer": "Ideal answer should illustrate persuasive communication skills and the ability to build consensus."
+            },
+            {
+                "questions": "How do you handle conflict within a team setting?",
+                "answer": "Ideal answer should show conflict resolution skills, empathy, and a focus on finding mutually agreeable solutions."
+            },
+            {
+                "questions": "Give an example of a time when you had to communicate a complex issue to someone who lacked your technical expertise.",
+                "answer": "Ideal answer should showcase clear, concise communication skills and the ability to tailor messages to different audiences."
+            }
+        ],
+        "Behavioral": [
+            {
+                "questions": "Tell me about a time you identified a problem and took the initiative to correct it. What were the steps you took?",
+                "answer": "Ideal answer should use the STAR method, detailing the Situation, Task, Action, and Result, emphasizing problem-solving skills and initiative."
+            },
+            {
+                "questions": "Describe a time when you had to deal with a significant setback in a project. How did you handle it?",
+                "answer": "Ideal answer should demonstrate resilience, learning from failures, and the ability to adapt strategies when facing obstacles."
+            },
+            {
+                "questions": "Give an example of a time you used data to influence a decision.",
+                "answer": "Ideal answer should highlight analytical skills and the ability to present data in a compelling way."
+            }
+        ],
+        "Technical_easy": [
+            {
+                "questions": "What is ABC classification in inventory management, and how is it used?",
+                "answer": "ABC classification categorizes inventory items based on their value and importance. 'A' items are high-value and require close monitoring, 'B' items are of medium value, and 'C' items are low-value and require less attention."
+            },
+            {
+                "questions": "How would you define inventory turnover ratio, and why is it important?",
+                "answer": "Inventory turnover ratio measures how many times inventory is sold and replaced over a period. A high ratio indicates efficient inventory management, while a low ratio may indicate overstocking or slow sales."
+            },
+            {
+                "questions": "What are pivot tables in Excel, and how are they useful in inventory analysis?",
+                "answer": "Pivot tables summarize and reorganize data, allowing for quick analysis and reporting on inventory trends, sales patterns, and other key metrics."
+            }
+        ],
+        "Technical_medium": [
+            {
+                "questions": "How do you forecast demand for a new product launch with limited historical data?",
+                "answer": "Answer should include leveraging market research, competitor analysis, and initial sales data to create an informed forecast. Using qualitative forecasting methods and adjusting based on early sales results are important."
+            },
+            {
+                "questions": "Describe how you would optimize inventory levels across multiple retail locations with varying demand patterns.",
+                "answer": "Answer should cover setting min-max levels, monitoring stock movement, and using data analytics to identify slow-moving and overstocked items. Implementing a replenishment strategy based on SKU velocity and demand seasonality is crucial."
+            },
+            {
+                "questions": "How can Power BI be used to create a dashboard for inventory health and store performance?",
+                "answer": "Answer should explain how to connect to data sources, create visualizations for key metrics (e.g., inventory turnover, stock out %, store fill rate), and design an interactive dashboard for leadership and planning reviews."
+            }
+        ],
+        "Technical_hard": [
+            {
+                "questions": "Explain how you would implement an EOQ model in a retail environment with multiple products and varying demand rates.",
+                "answer": "Answer should explain the EOQ formula and its application, as well as considerations for storage costs, lead times, and demand variability. Incorporating safety stock and adjusting EOQ periodically based on demand changes are important."
+            },
+            {
+                "questions": "Describe a scenario where you had to balance inventory availability with working capital efficiency. What strategies did you use?",
+                "answer": "Answer should detail strategies such as optimizing inventory levels, negotiating favorable payment terms with suppliers, and implementing a robust demand forecasting process to minimize excess inventory and improve cash flow."
+            },
+            {
+                "questions": "How would you design a replenishment system that integrates data from retail stores, e-commerce platforms, and a central warehouse to optimize inventory levels and minimize stockouts?",
+                "answer": "Answer should describe the importance of real-time data integration, setting appropriate min-max levels, implementing automated replenishment rules, and using analytics to continuously monitor and adjust the system. The design should also consider lead times, transportation costs, and demand variability."
+            }
+        ]
+    }
+}

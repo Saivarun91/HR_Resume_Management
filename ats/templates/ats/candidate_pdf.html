@@ -1,0 +1,49 @@
+{% load dict_extras %}
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Candidate Analysis PDF</title>
+    <style>
+        body { font-family: Arial, sans-serif; font-size: 13px; }
+        h1, h2, h3 { color: #2563eb; }
+        table { width: 100%; border-collapse: collapse; margin-bottom: 1em; }
+        th, td { border: 1px solid #bbb; padding: 6px; }
+        th { background: #e0e7ff; }
+        ul { margin: 0 0 1em 1.5em; }
+    </style>
+</head>
+<body>
+    <h1>Candidate Analysis Report</h1>
+    <h2>ATS Analysis</h2>
+    {% if analysis.ATS %}
+        {% with ats_score=analysis.ATS|get_item:'ATS Score' %}
+        <table>
+            <tr><th>Total Score</th><td>{{ ats_score|get_item:'Total Score' }}</td></tr>
+            {% with breakdown=ats_score|get_item:'Breakdown' %}
+            {% for key, value in breakdown.items %}
+            <tr><th>{{ key }}</th><td>{{ value }}</td></tr>
+            {% endfor %}
+            {% endwith %}
+        </table>
+        {% endwith %}
+        <h3>Extracted Data</h3>
+        {% with extracted=analysis.ATS|get_item:'Extracted Data' %}
+        <table>
+            {% for key, value in extracted.items %}
+            <tr><th>{{ key }}</th><td>{{ value }}</td></tr>
+            {% endfor %}
+        </table>
+        {% endwith %}
+        <h3>Recommendations</h3>
+        <ul>
+        {% for rec in analysis.ATS.Recommendations %}
+            <li>{{ rec|safe }}</li>
+        {% endfor %}
+        </ul>
+    {% else %}
+        <p>No ATS analysis available.</p>
+    {% endif %}
+    <h2>Resume Analysis</h2>
+    <pre style="background: #f1f5f9; padding: 1em; border-radius: 8px;">{{ analysis.Resume|safe }}</pre>
+</body>
+</html> 

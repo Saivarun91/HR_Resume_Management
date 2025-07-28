@@ -1,0 +1,301 @@
+{
+    "RESUME_RELEVANCE_SCORE": 65,
+    "ROLE_FIT_SCORE": 55,
+    "ATS_SCORE": 60,
+    "KEYWORD_MATCH_SCORE": 52,
+    "MATCHED_KEYWORDS": [
+        "Excel",
+        "Power BI",
+        "reporting",
+        "data",
+        "forecasting",
+        "analytics",
+        "analysis",
+        "KPI",
+        "communication",
+        "inventory",
+        "retail",
+        "SQL",
+        "dashboards",
+        "data visualization"
+    ],
+    "MISSING_KEYWORDS": [
+        "Inventory Planning",
+        "Demand Forecasting",
+        "Replenishment",
+        "Allocation",
+        "Inventory Optimization",
+        "SKU",
+        "Stock Movement",
+        "Store Performance",
+        "Forecast Accuracy",
+        "Inventory Turnover Ratio",
+        "Store Fill Rate",
+        "Stock Out",
+        "FOFO",
+        "Franchise",
+        "NetSuite",
+        "Zoho",
+        "Unicommerce",
+        "ABC classification",
+        "EOQ",
+        "omnichannel",
+        "D2C brands"
+    ],
+    "MISSING_SKILLS": [
+        "Inventory Planning",
+        "Demand Forecasting",
+        "Replenishment",
+        "Allocation",
+        "Inventory Optimization",
+        "ABC classification",
+        "EOQ",
+        "NetSuite",
+        "Zoho",
+        "Unicommerce"
+    ],
+    "RESUME_TIPS": [
+        "In your work experience, highlight your experience with **inventory planning** and **demand forecasting**. Quantify how your forecasting skills improved **forecast accuracy** or reduced **stock outs**, providing specific metrics.",
+        "Expand on your data specialist role at JATO Dynamics to show experience in **replenishment** strategies. Mention any experience defining **min/max levels** or implementing **replenishment rules** for different products.",
+        "Within the Axis Bank section, explain how your analysis of KPIs such as **inventory turnover ratio** contributed to inventory optimization. Provide specifics on how **inventory turnover** improved.",
+        "Mention your experience with **ABC classification** or **EOQ** (Economic Order Quantity) under the skills section. Explain how these methodologies improved **inventory efficiency** or reduced costs.",
+        "Specify any experience with **omnichannel inventory** management (retail + online/marketplaces) from your time at JATO Dynamics or Preqin, if applicable. Detail how you balanced inventory across different channels.",
+        "If you've worked with any specific retail inventory planning tools or ERP systems like **NetSuite**, **Zoho**, or **Unicommerce**, explicitly mention them in the Skills section. Detail how these tools aided **inventory planning**.",
+        "In your Data Specialist role, quantify how your Power BI dashboards provided insights into **store performance**, **forecast accuracy**, or **inventory health**, detailing how these insights improved decision-making.",
+        "Within the Paksha context, add examples of how you have identified and proposed actions for **slow-moving** and **overstocked items**. Include metrics that show improvements made.",
+        "Detail your experience with **allocation** strategies, explaining how you allocate stock for new launches, reorders, and high-performing SKUs in previous roles. Quantify any impact this strategy had on **store fill rates**.",
+        "Incorporate metrics related to **stock movement** and **store fill rate** in your experience descriptions. Explain how you monitored **stock movement** to ensure optimal inventory levels and improved fill rates by a certain percentage."
+    ],
+    "COURSE_RECOMMENDATIONS": {
+        "Inventory Planning": [
+            {
+                "COURSE_NAME": "Inventory Management: How to Optimize Your Inventory",
+                "PLATFORM": "Udemy",
+                "DESCRIPTION": "Learn inventory planning techniques and strategies to optimize stock levels and reduce costs.",
+                "DIFFICULTY": "Intermediate",
+                "COURSE_LINK": "https://www.udemy.com/course/inventory-management-how-to-optimize-your-inventory/"
+            },
+            {
+                "COURSE_NAME": "Supply Chain Analytics: Inventory Optimization",
+                "PLATFORM": "Coursera",
+                "DESCRIPTION": "Explore advanced inventory optimization strategies using data analytics and forecasting techniques.",
+                "DIFFICULTY": "Advanced",
+                "COURSE_LINK": "https://www.coursera.org/learn/supply-chain-analytics-inventory-optimization"
+            },
+            {
+                "COURSE_NAME": "Inventory Management Fundamentals",
+                "PLATFORM": "YouTube",
+                "DESCRIPTION": "Understand the basics of inventory management and different inventory control methods.",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://www.youtube.com/watch?v=kMz4Y0ZqP3k"
+            }
+        ],
+        "Demand Forecasting": [
+            {
+                "COURSE_NAME": "Demand Forecasting and Planning",
+                "PLATFORM": "Coursera",
+                "DESCRIPTION": "Master demand forecasting techniques to accurately predict future demand and improve planning.",
+                "DIFFICULTY": "Intermediate",
+                "COURSE_LINK": "https://www.coursera.org/specializations/demand-forecasting"
+            },
+            {
+                "COURSE_NAME": "Retail Analytics: Forecasting Customer Demand",
+                "PLATFORM": "edX",
+                "DESCRIPTION": "Learn how to apply forecasting methods to improve inventory turnover and reduce costs.",
+                "DIFFICULTY": "Advanced",
+                "COURSE_LINK": "https://www.edx.org/professional-certificate/iim-bangalore-retail-analytics"
+            },
+            {
+                "COURSE_NAME": "Time Series Analysis and Forecasting",
+                "PLATFORM": "YouTube",
+                "DESCRIPTION": "An introduction to the basics of Time Series Analysis and Forecasting",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://www.youtube.com/watch?v=q-1Fp0zODgM"
+            }
+        ],
+        "Replenishment": [
+            {
+                "COURSE_NAME": "Inventory Replenishment Planning",
+                "PLATFORM": "Udemy",
+                "DESCRIPTION": "Learn how to calculate order quantity for inventory replenishment based on demand.",
+                "DIFFICULTY": "Intermediate",
+                "COURSE_LINK": "https://www.udemy.com/course/inventory-replenishment-planning/"
+            },
+            {
+                "COURSE_NAME": "Inventory Control: Replenishment Models",
+                "PLATFORM": "Skillshare",
+                "DESCRIPTION": "How to use min max quantity as control limits to generate replenishment orders.",
+                "DIFFICULTY": "Advanced",
+                "COURSE_LINK": "https://www.skillshare.com/en/classes/Inventory-Control-Replenishment-Models/1640402288"
+            },
+            {
+                "COURSE_NAME": "Inventory Management and Control",
+                "PLATFORM": "YouTube",
+                "DESCRIPTION": "Understand the basics of Inventory Management and Control",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://m.youtube.com/watch?v=8p7u_I-T29o"
+            }
+        ],
+        "Allocation": [
+            {
+                "COURSE_NAME": "Retail Buying and Allocation",
+                "PLATFORM": "Udemy",
+                "DESCRIPTION": "Learn to analyze past sales data and allocate product in each store by region.",
+                "DIFFICULTY": "Intermediate",
+                "COURSE_LINK": "https://www.udemy.com/course/retail-buying-and-allocation/"
+            },
+            {
+                "COURSE_NAME": "Mastering Inventory Planning",
+                "PLATFORM": "Coursera",
+                "DESCRIPTION": "Discover how to use inventory planning strategies in store in store allocation and demand.",
+                "DIFFICULTY": "Advanced",
+                "COURSE_LINK": "https://www.coursera.org/lecture/operations-management/mastering-inventory-planning-N8XQ8"
+            },
+            {
+                "COURSE_NAME": "Supply Chain Management Allocation Models",
+                "PLATFORM": "YouTube",
+                "DESCRIPTION": "Understand how to allocate demand to different points of supply, also known as cross-docking.",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://m.youtube.com/watch?v=gK6T49JKjV0"
+            }
+        ],
+        "Inventory Optimization": [
+            {
+                "COURSE_NAME": "Inventory Optimization Techniques",
+                "PLATFORM": "Udemy",
+                "DESCRIPTION": "Optimize inventory management for maximum efficiency and cost savings.",
+                "DIFFICULTY": "Intermediate",
+                "COURSE_LINK": "https://www.udemy.com/course/inventory-optimization-techniques/"
+            },
+            {
+                "COURSE_NAME": "Supply Chain Optimization",
+                "PLATFORM": "Coursera",
+                "DESCRIPTION": "Learn advanced techniques for optimizing supply chain processes, including inventory.",
+                "DIFFICULTY": "Advanced",
+                "COURSE_LINK": "https://www.coursera.org/learn/supply-chain-optimization"
+            },
+            {
+                "COURSE_NAME": "Inventory Management Optimization Strategies",
+                "PLATFORM": "YouTube",
+                "DESCRIPTION": "Understand the basic of inventory management strategies and cost savings.",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://m.youtube.com/watch?v=z7VpTa-jO54"
+            }
+        ],
+        "ABC classification": [
+            {
+                "COURSE_NAME": "Inventory Management: ABC Analysis",
+                "PLATFORM": "Udemy",
+                "DESCRIPTION": "Learn how to categorize your inventory using ABC analysis for better control.",
+                "DIFFICULTY": "Intermediate",
+                "COURSE_LINK": "https://www.udemy.com/course/inventory-management-abc-analysis/"
+            },
+            {
+                "COURSE_NAME": "Inventory Control and Management",
+                "PLATFORM": "Coursera",
+                "DESCRIPTION": "Learn ABC classification for effective inventory management and cost reduction.",
+                "DIFFICULTY": "Advanced",
+                "COURSE_LINK": "https://www.coursera.org/lecture/inventory-control/abc-classification-JzQhJ"
+            },
+            {
+                "COURSE_NAME": "What is ABC analysis in Inventory Management?",
+                "PLATFORM": "YouTube",
+                "DESCRIPTION": "Understand how to classify and manage products by importance.",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://m.youtube.com/watch?v=yCzU5H26K-g"
+            }
+        ],
+        "EOQ": [
+            {
+                "COURSE_NAME": "Economic Order Quantity (EOQ) Model",
+                "PLATFORM": "Udemy",
+                "DESCRIPTION": "How to find the EOQ formula and reduce the cost with an optimal value.",
+                "DIFFICULTY": "Intermediate",
+                "COURSE_LINK": "https://www.udemy.com/course/economic-order-quantity-eoq-model/"
+            },
+            {
+                "COURSE_NAME": "Supply Chain and Logistics Fundamentals",
+                "PLATFORM": "Coursera",
+                "DESCRIPTION": "Learn the EOQ formula for efficient inventory planning.",
+                "DIFFICULTY": "Advanced",
+                "COURSE_LINK": "https://www.coursera.org/lecture/supply-chain-logistics-fundamentals/eoq-model-c66s0"
+            },
+            {
+                "COURSE_NAME": "Economic Order Quantity (EOQ)",
+                "PLATFORM": "YouTube",
+                "DESCRIPTION": "Learn Economic Order Quantity Basics",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://m.youtube.com/watch?v=AfQM8vR8gow"
+            }
+        ],
+        "NetSuite": [
+            {
+                "COURSE_NAME": "NetSuite ERP Fundamentals",
+                "PLATFORM": "Udemy",
+                "DESCRIPTION": "Learn how to implement your inventory modules in NetSuite ERP.",
+                "DIFFICULTY": "Intermediate",
+                "COURSE_LINK": "https://www.udemy.com/course/netsuite-erp-fundamentals/"
+            },
+            {
+                "COURSE_NAME": "NetSuite Inventory Management",
+                "PLATFORM": "Coursera",
+                "DESCRIPTION": "Learn how to implement NetSuite warehouse features.",
+                "DIFFICULTY": "Advanced",
+                "COURSE_LINK": "https://www.coursera.org/lecture/business-metrics/netsuite-inventory-management-h6H2P"
+            },
+            {
+                "COURSE_NAME": "What is NetSuite?",
+                "PLATFORM": "YouTube",
+                "DESCRIPTION": "Introduction to all NetSuite features",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://m.youtube.com/watch?v=I_mauf9Selo"
+            }
+        ],
+        "Zoho": [
+            {
+                "COURSE_NAME": "Zoho Inventory: The Complete Course",
+                "PLATFORM": "Udemy",
+                "DESCRIPTION": "Complete tutorial on how to use Zoho Inventory.",
+                "DIFFICULTY": "Intermediate",
+                "COURSE_LINK": "https://www.udemy.com/course/zoho-inventory-the-complete-course/"
+            },
+            {
+                "COURSE_NAME": "Zoho Inventory: Setting up and Managing",
+                "PLATFORM": "Skillshare",
+                "DESCRIPTION": "Discover how to configure and use Zoho to manage your products.",
+                "DIFFICULTY": "Advanced",
+                "COURSE_LINK": "https://www.skillshare.com/en/classes/Zoho-Inventory-Setting-up-and-Managing/808401590"
+            },
+            {
+                "COURSE_NAME": "What is Zoho Inventory",
+                "PLATFORM": "YouTube",
+                "DESCRIPTION": "Introduction to Zoho Inventory",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://m.youtube.com/watch?v=Yj-4bAvG-4U"
+            }
+        ],
+        "Unicommerce": [
+            {
+                "COURSE_NAME": "Unicommerce Training",
+                "PLATFORM": "Udemy",
+                "DESCRIPTION": "Learn how to implement the all in one commerce platform to support order, logistics and warehouse management.",
+                "DIFFICULTY": "Intermediate",
+                "COURSE_LINK": "https://www.udemy.com/course/unicommerce-training/"
+            },
+            {
+                "COURSE_NAME": "Unicommerce Full Course",
+                "PLATFORM": "Skillshare",
+                "DESCRIPTION": "Discover how to use Unicommerce to run order managment, shipping operations and logistics.",
+                "DIFFICULTY": "Advanced",
+                "COURSE_LINK": "https://www.skillshare.com/en/classes/Unicommerce-Full-Course/1349182960"
+            },
+            {
+                "COURSE_NAME": "Unicommerce Introduction",
+                "PLATFORM": "YouTube",
+                "DESCRIPTION": "Introduction to Unicommerce",
+                "DIFFICULTY": "Beginner",
+                "COURSE_LINK": "https://m.youtube.com/watch?v=bQnZ7oFw7cM"
+            }
+        ]
+    }
+}

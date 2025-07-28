@@ -1,0 +1,80 @@
+{
+    "Extracted Data": {
+        "Name": "DHEERAJ MADHAV RAO",
+        "Contact Details": "+91 8286568242, Bangalore, Karnataka, raodheeraj@rocketmail.com, linkedin.com/in/raomdheeraj",
+        "Summary or Objective": "An analytical and business focused finance professional with experience across FP&A, inventory planning, and technology finance. Adaptive to translating complex data into actionable insights to drive strategic decisions. Proven track record in optimizing budgets, automating reporting workflows, and partnering with leadership on high impact initiatives. Proficient in Excel, SQL, Power BI, Python, and financial modeling. Actively seeking roles in Financial Analysis, Data Analytics, or Business Consulting.",
+        "Skills": {
+            "Soft Skills": [],
+            "Hard Skills": [
+                "Budgeting",
+                "FP&A",
+                "Forecasting",
+                "Cost Optimization",
+                "Scenario Modeling",
+                "Risk Management",
+                "Excel",
+                "SQL",
+                "Power BI",
+                "Python",
+                "Financial Modeling",
+                "Variance Analysis"
+            ]
+        },
+        "Experience": [
+            {
+                "Title": "Senior Analyst – Inventory Replenishment Planning",
+                "Company": "Lowe s India",
+                "Duration": "Apr 2023 – Present",
+                "Description": "Led forecasting for high impact inventory categories aligned to corporate goals. Built Power BI dashboards to automate metrics reporting, saving 60% effort. Partnered cross functionally to evaluate excess inventory pricing and markdowns. Automated recurring reports using SQL, Excel, and Power Automate workflows. Delivered business insights to senior leadership on stock health and velocity."
+            },
+            {
+                "Title": "Analyst – Technology Finance",
+                "Company": "Lowe s India",
+                "Duration": "Jun 2022 – Apr 2023",
+                "Description": "Managed $500M software budget portfolio; identified $2.5M in savings. Built a Python based tracker to monitor forecasts and accruals, saving 10+ hrs/month. Automated workflows and reports using ChatGPT, Python, and Power Automate. Provided cost, variance, and forecast insights to cross functional stakeholders."
+            },
+            {
+                "Title": "Associate Intern",
+                "Company": "Samvitti Capital Pvt. Ltd.",
+                "Duration": "Apr 2022 – Jun 2022",
+                "Description": "Developed and tested Python based F&O strategies for institutional clients. Delivered trading and risk management insights to improve portfolio outcomes. Created models to manage leverage and reduce drawdown impact."
+            },
+            {
+                "Title": "Civil & Project Engineer",
+                "Company": null,
+                "Duration": "2017 – 2021",
+                "Description": "Oversaw 1000 crore CIDCO housing project across 15 contractors. Ensured structural and material quality; resolved site level issues in real time. Delivered foundation slabs in record 6 month cycles to maintain timelines."
+            }
+        ],
+        "Projects": [
+            "Stock Indicator App: Developed a Python tool to backtest strategies using technical indicators for retail traders.",
+            "X Culture Challenge: Designed a go to market strategy with international teammates for a real business client.",
+            "SCOT Store Project: Led vendor outreach and collected feedback for sustainable store relaunch planning."
+        ],
+        "Certifications": [],
+        "Education": "PGDM, T A Pai Management Institute, Manipal 2021 – 2023, CGPA: 7.08\nB.E. – Civil Engineering, Pillai HOC College of Engg. 2013 – 2017, CGPA: 7.38\nClass XII, DAV Public School 2013, Percentage: 83.2%\nClass X, DAV Public School 2011, CGPA: 9.4"
+    },
+    "ATS Score": {
+        "Total Score": 77,
+        "Breakdown": {
+            "Format Score": 5,
+            "Spelling & Grammar": 10,
+            "Summary": 10,
+            "Skills": 8,
+            "Experience": 10,
+            "Projects": 10,
+            "Certifications": 0,
+            "Education": 9,
+            "Contact Details": 5
+        }
+    },
+    "Recommendations": [
+        "**Quantify achievements** in the experience section with specific numbers and metrics to demonstrate the impact of your work. For example, instead of saying 'Improved efficiency,' specify 'Improved efficiency by 15% resulting in a cost saving of $50,000'.",
+        "Explicitly list **soft skills** relevant to the target roles, such as communication, leadership, problem-solving, and teamwork, to showcase a well-rounded professional profile. Providing clear examples of when these skills were deployed could be powerful.",
+        "Add any relevant **certifications** (e.g., CFA, FRM, data analysis certifications) to increase credibility and demonstrate expertise in specialized areas; this will significantly increase your score in certifications",
+        "Tailor your resume **objective** more specifically to each job application, highlighting the skills and experiences that align most closely with the requirements of the role. Customize the skills section for each application.",
+        "In your **Civil & Project Engineer** role, include the company name. This will provide recruiters with important context.",
+        "Re-evaluate the **resume format** to ensure it is ATS-friendly. Using standard fonts and clear section headings can help with parsing.",
+        "The resume is two pages, which is acceptable but consider **condensing information** for a one-page resume if possible, focusing on the most relevant achievements. Make sure every piece of information aligns with the job description."
+    ]
+}

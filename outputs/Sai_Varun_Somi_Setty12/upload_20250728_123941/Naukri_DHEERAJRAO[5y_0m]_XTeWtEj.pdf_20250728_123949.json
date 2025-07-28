@@ -1,0 +1,164 @@
+{
+    "RESUME_RELEVANCE_SCORE": 75,
+    "ROLE_FIT_SCORE": 70,
+    "ATS_SCORE": 80,
+    "KEYWORD_MATCH_SCORE": 78,
+    "MATCHED_KEYWORDS": [
+        "Inventory Planning",
+        "Analytics",
+        "Demand forecasting",
+        "Inventory levels",
+        "Retail",
+        "Online channels",
+        "Reporting",
+        "Dashboards",
+        "Inventory availability",
+        "Working capital",
+        "Forecast product demand",
+        "Historical sales",
+        "Seasonality",
+        "Marketing",
+        "Sales teams",
+        "New launches",
+        "Promotions",
+        "Replenishment",
+        "Allocation",
+        "Stock movement",
+        "Central warehouse",
+        "High performing SKUs",
+        "Inventory optimization",
+        "Track inventory turnover",
+        "Aging stock",
+        "Power BI",
+        "Excel",
+        "SQL",
+        "Leadership",
+        "Planning reviews",
+        "Forecasting techniques",
+        "Analytical thinking",
+        "Attention to detail",
+        "Communication skills",
+        "Cross functional collaboration",
+        "Forecast accuracy",
+        "Inventory turnover ratio",
+        "Store fill rate",
+        "Dashboard",
+        "Jewelry",
+        "Fashion retail",
+        "FMCG",
+        "D2C brands",
+        "Omnichannel inventory"
+    ],
+    "MISSING_KEYWORDS": [
+        "FOFO franchise",
+        "min max levels",
+        "replenishment rules",
+        "overstocked items",
+        "ABC classification",
+        "EOQ",
+        "retail inventory planning tools",
+        "ERP systems",
+        "NetSuite",
+        "Zoho",
+        "Unicommerce",
+        "Stock out %",
+        "overstock %"
+    ],
+    "MISSING_SKILLS": [
+        "Tableau"
+    ],
+    "ROLEMATCHES": {
+        "Inventory Planning Manager": 85,
+        "Supply Chain Analyst": 80,
+        "Demand Planning Manager": 78,
+        "Inventory Analyst": 75,
+        "Business Analyst": 70
+    },
+    "YEARS": 4,
+    "INTERVIEW_QUESTIONS": {
+        "PSYCHOMETRIC": [
+            {
+                "questions": "Describe a time when you had to make a decision with incomplete information. How did you approach it?",
+                "answer": "I assess the available data, identify critical gaps, and make informed assumptions based on experience. I prioritize flexibility to adapt as new information emerges."
+            },
+            {
+                "questions": "How do you handle conflicting priorities in a fast-paced environment?",
+                "answer": "I prioritize based on strategic impact and deadlines, communicate proactively with stakeholders, and re-evaluate priorities as needed."
+            },
+            {
+                "questions": "Tell me about a time you had to adapt to a significant change in your work environment.",
+                "answer": "I focus on understanding the reasons behind the change, identifying opportunities for improvement, and proactively learning new skills to stay effective."
+            }
+        ],
+        "Soft_Skills": [
+            {
+                "questions": "Describe a situation where you had to influence a team member to adopt a new process.",
+                "answer": "I start by understanding their concerns, explaining the benefits of the new process, and collaborating to address any challenges they foresee."
+            },
+            {
+                "questions": "How do you handle disagreements with colleagues during a project?",
+                "answer": "I focus on active listening, understanding different perspectives, and finding common ground to reach a mutually acceptable solution."
+            },
+            {
+                "questions": "Explain your approach to communicating complex data insights to non-technical stakeholders.",
+                "answer": "I use clear and concise language, visual aids, and focus on the implications of the data for their specific needs and goals."
+            }
+        ],
+        "Behavioral": [
+            {
+                "questions": "Describe a time when you identified a critical issue in inventory management and how you addressed it.",
+                "answer": "While at Lowe's, I noticed discrepancies in our inventory forecasting. (S) The task was to identify the root cause and improve forecasting accuracy. (A) I analyzed historical data, collaborated with the sales team, and implemented a new forecasting model using Power BI. (R) This improved forecast accuracy by 15% and reduced overstocking by 10%."
+            },
+            {
+                "questions": "Tell me about a time you had to manage a significant budget and identify cost-saving opportunities.",
+                "answer": "As an analyst at Lowe's, I managed a $500M software budget. (S) The challenge was to identify areas for cost reduction without impacting critical operations. (A) I conducted a detailed analysis of spending patterns, negotiated with vendors, and consolidated software licenses. (R) This resulted in $2.5M in savings, which were reinvested into strategic initiatives."
+            },
+            {
+                "questions": "Share an example of a time when you automated a reporting process, and what impact it had.",
+                "answer": "At Lowe's, I automated recurring reports using SQL, Excel, and Power Automate. (S) The goal was to reduce manual effort and improve reporting efficiency. (A) I developed automated workflows to extract data, generate reports, and distribute them to stakeholders. (R) This saved 60% of the time previously spent on manual reporting and provided more timely insights."
+            }
+        ],
+        "Technical_easy": [
+            {
+                "questions": "Explain the difference between forecasting and inventory planning.",
+                "answer": "Forecasting involves predicting future demand, while inventory planning determines the optimal quantity of stock to meet that demand, considering factors like lead time and storage costs."
+            },
+            {
+                "questions": "What are some common inventory metrics you have used in the past?",
+                "answer": "Common metrics include inventory turnover ratio, fill rate, stockout rate, and overstock percentage. These help assess inventory health and efficiency."
+            },
+            {
+                "questions": "Describe how you would classify inventory using ABC analysis.",
+                "answer": "ABC analysis categorizes inventory based on value. A items are high-value, B items are medium-value, and C items are low-value. This helps prioritize inventory management efforts."
+            }
+        ],
+        "Technical_medium": [
+            {
+                "questions": "How would you use Power BI to create a dashboard for inventory health?",
+                "answer": "I would connect Power BI to our inventory data source, create visualizations for key metrics like turnover and fill rate, and implement filters for SKU, store, and channel. I'd also set up alerts for critical thresholds."
+            },
+            {
+                "questions": "Explain how you would determine the optimal min/max levels for a given SKU in a retail environment.",
+                "answer": "I would consider historical sales data, lead times, demand variability, and safety stock requirements. The min level would cover lead time demand plus safety stock, while the max level would account for order quantity and storage capacity."
+            },
+            {
+                "questions": "How would you approach forecasting demand for a new product launch?",
+                "answer": "I would gather data on similar products, conduct market research, and collaborate with the merchandising and sales teams to incorporate their insights into the forecast. I would also closely monitor initial sales data and adjust the forecast accordingly."
+            }
+        ],
+        "Technical_hard": [
+            {
+                "questions": "Describe a situation where you had to optimize inventory across multiple channels (retail, online, marketplaces). What strategies did you use?",
+                "answer": "In an omnichannel environment, I would use a centralized inventory management system to track stock levels across all channels. I would implement rules for allocating stock based on demand and prioritize channels with higher margins or strategic importance. I would also use data analytics to identify cross-channel trends and optimize inventory distribution."
+            },
+            {
+                "questions": "How would you build a model to predict the impact of promotions on inventory levels and sales?",
+                "answer": "I would use regression analysis to model the relationship between promotional activities and sales. I would consider factors like promotional type, duration, and target audience. I would then use this model to predict the impact of future promotions on inventory levels and adjust replenishment plans accordingly."
+            },
+            {
+                "questions": "Explain how you would implement an EOQ (Economic Order Quantity) model in a real-world inventory planning scenario.",
+                "answer": "The EOQ model determines the optimal order quantity to minimize total inventory costs. To implement it, I would gather data on demand, ordering costs, and holding costs. I would then use the EOQ formula to calculate the optimal order quantity and adjust it based on practical considerations like supplier constraints and storage capacity."
+            }
+        ]
+    }
+}

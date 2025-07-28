@@ -1,0 +1,121 @@
+{
+    "RESUME_RELEVANCE_SCORE": 25,
+    "ROLE_FIT_SCORE": 30,
+    "ATS_SCORE": 27,
+    "KEYWORD_MATCH_SCORE": 32,
+    "MATCHED_KEYWORDS": [
+        "Excel",
+        "reporting",
+        "analytics"
+    ],
+    "MISSING_KEYWORDS": [
+        "Inventory Planning",
+        "Inventory Analytics",
+        "Demand Forecasting",
+        "Replenishment",
+        "Allocation",
+        "Inventory Optimization",
+        "Inventory turnover",
+        "sell through",
+        "aging stock",
+        "ABC classification",
+        "EOQ",
+        "min max",
+        "store fill rate",
+        "stock out",
+        "overstock",
+        "omnichannel inventory",
+        "retail",
+        "e commerce",
+        "marketplaces",
+        "FOFO",
+        "Power BI",
+        "SQL",
+        "NetSuite",
+        "Zoho",
+        "Unicommerce",
+        "KPIs",
+        "FMCG",
+        "D2C",
+        "Dashboards"
+    ],
+    "MISSING_SKILLS": [
+        "Inventory Planning",
+        "Demand Forecasting",
+        "Power BI",
+        "SQL",
+        "Forecasting techniques",
+        "Inventory Optimization",
+        "Cross functional collaboration"
+    ],
+    "ROLEMATCHES": {
+        "Business Analyst": 60,
+        "Data Analyst": 55,
+        "Reporting Analyst": 50,
+        "Supply Chain Analyst": 45,
+        "Inventory Specialist": 40
+    },
+    "YEARS": 0,
+    "INTERVIEW_QUESTIONS": {
+        "PSYCHOMETRIC": [
+            {
+                "questions": "How do you handle conflicting priorities when multiple projects have approaching deadlines?",
+                "answer": "I assess the urgency and importance of each task, communicate with stakeholders, and prioritize tasks based on business impact. I also look for opportunities to delegate or collaborate to meet deadlines effectively."
+            },
+            {
+                "questions": "Describe a time when you had to make a decision with incomplete information.",
+                "answer": "I once had to decide on a new reporting tool without full knowledge of the available options. I gathered as much information as possible, consulted with colleagues, and made a decision based on the best available data and potential benefits."
+            },
+            {
+                "questions": "How do you adapt to changes in project requirements or business needs?",
+                "answer": "I remain flexible and proactive. I communicate with stakeholders to understand the changes, reassess priorities, and adjust plans accordingly. I also ensure that everyone is informed of the revised goals and timelines."
+            }
+        ],
+        "Soft_Skills": [
+            {
+                "questions": "Describe a situation where you had to work with a difficult team member. How did you handle it?",
+                "answer": "I try to understand their perspective and find common ground. I address conflicts directly and respectfully, focusing on the project goals and deliverables. If necessary, I involve a mediator to resolve the issue."
+            },
+            {
+                "questions": "How do you ensure effective communication within a team?",
+                "answer": "I use clear and concise language, listen actively, and provide regular updates. I also encourage open dialogue and feedback to ensure everyone is aligned and informed."
+            },
+            {
+                "questions": "Tell me about a time when you demonstrated leadership skills.",
+                "answer": "I volunteered to lead a project team when the previous leader left unexpectedly. I organized tasks, facilitated communication, and ensured that the project stayed on track, which resulted in successful completion."
+            }
+        ],
+        "Behavioral": [
+            {
+                "questions": "Describe a time when you failed to meet a deadline. What did you learn from the experience?",
+                "answer": "Situation: I was responsible for delivering a report on time, but I underestimated the complexity of the data analysis.\nTask: My task was to complete and submit the report by the deadline.\nAction: I worked extra hours, sought help from colleagues, and prioritized the most critical aspects of the report.\nResult: Although I submitted the report, it was late by a few hours. I learned the importance of accurate time estimation and seeking help early on."
+            },
+            {
+                "questions": "Tell me about a time when you had to analyze complex data to solve a problem.",
+                "answer": "Situation: We had a problem with declining sales in a specific region.\nTask: My task was to identify the root cause of the decline through data analysis.\nAction: I analyzed sales data, customer demographics, and market trends to identify key factors contributing to the decline.\nResult: I discovered that increased competition and changing customer preferences were the main drivers, which allowed us to develop targeted marketing strategies."
+            },
+            {
+                "questions": "Describe a situation where you had to work under pressure to meet a tight deadline.",
+                "answer": "Situation: A client requested an urgent analysis of sales data due to an unexpected market shift.\nTask: My task was to deliver the analysis within 24 hours.\nAction: I reprioritized my tasks, worked efficiently, and focused on the most critical data points.\nResult: I delivered the analysis on time, which helped the client make informed decisions quickly and mitigate potential losses."
+            }
+        ],
+        "Technical_easy": [
+            {
+                "questions": "What are pivot tables in Excel and how are they used?",
+                "answer": "Pivot tables are a tool in Excel that allows you to summarize and analyze large datasets. They are used to reorganize data, identify patterns, and create reports."
+            }
+        ],
+        "Technical_medium": [
+            {
+                "questions": "How would you use Excel to forecast future sales based on historical data?",
+                "answer": "I would use regression analysis or time series forecasting tools in Excel. I would analyze historical sales data, identify trends and seasonality, and then use these patterns to predict future sales."
+            }
+        ],
+        "Technical_hard": [
+            {
+                "questions": "Design a dashboard in Excel to monitor inventory health, forecast accuracy, and store performance. What metrics would you include, and how would you visualize them?",
+                "answer": "I would include metrics such as inventory turnover ratio, stock-out percentage, and forecast accuracy. I would use charts like line graphs for trends, bar charts for comparisons, and gauges for performance against targets. The dashboard would provide a comprehensive overview of inventory and sales performance."
+            }
+        ]
+    }
+}

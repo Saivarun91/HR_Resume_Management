@@ -1,0 +1,289 @@
+{
+    "ATS": {
+        "Extracted Data": {
+            "Name": "Bhargav C. R",
+            "Contact Details": "Email: C.bhargav481@gmail.com, Mobile: +91 8790918976",
+            "Summary or Objective": "Having overall 6.5 years of work experience in IT Industry working on Power BI. Skilled in creating dashboards, reports, and data models to support business needs for decision making. Having good experience on Power Bi Desktop and service development and worked on the Power BI Reports and Dashboards with Database. Expertise in importing data from multiple data sources into Power BI, created relationships between various Tables in Power Pivot. Experience in Data preparation such as shaping data in Edit Query like add columns, split column, pivot column, Un pivot column, changing data type and managing columns. Combined the tables and columns by append queries and merge queries in Power BI. Experience on understanding DAX Functions in Power BI and created calculated columns measures and New Tables using DAX. Expertise in Creating Data Visualizations like Matrix table, Area Charts, tree map, Line, stacked bar chart, stacked column chart, Donut chart, Waterfall chart, Gauge chart and Funnel chart. Hands on Experience in creating different filters like Visual level, page level, report level and drill through filters. Hands on Experience in Create Buttons, Bookmarks, Actions, Action types, Conditional Formatting, Page Navigation, Bookmark Navigation, and Web URL. Debugged and optimized complex Power BI reports by analyzing DAX formulas, refining data model relationships, and improving report performance by 40%. Experience working on SaaS based BI solutions, especially with Power BI integrations for cloud hosted applications like Open Blue. Hands on Experience in to Create and Working on Incremental Refresh. Hands on experience with Power BI Service connected to cloud hosted databases and on premises data sources using Azure On Premises Data Gateway. Hands on Experience in Data Validation on Existing Projects and Support also. Experience with cloud based SaaS BI platforms (Open Blue) for scalable and secure enterprise reporting solutions. Experience in publishing reports to Power BI services and setting up the necessary connection details and proving access for required users. Worked on On Premises Gateway to refresh the data sources/creating a live connection scheduling the reports. Implemented Role based security as part of security in Power BI. Worked on Microsoft SQL server & Snowflake databases. Integrated APIs, SQL Server, and Snowflake as data sources for real time reporting and analytics. Performed in depth debugging of Power BI reports, including correcting DAX logic errors, fixing broken visuals, and resolving refresh failures across multiple data sources. Knowledge on Data Warehousing Concepts like Start Schema, Snowflake schema, fact and dimensional tables and software development life cycle. Having the knowledge on Live Connection Mode. Comfortable working in Agile environments, participating in sprints, grooming sessions, and production deployments.",
+            "Skills": {
+                "Soft Skills": [
+                    "Strong analytical and problem solving skills",
+                    "Building reports that align with stakeholder goals and KPIs",
+                    "Excellent communication and presentation abilities",
+                    "Strong ownership and accountability in production support and delivery",
+                    "Team player with a proactive approach to work",
+                    "Adaptable and keen on learning new technologies",
+                    "Experience in handling high severity productions issues",
+                    "Strong analytical mindset with a passion for data driven decision making"
+                ],
+                "Hard Skills": [
+                    "Power BI Desktop",
+                    "Power BI Service",
+                    "Power Query",
+                    "DAX",
+                    "SQL",
+                    "Tableau",
+                    "Power App",
+                    "SQL Server",
+                    "Excel",
+                    "Snowflake",
+                    "HBase",
+                    "API s",
+                    "ETL",
+                    "Azure",
+                    "SharePoint folders",
+                    "JSON",
+                    "RDBMS",
+                    "JIRA",
+                    "Performance Tuning",
+                    "Data Transformation",
+                    "Version Control & Collaboration",
+                    "SaaS Applications (Open Blue)",
+                    "Cloud based BI Solutions"
+                ]
+            },
+            "Experience": [
+                {
+                    "Title": "Power BI Developer",
+                    "Company": "Delmon Solutions Pvt Ltd",
+                    "Duration": "APR 2022 to March 2025",
+                    "Description": "N/A"
+                },
+                {
+                    "Title": "Power BI Developer",
+                    "Company": "Innovative Retail concepts Pvt ltd",
+                    "Duration": "JAN 2019 to March 2022",
+                    "Description": "N/A"
+                }
+            ],
+            "Projects": [
+                "Open Blue Enterprise Manager (OBEM)",
+                "Remote Diagnostics & Reporting (RDR)",
+                "Consumer Marketing (Retail)"
+            ],
+            "Certifications": [],
+            "Education": "B.Sc. in Computer Science, VBVP University (2012 - 2015)"
+        },
+        "ATS Score": {
+            "Total Score": 68,
+            "Breakdown": {
+                "Format Score": 5,
+                "Spelling & Grammar": 8,
+                "Summary": 9,
+                "Skills": 10,
+                "Experience": 8,
+                "Projects": 10,
+                "Certifications": 0,
+                "Education": 8,
+                "Contact Details": 10
+            }
+        },
+        "Recommendations": [
+            "**Shorten the resume to a maximum of 2 pages** to adhere to the standard resume length. A lengthy resume can deter recruiters, who often prefer concise and relevant information. Focus on the most impactful experiences and skills that align with the desired job.",
+            "**Add quantifiable achievements** to the work experience descriptions to demonstrate the impact of your contributions. Use metrics and data to showcase how your work has benefited previous employers, providing concrete evidence of your capabilities.",
+            "**Include relevant certifications** to showcase expertise and commitment to professional development. Certifications add credibility and demonstrate a proactive approach to learning and staying current with industry standards.",
+            "**Improve the resume format** by using a more modern and ATS-friendly template. Ensure clear section headings, consistent formatting, and proper use of white space to enhance readability and visual appeal.",
+            "**Expand on the project descriptions** to provide more details about your roles, responsibilities, and outcomes. Highlight the technologies used, challenges faced, and the impact of your contributions to provide a comprehensive view of your project experience.",
+            "**Proofread the resume carefully** to eliminate any spelling or grammatical errors. Errors can detract from your credibility, so ensure the resume is polished and professional.",
+            "**Refine the summary/objective section** to provide a clearer and more targeted overview of your career goals and qualifications. Tailor the summary to align with the specific job requirements, highlighting the most relevant skills and experiences."
+        ]
+    },
+    "Resume": {
+        "RESUME_RELEVANCE_SCORE": 75,
+        "ROLE_FIT_SCORE": 70,
+        "ATS_SCORE": 80,
+        "KEYWORD_MATCH_SCORE": 75,
+        "MATCHED_KEYWORDS": [
+            "Power BI",
+            "SQL",
+            "Excel",
+            "Tableau",
+            "Reporting",
+            "Dashboards",
+            "Data",
+            "Analytics",
+            "Retail",
+            "KPI",
+            "Forecasting",
+            "Data Sources",
+            "Data Transformation",
+            "Inventory",
+            "SaaS",
+            "Azure",
+            "SQL Server",
+            "ETL",
+            "Data Modeling",
+            "Data Visualization",
+            "Stakeholder Goals",
+            "Communication",
+            "Problem Solving",
+            "Requirements",
+            "Security",
+            "Data Analysis",
+            "Data Validation",
+            "KPIs",
+            "Cloud",
+            "Data Warehousing",
+            "Data Flows",
+            "Data Model",
+            "Data Ingestion",
+            "Data Quality",
+            "Merchandising",
+            "API",
+            "Online Channels",
+            "Marketplaces",
+            "FMCG",
+            "D2C Brands",
+            "Cross Functional",
+            "Team Collaboration"
+        ],
+        "MISSING_KEYWORDS": [
+            "Inventory Planning",
+            "Inventory Optimization",
+            "Demand Forecasting",
+            "Supply Chain",
+            "Inventory Levels",
+            "Replenishment",
+            "Store Performance",
+            "Forecast Accuracy",
+            "Inventory Turnover Ratio",
+            "Store Fill Rate",
+            "Stock Out",
+            "Overstock",
+            "Omnichannel Inventory",
+            "FOFO franchise models",
+            "Working Capital Efficiency",
+            "Historical Sales",
+            "Seasonality",
+            "Marketing Inputs",
+            "New Launches",
+            "Promotions",
+            "Regional Preferences",
+            "Min Max levels",
+            "Stock Movement",
+            "Slow Moving",
+            "Overstocked Items",
+            "Aging Stock",
+            "Pivot Tables",
+            "Lookups",
+            "Modeling",
+            "Planning Logic",
+            "ABC Classification",
+            "EOQ",
+            "Retail Inventory Planning Tools",
+            "ERP Systems",
+            "NetSuite",
+            "Zoho",
+            "Unicommerce",
+            "Adherence",
+            "Usage"
+        ],
+        "MISSING_SKILLS": [
+            "Inventory Planning",
+            "Demand Forecasting",
+            "Inventory Optimization",
+            "SQL",
+            "Advanced Excel (pivot tables, lookups, modeling)",
+            "Power BI/Tableau",
+            "Forecasting techniques",
+            "Planning logic (ABC classification, EOQ, min max)",
+            "Retail inventory planning tools",
+            "ERP systems (NetSuite, Zoho, Unicommerce, etc.)",
+            "Communication skills",
+            "Cross functional collaboration"
+        ],
+        "ROLEMATCHES": {
+            "Power BI Developer": 85,
+            "Business Intelligence Analyst": 80,
+            "Data Analyst": 78,
+            "Data Engineer": 72,
+            "Reporting Analyst": 70
+        },
+        "YEARS": 6,
+        "INTERVIEW_QUESTIONS": {
+            "PSYCHOMETRIC": [
+                {
+                    "questions": "How do you handle a situation where you have to make a critical decision with incomplete information?",
+                    "answer": "I would gather as much relevant data as possible, consult with stakeholders for additional insights, weigh the potential risks and benefits of each option, and make a decision based on the best available information, while remaining adaptable to new information as it arises."
+                },
+                {
+                    "questions": "Describe a time when you had to adapt to a significant change in priorities at work. How did you manage it?",
+                    "answer": "In my previous role, a major client project was suddenly put on hold. I quickly reassessed my workload, communicated with my team to redistribute tasks, and focused on other high-priority projects, ensuring a smooth transition and minimal disruption."
+                },
+                {
+                    "questions": "How do you approach problem-solving when faced with a complex technical challenge?",
+                    "answer": "I break down the problem into smaller, manageable components, research potential solutions, experiment with different approaches, and systematically test and iterate until I find an effective resolution, documenting each step along the way."
+                }
+            ],
+            "Soft_Skills": [
+                {
+                    "questions": "Describe a time when you had to work with a difficult team member. How did you handle the situation?",
+                    "answer": "In a past project, I encountered a team member who was resistant to collaboration. I initiated one-on-one conversations to understand their concerns, actively listened to their ideas, and found common ground to foster a more cooperative working relationship, ultimately improving team performance."
+                },
+                {
+                    "questions": "How do you ensure clear and effective communication with stakeholders who may not have a technical background?",
+                    "answer": "I tailor my communication to the audience, avoiding technical jargon and focusing on the business impact of my work. I use visuals, analogies, and simple language to explain complex concepts, ensuring that stakeholders understand the key insights and recommendations."
+                },
+                {
+                    "questions": "Share an example of a time when you took initiative to improve a team process or workflow.",
+                    "answer": "I noticed that our team was spending excessive time on manual data validation. I proposed automating the process using Python scripts, which significantly reduced errors, saved time, and improved overall efficiency, allowing the team to focus on more strategic tasks."
+                }
+            ],
+            "Behavioral": [
+                {
+                    "questions": "Tell me about a time when you had to debug a complex Power BI report under pressure. What steps did you take to resolve the issue?",
+                    "answer": "Situation: I was tasked with debugging a critical Power BI report that was experiencing refresh failures right before a major presentation to senior management.\nTask: My task was to identify the root cause of the refresh failures and implement a solution as quickly as possible to ensure the report would be ready for the presentation.\nAction: I started by systematically checking the data sources, DAX formulas, and data model relationships. I discovered a DAX logic error that was causing the refresh to fail. I corrected the DAX logic, optimized the data model, and tested the report thoroughly.\nResult: I successfully resolved the refresh failures, and the Power BI report was ready for the presentation. Senior management was able to gain valuable insights from the report, leading to informed decision-making."
+                },
+                {
+                    "questions": "Describe a situation where you had to optimize a slow-performing Power BI report. What techniques did you use to improve its performance?",
+                    "answer": "Situation: I was assigned to optimize a Power BI report that was taking a long time to load, impacting user experience and decision-making.\nTask: My task was to identify the bottlenecks in the report and implement techniques to improve its performance.\nAction: I analyzed the DAX queries, data model relationships, and visuals. I identified several areas for improvement, including optimizing DAX formulas, reducing the number of visuals, and implementing data aggregation. I used Power BI Performance Analyzer to identify the most time-consuming queries and visuals.\nResult: I successfully optimized the Power BI report, reducing the load time by 40%. Users were able to access and interact with the report more quickly, leading to improved decision-making and overall satisfaction."
+                },
+                {
+                    "questions": "Share an example of a time when you had to integrate data from multiple sources into Power BI for real-time reporting. What challenges did you face, and how did you overcome them?",
+                    "answer": "Situation: I was tasked with integrating data from multiple sources, including APIs, SQL Server, and Snowflake, into Power BI for real-time reporting.\nTask: My task was to establish connections to these data sources, transform and model the data, and create a unified Power BI report that provided real-time insights.\nAction: I used Power BI connectors to connect to the APIs, SQL Server, and Snowflake. I used Power Query to transform and cleanse the data, and I created relationships between the tables in the data model. I encountered challenges with data consistency and latency.\nResult: I successfully integrated the data from multiple sources into Power BI for real-time reporting. The report provided stakeholders with a comprehensive view of key business metrics, leading to improved decision-making and performance."
+                }
+            ],
+            "Technical_easy": [
+                {
+                    "questions": "What is Power BI, and what are its main components?",
+                    "answer": "Power BI is a business analytics tool by Microsoft that allows you to visualize data and share insights. Its main components include Power BI Desktop (for report creation), Power BI Service (for publishing and sharing reports), and Power BI Mobile (for viewing reports on mobile devices)."
+                },
+                {
+                    "questions": "How do you import data into Power BI?",
+                    "answer": "Data can be imported into Power BI from various sources such as Excel, SQL Server, databases, cloud services, and more. In Power BI Desktop, you can use the 'Get Data' option to select the data source and import the data."
+                },
+                {
+                    "questions": "What are DAX functions in Power BI, and can you give an example?",
+                    "answer": "DAX (Data Analysis Expressions) is a formula language used in Power BI for calculations and data analysis. An example is the 'SUM' function, which calculates the sum of values in a column."
+                }
+            ],
+            "Technical_medium": [
+                {
+                    "questions": "Explain how you would optimize a Power BI report for better performance.",
+                    "answer": "To optimize a Power BI report, I would focus on reducing data volume, optimizing DAX queries, using efficient visuals, and minimizing the number of relationships in the data model. I would also leverage features like data aggregation and calculated columns where appropriate."
+                },
+                {
+                    "questions": "Describe how you would implement row-level security (RLS) in Power BI.",
+                    "answer": "Row-level security can be implemented in Power BI by creating roles and filters in Power BI Desktop. You define DAX expressions that filter the data based on the user's role. Then, you publish the report to Power BI Service and assign users to the appropriate roles."
+                },
+                {
+                    "questions": "How do you handle incremental refresh in Power BI, and why is it useful?",
+                    "answer": "Incremental refresh in Power BI allows you to load only the changed or new data into your dataset, rather than refreshing the entire dataset. It is useful for large datasets because it reduces refresh time and resource consumption."
+                }
+            ],
+            "Technical_hard": [
+                {
+                    "questions": "Design a data model in Power BI for a retail company with multiple stores, products, and sales transactions.",
+                    "answer": "I would design a star schema with fact and dimension tables. The fact table would contain sales transaction data, while dimension tables would include store details, product information, customer details, and date dimensions. Relationships would be established between the fact table and each dimension table using primary and foreign keys."
+                },
+                {
+                    "questions": "How would you integrate real-time data from an API into Power BI for live reporting?",
+                    "answer": "I would use Power BI's built-in connectors or custom connectors to connect to the API. I would configure the data source to refresh at regular intervals (e.g., every few minutes) to capture real-time updates. I would also optimize the API queries to minimize latency and ensure efficient data retrieval."
+                },
+                {
+                    "questions": "Describe a scenario where you had to troubleshoot a complex DAX calculation that was returning incorrect results. What steps did you take to identify and resolve the issue?",
+                    "answer": "I would start by breaking down the DAX calculation into smaller, more manageable components. I would use DAX Studio to evaluate the individual components and identify the source of the error. I would also use the Power BI Performance Analyzer to check for performance bottlenecks and potential issues with the data model. Finally, I would consult with other experts and review the DAX documentation to ensure that I am using the correct syntax and logic."
+                }
+            ]
+        }
+    }
+}

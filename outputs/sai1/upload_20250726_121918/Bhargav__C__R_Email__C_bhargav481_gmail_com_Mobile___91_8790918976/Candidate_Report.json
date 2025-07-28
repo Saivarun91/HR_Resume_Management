@@ -1,0 +1,296 @@
+{
+    "ATS": {
+        "Extracted Data": {
+            "Name": "Bhargav. C. R",
+            "Contact Details": "Email: C.bhargav481@gmail.com Mobile: +91 8790918976",
+            "Summary or Objective": "Having overall 6.5 years of work experience in IT Industry working on Power BI. Skilled in creating dashboards, reports, and data models to support business needs for decision making. Having good experience on Power Bi Desktop and service development and worked on the Power BI Reports and Dashboards with Database. Expertise in importing data from multiple data sources into Power BI, created relationships between various Tables in Power Pivot. Experience in Data preparation such as shaping data in Edit Query like add columns, split column, pivot column, Un pivot column, changing data type and managing columns. Combined the tables and columns by append queries and merge queries in Power BI. Experience on understanding DAX Functions in Power BI and created calculated columns measures and New Tables using DAX. Expertise in Creating Data Visualizations like Matrix table, Area Charts, tree map, Line, stacked bar chart, stacked column chart, Donut chart, Waterfall chart, Gauge chart and Funnel chart. Hands on Experience in creating different filters like Visual level, page level, report level and drill through filters. Hands on Experience in Create Buttons, Bookmarks, Actions, Action types, Conditional Formatting, Page Navigation, Bookmark Navigation, and Web URL. Debugged and optimized complex Power BI reports by analyzing DAX formulas, refining data model relationships, and improving report performance by 40%. Experience working on SaaS based BI solutions, especially with Power BI integrations for cloud hosted applications like Open Blue. Hands on Experience in to Create and Working on Incremental Refresh. Hands on experience with Power BI Service connected to cloud hosted databases and on premises data sources using Azure On Premises Data Gateway. Hands on Experience in Data Validation on Existing Projects and Support also. Experience with cloud based SaaS BI platforms (Open Blue) for scalable and secure enterprise reporting solutions. Experience in publishing reports to Power BI services and setting up the necessary connection details and proving access for required users. Worked on On Premises Gateway to refresh the data sources/creating a live connection scheduling the reports. Implemented Role based security as part of security in Power BI. Worked on Microsoft SQL server & Snowflake databases. Integrated APIs, SQL Server, and Snowflake as data sources for real time reporting and analytics. Performed in depth debugging of Power BI reports, including correcting DAX logic errors, fixing broken visuals, and resolving refresh failures across multiple data sources. Knowledge on Data Warehousing Concepts like Start Schema, Snowflake schema, fact and dimensional tables and software development life cycle. Having the knowledge on Live Connection Mode. Comfortable working in Agile environments, participating in sprints, grooming sessions, and production deployments.",
+            "Skills": {
+                "Soft Skills": [
+                    "Strong analytical and problem solving skills",
+                    "Building reports that align with stakeholder goals and KPIs",
+                    "Excellent communication and presentation abilities",
+                    "Strong ownership and accountability in production support and delivery",
+                    "Team player with a proactive approach to work",
+                    "Adaptable and keen on learning new technologies",
+                    "Experience in handling high severity productions issues",
+                    "Strong analytical mindset with a passion for data driven decision making"
+                ],
+                "Hard Skills": [
+                    "Power BI Desktop",
+                    "Power BI Service",
+                    "Power Query",
+                    "DAX",
+                    "SQL",
+                    "Tableau",
+                    "Power App",
+                    "SQL Server",
+                    "Excel",
+                    "Snowflake",
+                    "HBase",
+                    "API s",
+                    "ETL",
+                    "Azure",
+                    "SharePoint folders",
+                    "JSON",
+                    "RDBMS",
+                    "JIRA",
+                    "Performance Tuning",
+                    "Data Transformation",
+                    "Version Control & Collaboration",
+                    "Bar",
+                    "Line",
+                    "Pie",
+                    "Card",
+                    "Drill through",
+                    "Bookmarks",
+                    "Tooltips",
+                    "KPI"
+                ]
+            },
+            "Experience": [
+                {
+                    "Title": "Power BI Developer",
+                    "Company": "Delmon Solutions Pvt Ltd",
+                    "Duration": "APR 2022 to March 2025",
+                    "Description": null
+                },
+                {
+                    "Title": null,
+                    "Company": "Innovative Retail concepts Pvt ltd",
+                    "Duration": "JAN 2019 to March 2022",
+                    "Description": null
+                }
+            ],
+            "Projects": [
+                "Open Blue Enterprise Manager (OBEM)",
+                "Remote Diagnostics & Reporting (RDR)",
+                "Consumer Marketing (Retail)"
+            ],
+            "Certifications": [],
+            "Education": "B.Sc. in Computer Science VBVP University (2012 - 2015)"
+        },
+        "ATS Score": {
+            "Total Score": 78,
+            "Breakdown": {
+                "Format Score": 5,
+                "Spelling & Grammar": 10,
+                "Summary": 8,
+                "Skills": 10,
+                "Experience": 10,
+                "Projects": 10,
+                "Certifications": 0,
+                "Education": 10,
+                "Contact Details": 5
+            }
+        },
+        "Recommendations": [
+            "The resume is longer than 2 pages. Condense the information to be more concise. **Prioritize the most relevant experiences and skills**.",
+            "There are no certifications listed. If you have any relevant certifications, **add them to showcase your expertise**.",
+            "Consider adding specific achievements or metrics to quantify your impact in previous roles. **Use numbers to highlight your accomplishments**.",
+            "The format score is low due to the length. Ensure the resume is well-structured and easy to read. **Use bullet points and clear headings**.",
+            "Expand on the descriptions for each work experience entry to provide more context. **Focus on your responsibilities and contributions**.",
+            "While many skills are listed, ensure they are tailored to the job description. **Highlight the skills that are most relevant to the position**.",
+            "Project descriptions could be more detailed, showcasing your contributions and the outcomes achieved. **Describe the technologies used and the results obtained**."
+        ]
+    },
+    "Resume": {
+        "RESUME_RELEVANCE_SCORE": 70,
+        "ROLE_FIT_SCORE": 65,
+        "ATS_SCORE": 75,
+        "KEYWORD_MATCH_SCORE": 72,
+        "MATCHED_KEYWORDS": [
+            "Power BI",
+            "Excel",
+            "SQL",
+            "Inventory",
+            "Retail",
+            "Analytics",
+            "Reporting",
+            "Dashboards",
+            "Inventory planning",
+            "Demand forecasting",
+            "Excel",
+            "Power BI",
+            "SQL",
+            "Retail",
+            "Analytics",
+            "Reporting",
+            "Dashboards",
+            "Inventory",
+            "Forecast",
+            "SKU",
+            "Store",
+            "Channel",
+            "Sales",
+            "Promotions",
+            "Stock",
+            "Central warehouse",
+            "Inventory optimization",
+            "Stock movement",
+            "Reporting",
+            "Dashboard",
+            "Forecast accuracy",
+            "Pivot tables",
+            "Lookups",
+            "Modeling",
+            "Analytical thinking",
+            "Detail",
+            "Communication skills",
+            "ERP",
+            "NetSuite",
+            "Franchise",
+            "KPIs",
+            "Online channels",
+            "Working capital",
+            "Merchandising",
+            "KPI",
+            "Inventory turnover"
+        ],
+        "MISSING_KEYWORDS": [
+            "Paksha",
+            "FOFO",
+            "Replenishment",
+            "Allocation",
+            "Slow moving",
+            "Overstocked items",
+            "Store performance",
+            "Leadership",
+            "Planning reviews",
+            "Planning logic",
+            "ABC classification",
+            "EOQ",
+            "Min max",
+            "Retail inventory planning tools",
+            "Zoho",
+            "Unicommerce",
+            "Cross functional collaboration",
+            "Store fill rate",
+            "Stock out %",
+            "Overstock %",
+            "Adherence",
+            "Usage",
+            "Jewelry",
+            "Fashion retail",
+            "FMCG",
+            "D2C brands",
+            "Omnichannel inventory",
+            "Marketplaces",
+            "Heritage",
+            "Artisanal",
+            "Motifs",
+            "Contemporary",
+            "Luxurious",
+            "Fine craftsmanship"
+        ],
+        "MISSING_SKILLS": [
+            "Inventory Planning",
+            "Demand Forecasting",
+            "Tableau",
+            "Modeling",
+            "Netsuite",
+            "Zoho",
+            "Unicommerce",
+            "Cross functional collaboration"
+        ],
+        "INTERVIEW_QUESTIONS": {
+            "PSYCHOMETRIC": [
+                {
+                    "questions": "How do you handle conflicting priorities when multiple stakeholders require immediate attention to different reporting needs?",
+                    "answer": "I would first assess the urgency and impact of each request, communicate with stakeholders to manage expectations, and prioritize based on business needs and available resources. If needed, I would negotiate deadlines to ensure all requests are addressed effectively."
+                },
+                {
+                    "questions": "Describe a situation where you had to adapt quickly to a significant change in project requirements or data availability.",
+                    "answer": "In a recent project, a key data source became unavailable unexpectedly. I quickly identified alternative data sources, modified the ETL process, and updated the Power BI reports to ensure minimal disruption. I also communicated the changes to stakeholders and provided revised timelines."
+                },
+                {
+                    "questions": "How do you approach decision-making when faced with incomplete or ambiguous data in your analysis?",
+                    "answer": "I would first try to gather additional data from other sources or stakeholders. If that's not possible, I would make reasonable assumptions based on the available information, document these assumptions clearly, and proceed with the analysis, highlighting the limitations of the data."
+                },
+                {
+                    "questions": "Can you describe a time where you had to make a decision that was unpopular with your team, and how did you handle it?",
+                    "answer": "In a project with conflicting approaches on a feature implementation, I needed to choose the direction that aligned best with the project's timeline, budget and scalability, even though some team members had dissenting opinions. I held a team meeting to thoroughly present the reasoning behind the decision, address concerns, and discuss how to mitigate negative impacts. It's important to approach decisions with transparency and empathy, involving the team and acknowledging their perspectives, to maintain morale and collaboration."
+                }
+            ],
+            "Soft_Skills": [
+                {
+                    "questions": "Describe your experience working in a team to deliver a complex Power BI project.",
+                    "answer": "I collaborated with data engineers, business analysts, and stakeholders to define requirements, design the data model, develop the reports, and ensure data accuracy. I actively participated in scrum meetings, shared knowledge with team members, and provided support to overcome challenges."
+                },
+                {
+                    "questions": "How do you ensure effective communication with stakeholders who have varying levels of technical understanding?",
+                    "answer": "I tailor my communication style to the audience, using non-technical language and visualizations to explain complex concepts. I actively listen to their concerns, ask clarifying questions, and provide regular updates on project progress."
+                },
+                {
+                    "questions": "Give an example of how you demonstrated leadership in a project or team setting.",
+                    "answer": "In a recent project, the team faced a critical roadblock due to performance issues with the Power BI reports. I took the initiative to analyze the DAX formulas, identify inefficient queries, and optimize the data model. I shared my findings with the team and mentored them on performance tuning techniques, resulting in a 40% improvement in report performance."
+                },
+                {
+                    "questions": "How do you handle disagreements within a team setting, particularly regarding technical choices or approaches to problem-solving?",
+                    "answer": "When disagreements arise within a team, I prioritize open and respectful communication. I encourage all team members to express their perspectives and actively listen to understand their viewpoints. If necessary, I facilitate a structured discussion, exploring the pros and cons of each proposed solution, and strive to find common ground or compromise that aligns with the project's objectives."
+                }
+            ],
+            "Behavioral": [
+                {
+                    "questions": "Tell me about a time when you had to troubleshoot a complex issue in a Power BI report. What steps did you take to resolve it?",
+                    "answer": "Situation: A critical Power BI report was failing to refresh due to a complex DAX formula. Task: I needed to identify the root cause of the failure and fix the report. Action: I used the Power BI performance analyzer to identify the slow-performing DAX queries, optimized the data model relationships, and tested the report thoroughly. Result: The report started refreshing successfully, and the performance improved significantly."
+                },
+                {
+                    "questions": "Describe a situation where you had to learn a new skill or technology quickly to complete a project.",
+                    "answer": "Situation: I was assigned to a project that required integration with a cloud-based SaaS BI platform (Open Blue), which I had limited experience with. Task: I needed to learn the platform quickly to develop the necessary Power BI integrations. Action: I took online courses, read documentation, and collaborated with colleagues who had experience with the platform. Result: I successfully integrated Power BI with Open Blue and delivered the project on time."
+                },
+                {
+                    "questions": "Share an example of when you had to present complex data insights to a non-technical audience. How did you ensure they understood the information?",
+                    "answer": "Situation: I needed to present the findings of a sales analysis to the marketing team, who had limited technical knowledge. Task: I had to communicate the insights effectively to help them make data-driven decisions. Action: I used simple charts, graphs, and visualizations to present the data, avoided technical jargon, and focused on the key takeaways and recommendations. Result: The marketing team understood the insights and used them to optimize their campaigns, resulting in a 15% increase in sales."
+                },
+                {
+                    "questions": "Tell me about a time when you faced conflicting requirements from stakeholders during a project. How did you navigate the situation to achieve a successful outcome?",
+                    "answer": "In one project, there were conflicting desires from different stakeholders about the level of detail and the type of metrics to be included in a financial dashboard. To address this, I facilitated a workshop with all stakeholders to prioritize the dashboard's objectives and requirements. I then proposed a solution that involved creating a primary dashboard with key metrics for high-level insights, and additional drill-down dashboards for more detailed analysis, catering to the specific needs of each stakeholder group. This approach ensured that the project met all critical requirements while keeping everyone aligned and satisfied."
+                }
+            ],
+            "Technical": {
+                "easy": [
+                    {
+                        "questions": "What is DAX in Power BI, and what is it used for?",
+                        "answer": "DAX (Data Analysis Expressions) is a formula language used in Power BI to create calculated columns, measures, and custom tables. It is used to perform calculations and data analysis."
+                    },
+                    {
+                        "questions": "How do you connect to different data sources in Power BI?",
+                        "answer": "In Power BI Desktop, you can use the 'Get Data' option to connect to various data sources such as SQL Server, Excel, CSV files, APIs, and more."
+                    },
+                    {
+                        "questions": "What are the different types of filters available in Power BI?",
+                        "answer": "Power BI offers visual-level filters, page-level filters, and report-level filters to filter data based on specific criteria."
+                    }
+                ],
+                "medium": [
+                    {
+                        "questions": "Describe a scenario where you would use a calculated column versus a measure in Power BI.",
+                        "answer": "I would use a calculated column when I need to create a new column in the data model based on existing columns, such as calculating the total sales amount. I would use a measure when I need to perform aggregations or calculations on the fly, such as calculating the average sales per customer."
+                    },
+                    {
+                        "questions": "How do you optimize the performance of a Power BI report with a large dataset?",
+                        "answer": "I would optimize the data model by reducing the number of columns, using data aggregation techniques, and optimizing DAX queries. I would also use the Power BI performance analyzer to identify slow-performing visuals and queries."
+                    },
+                    {
+                        "questions": "Explain how you would implement row-level security (RLS) in Power BI.",
+                        "answer": "I would implement RLS by creating roles in Power BI Desktop and assigning users to those roles. I would then define DAX filters to restrict access to specific data based on the user's role."
+                    }
+                ],
+                "hard": [
+                    {
+                        "questions": "How would you design a Power BI solution to handle real-time data from multiple sources, such as APIs, SQL Server, and streaming data?",
+                        "answer": "I would use a combination of Power BI DirectQuery for real-time data sources like SQL Server, Power BI Streaming Datasets for streaming data, and Power BI Dataflows to transform and combine data from various APIs. I would also use Azure Stream Analytics to process and aggregate the streaming data before loading it into Power BI."
+                    },
+                    {
+                        "questions": "Describe a complex DAX formula you have written and explain its purpose and functionality.",
+                        "answer": "I created a DAX formula to calculate the cumulative sales for each product over time, using the CALCULATE, FILTER, and ALL functions. The formula dynamically adjusts the sales amount based on the selected date range, allowing users to analyze sales trends over time. The formula is complex because it handles multiple date filters and calculates the cumulative sales for each product individually."
+                    },
+                    {
+                        "questions": "How would you troubleshoot a situation where a Power BI report is showing incorrect data, and you suspect the issue is with the data model or ETL process?",
+                        "answer": "I would first validate the data in the source systems to ensure it is accurate. Then, I would examine the ETL process to identify any data transformation errors or inconsistencies. I would also review the data model relationships and DAX formulas to ensure they are correctly implemented. Finally, I would use Power BI's data profiling tools to identify any data quality issues."
+                    }
+                ]
+            }
+        }
+    }
+}
