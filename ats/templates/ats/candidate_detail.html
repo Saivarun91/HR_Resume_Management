@@ -523,9 +523,27 @@
             border-radius: 0 0 8px 8px;
             margin-top: 0.5rem;
         }
+        @media print {
+            .download-section,
+            .download-btn,
+            #save-feedback,
+            .rating-stars,
+            textarea {
+                display: none !important;
+            }
+        
+            body {
+                background: white !important;
+            }
+        
+            .container {
+                box-shadow: none !important;
+                background: white !important;
+            }
+        }
+        
     </style>
-    <!-- Include html2pdf library -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+   
 </head>
 <body>
 <div class="container">
@@ -730,6 +748,7 @@
 
 <!-- Replace your existing download script with the one below -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+
 <script>
     document.addEventListener('DOMContentLoaded', function () {
         // Collapsible Q&A
@@ -746,7 +765,7 @@
         document.querySelectorAll('.rating-stars').forEach(group => {
             const stars = group.querySelectorAll('.rating-star');
             const input = group.parentElement.querySelector('input[type="hidden"]');
-            stars.forEach(star => {
+            stars.forEach((star, index) => {
                 star.addEventListener('click', function () {
                     const val = parseInt(this.dataset.value);
                     stars.forEach((s, i) => s.classList.toggle('active', i < val));
@@ -760,32 +779,13 @@
             alert('Evaluation saved successfully!');
         });
 
-        // Download as styled PDF
+        // Print instead of downloading
         document.getElementById('download-pdf').addEventListener('click', function () {
-            const element = document.querySelector('.container');
-            const name = document.querySelector('.info-value')?.textContent?.trim().replace(/\s+/g, '_') || 'Candidate';
-            const opt = {
-                margin: 0,
-                filename: `Candidate_Report_${name}.pdf`,
-                image: { type: 'jpeg', quality: 0.98 },
-                html2canvas: {
-                    scale: 2,
-                    useCORS: true,
-                    allowTaint: true
-                },
-                jsPDF: { unit: 'mm', format: 'a3', orientation: 'portrait' }
-            };
-
-            this.innerHTML = '<span class="download-icon">⏳</span> Generating...';
-            this.disabled = true;
-
-            html2pdf().set(opt).from(element).save().then(() => {
-                this.innerHTML = '<span class="download-icon">⬇️</span> Download Full Report';
-                this.disabled = false;
-            });
+            window.print();
         });
     });
 </script>
+
 
 
 </body>
