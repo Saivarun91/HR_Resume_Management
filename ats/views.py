@@ -43,7 +43,7 @@ def dashboard(request):
         upload_folder = get_upload_folder(main_user_folder)
         jd = request.FILES.get('jd')
         resumes = request.FILES.getlist('resumes')
-        RELEVANCE_THRESHOLD = 60
+        RELEVANCE_THRESHOLD = int(request.POST.get('relevance_threshold', 40))
 
         if not jd or not resumes:
             return render(request, "ats/dashboard.html", {
